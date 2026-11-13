@@ -1,0 +1,68 @@
+{
+ "lang": "pt",
+ "title": "ICP reverso",
+ "subtitle": "Quem de fato compra, paga mais e fica: o cliente ideal segundo os dados",
+ "eyebrow": "CARRATU GROWTH KIT · ICP REVERSO",
+ "client_name": "Acme Software (empresa fictícia)",
+ "date": "2026-11-12",
+ "file_prefix": "exemplo-icp-reverso",
+ "score": {"value": 62, "label": "Aderência do pipeline ao ICP", "confidence": 90,
+  "verdict": "O ICP declarado (PMEs de tecnologia) não é o que fecha. 38% do valor em aberto está em perfil C."},
+ "kpis": [
+  {"label": "Negócios fechados", "value": "888", "note": "104 ganhos · 2 anos"},
+  {"label": "Win rate da base", "value": "12%"},
+  {"label": "Win rate Tier A", "value": "41%", "note": "vs 5% no Tier C", "status": "pass"},
+  {"label": "Pipeline em Tier C", "value": "38%", "note": "R$ 1,4 mi", "status": "fail"},
+  {"label": "Empresas 1-50", "value": "5%", "note": "win rate · churn 40%", "status": "fail"},
+  {"label": "Empresas 201-1000", "value": "17%", "note": "win rate · churn 6%", "status": "pass"},
+  {"label": "Decisor analista", "value": "5%", "note": "win rate", "status": "fail"},
+  {"label": "Indicação", "value": "19%", "note": "win rate · ciclo 34 dias", "status": "pass"}
+ ],
+ "executive_summary": "Em 888 negócios fechados nos últimos dois anos, o cliente que mais gera receita **não é a PME de tecnologia** descrita como ICP. Tecnologia tem win rate de 7%, abaixo da média de 12%, e empresas de 1 a 50 funcionários fecham só 5% das vezes, com ticket de R$ 8,6 mil e 40% de cancelamento entre os clientes atuais.\n\nO ICP real é a **empresa de 51 a 1000 funcionários que já usa ERP (SAP, TOTVS ou Senior), com a decisão no RH ou em T&D**, e que chega por indicação ou busca orgânica. Esse perfil (Tier A no modelo) ganha 41% das vezes, contra 5% do Tier C.\n\nO problema imediato: **38% do valor em aberto (R$ 1,4 milhão) está em perfil C**. É tempo do time comercial em negócios com baixa chance.",
+ "top_priorities": [
+  "Redefinir o ICP oficial: empresas de 51 a 1000 funcionários com ERP, decisão no RH/T&D, e comunicar ao marketing e ao comercial com o modelo de pontuação.",
+  "Desqualificar cedo o perfil C: empresas de 1 a 50 funcionários sem ERP e negociações conduzidas só por analista ou TI saem do funil ativo ou vão para um fluxo de baixo toque.",
+  "Levar mídia e outbound para o perfil A: Google Ads, LinkedIn Ads e Outbound têm índice abaixo de 0,6; Indicação (2,3) e Orgânico (1,7) trazem o perfil certo."
+ ],
+ "biggest_strength": "Quando o perfil é certo, a Acme vence: o Tier A fecha 41% das oportunidades e as empresas de 201 a 1000 funcionários têm o menor churn da base (6%). Há um cliente ideal claro; falta focar nele.",
+ "context": {"business": "Software B2B de educação corporativa (exemplo fictício)", "icp": "Declarado: pequenas e médias empresas de tecnologia", "goal": "Validar o ICP e reorientar marketing e vendas", "period": "nov/2024 a nov/2026"},
+ "data_sources": ["Export do CRM: 1.100 negócios, 888 fechados, com ERP do cliente e cargo do decisor (dados sintéticos)", "Base de clientes: 104 clientes com status ativo/cancelado e MRR"],
+ "sections": [
+  {"title": "O ICP real em uma página", "page_break_before": true, "blocks": [
+   {"type": "table", "header": ["Dimensão", "ICP real (Tier A)", "Não é ICP (Tier C)"], "widths": [3.5, 7, 6.5], "rows": [
+    ["Porte", "51 a 1000 funcionários (201-1000: índice 1,51, sig.)", "1 a 50 funcionários (índice 0,21, sig.)"],
+    ["Contexto tecnológico", "Já usa ERP: SAP (1,54, sig.), TOTVS, Senior", "Planilha ou nenhum sistema (0,49, sig.)"],
+    ["Quem decide", "Diretoria de RH (sig.) ou Gerência de T&D", "Analista (0,42, sig.) ou TI (0,66, sig.)"],
+    ["Por onde chega", "Indicação (2,34, sig.) e Orgânico (1,69, sig.)", "Google Ads, LinkedIn Ads e Outbound (abaixo de 0,6)"],
+    ["Segmento", "Sem diferença comprovada; Educação é o único com win rate acima da média com significância", "Tecnologia e Varejo abaixo da média, sem significância"],
+    ["Gatilho de compra", "A validar com o time: crescimento de quadro, auditoria de compliance, troca de ERP", "Curiosidade sem projeto ou orçamento"]
+   ]},
+   {"type": "callout", "heading": "Declarado vs real", "text": "O time persegue PMEs de tecnologia porque se parecem com a própria Acme. Os dados mostram outro cliente: a empresa média e estruturada, que já tem ERP e um RH com mandato de treinamento. Tecnologia não é ruim; só não é diferente da média, e o porte pequeno é o que derruba o resultado."},
+   {"type": "bullets", "items": [
+    "**Cuidado com Financeiro**: tem o maior índice entre os segmentos (1,51), mas sem significância e com 24% de churn entre 17 clientes. Ganha fácil, perde depois: investigar antes de priorizar.",
+    "**1000+ funcionários** tem o maior ticket (R$ 47 mil) e nenhum cancelamento entre 10 clientes, mas só 91 negócios fechados e win rate na média. É aposta para ABM, não para volume.",
+    "**Porte e ERP andam juntos**: parte do efeito do SAP é efeito de porte. Use os dois no modelo, mas não conte duas vezes na narrativa comercial."
+   ]}
+  ]}
+ ],
+ "recommendations": [
+  {"priority": "Crítica", "issue": "Oficializar o ICP real e o modelo de pontuação no CRM", "how": "Importar icp_scoring.csv como pontuação de empresa; Tier A recebe SLA de 24h e vendedor sênior.", "effort": "Baixo", "impact": "Alto", "owner": "RevOps"},
+  {"priority": "Crítica", "issue": "Revisar os 113 negócios abertos em Tier C", "how": "R$ 1,4 mi em aberto: requalificar com o critério novo; o que não passar vai para nutrição de baixo toque.", "effort": "Baixo", "impact": "Alto", "owner": "Vendas"},
+  {"priority": "Alta", "issue": "Critério de saída para perfil C no início do funil", "how": "Empresa de 1 a 50 sem ERP ou conversa só com analista não avança para Diagnóstico sem um decisor de RH.", "effort": "Baixo", "impact": "Alto", "owner": "Vendas"},
+  {"priority": "Alta", "issue": "Reorientar mídia paga e outbound", "how": "Segmentar por porte 51-1000 e cargo RH/T&D; lista de contas com ERP para outbound (ver carratu-abm-plays).", "effort": "Médio", "impact": "Alto", "owner": "Marketing"},
+  {"priority": "Ganho rápido", "issue": "Programa de indicação focado no perfil A", "how": "Pedir indicação aos clientes de 201-1000 funcionários, que têm menor churn e indicam pares.", "effort": "Baixo", "impact": "Médio", "owner": "CS"},
+  {"priority": "Média", "issue": "Investigar churn em Financeiro e em contas pequenas", "how": "Entrevistar 5 cancelados de cada grupo para separar problema de fit de problema de onboarding.", "effort": "Médio", "impact": "Médio", "owner": "CS"}
+ ],
+ "action_plan": {
+  "30": ["ICP oficial publicado e pontuação no CRM", "Revisão dos negócios Tier C em aberto", "Critério de saída no funil"],
+  "60": ["Campanhas de mídia segmentadas por porte e cargo", "Lista de contas ABM com ERP", "Programa de indicação no ar"],
+  "90": ["Medir win rate dos negócios novos por tier (validação fora da amostra)", "Rodar de novo o diagnóstico de funil comparando Tier A vs C"]
+ },
+ "limitations": [
+  "A validação do modelo (41% vs 5%) é dentro da amostra: mostra que ele separa, não que prevê. A prova é o pipeline dos próximos 90 dias.",
+  "Gatilhos de compra não estão no CRM: a ficha traz hipóteses a validar em entrevistas com clientes ganhos.",
+  "Dados sintéticos: este relatório é um exemplo do formato e da metodologia, não descreve uma empresa real."
+ ],
+ "methodology": "Negócios fechados em 24 meses. Índice ICP = (win rate ÷ base) × (ticket ÷ base) × √(ciclo base ÷ ciclo), encolhido para 1 com k = 12 (atributos) e 24 (combinações). (sig.) quando o IC de Wilson 95% do win rate exclui a média. Aderência do pipeline = parcela do valor aberto em Tier A ou B pelo modelo de pontuação.",
+ "onepager_summary": "O ICP declarado (PMEs de tecnologia) não é o que fecha. O cliente real é a empresa de 51 a 1000 funcionários com ERP e decisão no RH, que fecha 41% das vezes contra 5% do perfil oposto. Hoje, 38% do pipeline aberto está nesse perfil oposto."
+}

@@ -1,0 +1,33 @@
+atributo,valor,pontos,fechados,indice
+Segmento,Financeiro,10,113,1.51
+Segmento,Saúde,6,127,1.26
+Segmento,Educação,3,113,1.12
+Segmento,Indústria,1,123,1.03
+Segmento,Tecnologia,-5,161,0.81
+Segmento,Serviços,-8,109,0.72
+Segmento,Varejo,-9,142,0.71
+Porte,1000+,19,91,2.10
+Porte,201-1000,10,205,1.51
+Porte,51-200,1,289,1.04
+Porte,1-50,-39,303,0.21
+Região,Centro-Oeste,10,75,1.50
+Região,Sudeste,5,410,1.20
+Região,Nordeste,-5,153,0.81
+Região,Sul,-8,175,0.72
+Região,Norte,-12,75,0.61
+Origem,Indicação,21,119,2.34
+Origem,Orgânico (SEO),13,179,1.69
+Origem,Eventos,-11,106,0.65
+Origem,Outbound,-15,165,0.55
+Origem,LinkedIn Ads,-19,123,0.47
+Origem,Google Ads,-19,196,0.46
+ERP do cliente,SAP,11,134,1.54
+ERP do cliente,TOTVS,7,198,1.34
+ERP do cliente,Senior,7,133,1.33
+ERP do cliente,Outro,-14,200,0.58
+ERP do cliente,Planilha / nenhum,-18,223,0.49
+Cargo do decisor,Gerente de T&D,7,171,1.33
+Cargo do decisor,Diretor(a) de RH,7,187,1.30
+Cargo do decisor,CEO / Sócio,3,223,1.13
+Cargo do decisor,TI,-10,90,0.66
+Cargo do decisor,Analista,-22,217,0.42

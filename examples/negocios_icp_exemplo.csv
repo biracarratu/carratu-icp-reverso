@@ -1,0 +1,1101 @@
+ID,Negócio,Empresa,Criado em,Fechado em,Status,Etapa,Valor (R$),Origem,Setor,Porte,Região,ERP do cliente,Cargo do decisor
+1,Empresa 0001 · Varejo,Empresa 0001,2025-02-01,2025-04-03,Perdido,Perdido,8100.0,LinkedIn Ads,Varejo,51-200,Centro-Oeste,Senior,CEO / Sócio
+2,Empresa 0002 · Serviços,Empresa 0002,2025-05-15,2025-09-10,Perdido,Perdido,18200.0,LinkedIn Ads,Serviços,51-200,Sul,Senior,Analista
+3,Empresa 0003 · Educação,Empresa 0003,2026-08-14,2026-09-20,Perdido,Perdido,6300.0,Indicação,Educação,1-50,Sudeste,TOTVS,Analista
+4,Empresa 0004 · Tecnologia,Empresa 0004,2024-11-12,2024-12-17,Perdido,Perdido,24300.0,LinkedIn Ads,Tecnologia,51-200,Centro-Oeste,Outro,Analista
+5,Empresa 0005 · Saúde,Empresa 0005,2025-04-14,2025-06-08,Aberto,Proposta,11200.0,Outbound,Saúde,1-50,Norte,TOTVS,Gerente de T&D
+6,Empresa 0006 · Saúde,Empresa 0006,2026-04-06,2026-04-25,Perdido,Perdido,4100.0,LinkedIn Ads,Saúde,51-200,Sudeste,TOTVS,Gerente de T&D
+7,Empresa 0007 · Educação,Empresa 0007,2025-01-25,2025-03-10,Perdido,Perdido,8800.0,Google Ads,Educação,51-200,Sudeste,Outro,Gerente de T&D
+8,Empresa 0008 · Varejo,Empresa 0008,2026-04-27,2026-05-22,Perdido,Perdido,18500.0,Orgânico (SEO),Varejo,51-200,Centro-Oeste,TOTVS,TI
+9,Empresa 0009 · Varejo,Empresa 0009,2025-09-03,2025-11-24,Perdido,Perdido,10000.0,Indicação,Varejo,1-50,Sudeste,Senior,Gerente de T&D
+10,Empresa 0010 · Saúde,Empresa 0010,2026-10-22,2026-11-20,Aberto,Proposta,12700.0,Outbound,Saúde,1-50,Sul,Planilha / nenhum,Gerente de T&D
+11,Empresa 0011 · Saúde,Empresa 0011,2025-03-19,2025-04-15,Perdido,Perdido,12500.0,Google Ads,Saúde,1-50,Sudeste,TOTVS,Gerente de T&D
+12,Empresa 0012 · Saúde,Empresa 0012,2025-11-23,2026-01-22,Aberto,Proposta,10400.0,Indicação,Saúde,1-50,Sudeste,Senior,Gerente de T&D
+13,Empresa 0013 · Tecnologia,Empresa 0013,2026-08-26,2026-10-25,Aberto,Proposta,31600.0,Google Ads,Tecnologia,1000+,Sudeste,TOTVS,Analista
+14,Empresa 0014 · Varejo,Empresa 0014,2025-05-30,2025-06-17,Perdido,Perdido,7900.0,Outbound,Varejo,1-50,Norte,Senior,CEO / Sócio
+15,Empresa 0015 · Varejo,Empresa 0015,2026-05-18,2026-08-23,Aberto,Proposta,15900.0,Orgânico (SEO),Varejo,51-200,Centro-Oeste,TOTVS,Gerente de T&D
+16,Empresa 0016 · Serviços,Empresa 0016,2025-12-18,2026-01-07,Perdido,Perdido,5900.0,Orgânico (SEO),Serviços,1-50,Nordeste,Senior,Analista
+17,Empresa 0017 · Saúde,Empresa 0017,2025-05-24,2025-07-18,Perdido,Perdido,60400.0,Indicação,Saúde,1000+,Nordeste,Senior,TI
+18,Empresa 0018 · Saúde,Empresa 0018,2026-10-19,2026-12-15,Aberto,Proposta,4200.0,Indicação,Saúde,1-50,Centro-Oeste,Planilha / nenhum,CEO / Sócio
+19,Empresa 0019 · Saúde,Empresa 0019,2025-01-06,2025-03-13,Ganho,Ganho,22000.0,Orgânico (SEO),Saúde,201-1000,Sudeste,TOTVS,CEO / Sócio
+20,Empresa 0020 · Tecnologia,Empresa 0020,2025-06-13,2025-08-12,Perdido,Perdido,38000.0,Indicação,Tecnologia,201-1000,Sul,TOTVS,Analista
+21,Empresa 0021 · Saúde,Empresa 0021,2025-04-04,2025-06-28,Perdido,Perdido,66400.0,Orgânico (SEO),Saúde,1000+,Nordeste,Senior,CEO / Sócio
+22,Empresa 0022 · Serviços,Empresa 0022,2026-08-10,2026-12-04,Aberto,Proposta,5300.0,Outbound,Serviços,1-50,Centro-Oeste,Outro,Diretor(a) de RH
+23,Empresa 0023 · Saúde,Empresa 0023,2026-09-03,2026-10-31,Perdido,Perdido,23300.0,LinkedIn Ads,Saúde,51-200,Sudeste,Senior,Gerente de T&D
+24,Empresa 0024 · Varejo,Empresa 0024,2024-12-02,2025-01-07,Perdido,Perdido,69700.0,Google Ads,Varejo,1000+,Centro-Oeste,Planilha / nenhum,CEO / Sócio
+25,Empresa 0025 · Indústria,Empresa 0025,2025-03-31,2025-05-22,Ganho,Ganho,28600.0,Google Ads,Indústria,51-200,Centro-Oeste,SAP,Gerente de T&D
+26,Empresa 0026 · Saúde,Empresa 0026,2025-09-20,2025-11-22,Perdido,Perdido,26800.0,Eventos,Saúde,1000+,Sul,TOTVS,Diretor(a) de RH
+27,Empresa 0027 · Serviços,Empresa 0027,2025-12-13,2026-02-28,Perdido,Perdido,6800.0,Orgânico (SEO),Serviços,51-200,Sudeste,Planilha / nenhum,TI
+28,Empresa 0028 · Tecnologia,Empresa 0028,2025-02-15,2025-03-15,Perdido,Perdido,24000.0,Outbound,Tecnologia,51-200,Nordeste,Outro,Diretor(a) de RH
+29,Empresa 0029 · Tecnologia,Empresa 0029,2025-12-20,2026-02-17,Perdido,Perdido,21000.0,Orgânico (SEO),Tecnologia,51-200,Centro-Oeste,Planilha / nenhum,Analista
+30,Empresa 0030 · Saúde,Empresa 0030,2026-10-20,2026-11-24,Aberto,Proposta,8300.0,Eventos,Saúde,51-200,Sudeste,Senior,Analista
+31,Empresa 0031 · Serviços,Empresa 0031,2026-08-27,2026-12-06,Aberto,Proposta,41500.0,Google Ads,Serviços,1000+,Sudeste,Planilha / nenhum,CEO / Sócio
+32,Empresa 0032 · Varejo,Empresa 0032,2025-12-08,2026-01-21,Ganho,Ganho,11800.0,Orgânico (SEO),Varejo,51-200,Sul,TOTVS,Gerente de T&D
+33,Empresa 0033 · Saúde,Empresa 0033,2026-10-23,2026-12-28,Aberto,Proposta,9200.0,LinkedIn Ads,Saúde,1-50,Sudeste,SAP,TI
+34,Empresa 0034 · Tecnologia,Empresa 0034,2025-09-18,2025-10-12,Perdido,Perdido,50000.0,LinkedIn Ads,Tecnologia,201-1000,Sul,Planilha / nenhum,CEO / Sócio
+35,Empresa 0035 · Educação,Empresa 0035,2025-09-18,2025-11-18,Perdido,Perdido,6000.0,Outbound,Educação,1-50,Sudeste,SAP,Diretor(a) de RH
+36,Empresa 0036 · Tecnologia,Empresa 0036,2026-09-17,2026-11-20,Aberto,Proposta,15600.0,Indicação,Tecnologia,201-1000,Norte,Planilha / nenhum,Analista
+37,Empresa 0037 · Saúde,Empresa 0037,2026-08-21,2026-10-29,Aberto,Proposta,14800.0,Google Ads,Saúde,1-50,Centro-Oeste,Senior,TI
+38,Empresa 0038 · Serviços,Empresa 0038,2025-03-05,2025-04-22,Perdido,Perdido,6500.0,Orgânico (SEO),Serviços,1-50,Sul,Senior,CEO / Sócio
+39,Empresa 0039 · Indústria,Empresa 0039,2026-09-14,2027-01-19,Aberto,Proposta,17100.0,Outbound,Indústria,201-1000,Sudeste,Planilha / nenhum,CEO / Sócio
+40,Empresa 0040 · Indústria,Empresa 0040,2026-09-22,2026-12-08,Aberto,Proposta,9700.0,Outbound,Indústria,201-1000,Sudeste,TOTVS,Analista
+41,Empresa 0041 · Serviços,Empresa 0041,2026-09-15,2026-10-22,Perdido,Perdido,6800.0,Orgânico (SEO),Serviços,1-50,Norte,Planilha / nenhum,Diretor(a) de RH
+42,Empresa 0042 · Indústria,Empresa 0042,2026-06-29,2026-08-27,Aberto,Proposta,9000.0,LinkedIn Ads,Indústria,51-200,Nordeste,Planilha / nenhum,Analista
+43,Empresa 0043 · Varejo,Empresa 0043,2026-03-07,2026-05-06,Aberto,Proposta,15300.0,Google Ads,Varejo,201-1000,Sudeste,Planilha / nenhum,Analista
+44,Empresa 0044 · Educação,Empresa 0044,2024-12-15,2025-01-23,Aberto,Proposta,10600.0,Indicação,Educação,201-1000,Sul,SAP,Diretor(a) de RH
+45,Empresa 0045 · Varejo,Empresa 0045,2026-04-03,2026-05-06,Perdido,Perdido,11100.0,Outbound,Varejo,1-50,Sudeste,Outro,Diretor(a) de RH
+46,Empresa 0046 · Tecnologia,Empresa 0046,2025-07-22,2025-08-09,Perdido,Perdido,17700.0,Outbound,Tecnologia,51-200,Sudeste,Outro,Diretor(a) de RH
+47,Empresa 0047 · Tecnologia,Empresa 0047,2026-01-22,2026-04-10,Aberto,Proposta,13000.0,Google Ads,Tecnologia,1-50,Sudeste,TOTVS,Gerente de T&D
+48,Empresa 0048 · Tecnologia,Empresa 0048,2025-12-17,2026-01-07,Perdido,Perdido,18700.0,Eventos,Tecnologia,51-200,Centro-Oeste,Outro,CEO / Sócio
+49,Empresa 0049 · Tecnologia,Empresa 0049,2026-06-02,2026-10-02,Perdido,Perdido,6200.0,Google Ads,Tecnologia,1-50,Nordeste,Planilha / nenhum,Analista
+50,Empresa 0050 · Financeiro,Empresa 0050,2026-09-03,2026-10-20,Perdido,Perdido,13300.0,Google Ads,Financeiro,1-50,Sul,Planilha / nenhum,TI
+51,Empresa 0051 · Saúde,Empresa 0051,2025-06-25,2025-09-03,Perdido,Perdido,6900.0,Google Ads,Saúde,1-50,Sudeste,TOTVS,Analista
+52,Empresa 0052 · Serviços,Empresa 0052,2024-12-25,2025-01-21,Perdido,Perdido,36800.0,Google Ads,Serviços,201-1000,Sul,Planilha / nenhum,Analista
+53,Empresa 0053 · Financeiro,Empresa 0053,2024-12-07,2025-01-13,Perdido,Perdido,3600.0,Eventos,Financeiro,1-50,Sudeste,Outro,Gerente de T&D
+54,Empresa 0054 · Saúde,Empresa 0054,2025-03-19,2025-05-01,Perdido,Perdido,4500.0,Google Ads,Saúde,1-50,Sudeste,Planilha / nenhum,Diretor(a) de RH
+55,Empresa 0055 · Indústria,Empresa 0055,2025-12-23,2026-02-21,Perdido,Perdido,5800.0,Google Ads,Indústria,51-200,Sul,Senior,Analista
+56,Empresa 0056 · Varejo,Empresa 0056,2026-06-23,2026-11-28,Aberto,Proposta,31500.0,Outbound,Varejo,1000+,Nordeste,TOTVS,Analista
+57,Empresa 0057 · Tecnologia,Empresa 0057,2025-09-02,2025-10-09,Perdido,Perdido,20300.0,Indicação,Tecnologia,201-1000,Nordeste,Outro,Analista
+58,Empresa 0058 · Tecnologia,Empresa 0058,2024-11-04,2024-12-29,Ganho,Ganho,8600.0,Eventos,Tecnologia,51-200,Sul,SAP,CEO / Sócio
+59,Empresa 0059 · Varejo,Empresa 0059,2025-09-10,2025-10-24,Perdido,Perdido,7000.0,Orgânico (SEO),Varejo,1-50,Sudeste,Planilha / nenhum,Analista
+60,Empresa 0060 · Saúde,Empresa 0060,2025-07-23,2025-10-27,Perdido,Perdido,5100.0,Outbound,Saúde,1-50,Sul,SAP,Analista
+61,Empresa 0061 · Tecnologia,Empresa 0061,2025-02-15,2025-04-02,Aberto,Proposta,34400.0,Indicação,Tecnologia,51-200,Sudeste,Planilha / nenhum,Analista
+62,Empresa 0062 · Financeiro,Empresa 0062,2026-01-31,2026-03-10,Perdido,Perdido,9600.0,Google Ads,Financeiro,1-50,Sudeste,SAP,Diretor(a) de RH
+63,Empresa 0063 · Educação,Empresa 0063,2026-08-07,2026-10-05,Perdido,Perdido,13900.0,Outbound,Educação,1-50,Nordeste,TOTVS,CEO / Sócio
+64,Empresa 0064 · Educação,Empresa 0064,2025-12-17,2026-02-12,Perdido,Perdido,11600.0,Google Ads,Educação,1-50,Nordeste,Outro,CEO / Sócio
+65,Empresa 0065 · Indústria,Empresa 0065,2025-05-05,2025-06-28,Perdido,Perdido,8100.0,Google Ads,Indústria,1-50,Sudeste,Planilha / nenhum,Analista
+66,Empresa 0066 · Varejo,Empresa 0066,2026-03-02,2026-04-22,Ganho,Ganho,16600.0,Orgânico (SEO),Varejo,201-1000,Centro-Oeste,Outro,CEO / Sócio
+67,Empresa 0067 · Serviços,Empresa 0067,2025-11-30,2026-02-14,Perdido,Perdido,4900.0,Orgânico (SEO),Serviços,51-200,Nordeste,Planilha / nenhum,CEO / Sócio
+68,Empresa 0068 · Educação,Empresa 0068,2024-12-20,2025-04-16,Perdido,Perdido,15900.0,Orgânico (SEO),Educação,51-200,Centro-Oeste,Senior,Diretor(a) de RH
+69,Empresa 0069 · Educação,Empresa 0069,2026-03-03,2026-04-30,Ganho,Ganho,11600.0,Google Ads,Educação,51-200,Sudeste,TOTVS,CEO / Sócio
+70,Empresa 0070 · Serviços,Empresa 0070,2025-06-28,2025-09-25,Perdido,Perdido,29800.0,LinkedIn Ads,Serviços,51-200,Sul,Planilha / nenhum,Analista
+71,Empresa 0071 · Serviços,Empresa 0071,2025-08-21,2025-11-08,Perdido,Perdido,4900.0,LinkedIn Ads,Serviços,1-50,Sul,TOTVS,TI
+72,Empresa 0072 · Saúde,Empresa 0072,2026-03-08,2026-05-31,Aberto,Proposta,11600.0,Google Ads,Saúde,1-50,Sudeste,SAP,Diretor(a) de RH
+73,Empresa 0073 · Saúde,Empresa 0073,2025-09-02,2025-11-02,Perdido,Perdido,54100.0,Google Ads,Saúde,1000+,Norte,Outro,CEO / Sócio
+74,Empresa 0074 · Varejo,Empresa 0074,2025-11-07,2026-02-05,Perdido,Perdido,52000.0,Orgânico (SEO),Varejo,1000+,Sudeste,SAP,Gerente de T&D
+75,Empresa 0075 · Financeiro,Empresa 0075,2026-09-08,2026-09-30,Perdido,Perdido,18100.0,Outbound,Financeiro,1-50,Nordeste,Outro,Gerente de T&D
+76,Empresa 0076 · Tecnologia,Empresa 0076,2026-01-31,2026-09-09,Perdido,Perdido,44800.0,Google Ads,Tecnologia,1000+,Sudeste,TOTVS,Analista
+77,Empresa 0077 · Varejo,Empresa 0077,2024-12-27,2025-01-21,Perdido,Perdido,5300.0,Orgânico (SEO),Varejo,1-50,Sudeste,Planilha / nenhum,Diretor(a) de RH
+78,Empresa 0078 · Varejo,Empresa 0078,2026-08-21,2026-11-01,Ganho,Ganho,44200.0,Orgânico (SEO),Varejo,1000+,Centro-Oeste,TOTVS,Diretor(a) de RH
+79,Empresa 0079 · Educação,Empresa 0079,2026-05-01,2026-05-12,Ganho,Ganho,14700.0,Orgânico (SEO),Educação,201-1000,Sudeste,Planilha / nenhum,Gerente de T&D
+80,Empresa 0080 · Financeiro,Empresa 0080,2026-05-22,2026-06-10,Perdido,Perdido,14200.0,Orgânico (SEO),Financeiro,51-200,Sudeste,Outro,CEO / Sócio
+81,Empresa 0081 · Tecnologia,Empresa 0081,2024-11-06,2024-12-06,Aberto,Proposta,17000.0,Google Ads,Tecnologia,201-1000,Sudeste,Outro,CEO / Sócio
+82,Empresa 0082 · Educação,Empresa 0082,2025-04-30,2025-06-28,Ganho,Ganho,15200.0,LinkedIn Ads,Educação,1-50,Sul,Senior,Gerente de T&D
+83,Empresa 0083 · Tecnologia,Empresa 0083,2026-02-26,2026-03-16,Perdido,Perdido,21700.0,Outbound,Tecnologia,201-1000,Nordeste,Senior,Analista
+84,Empresa 0084 · Varejo,Empresa 0084,2026-09-28,2026-12-09,Aberto,Proposta,8100.0,Eventos,Varejo,51-200,Sudeste,TOTVS,CEO / Sócio
+85,Empresa 0085 · Financeiro,Empresa 0085,2026-02-21,2026-03-14,Ganho,Ganho,16900.0,Indicação,Financeiro,51-200,Sudeste,Outro,Analista
+86,Empresa 0086 · Serviços,Empresa 0086,2025-03-13,2025-06-28,Perdido,Perdido,53100.0,Orgânico (SEO),Serviços,1000+,Sudeste,Planilha / nenhum,TI
+87,Empresa 0087 · Varejo,Empresa 0087,2025-07-12,2025-08-16,Perdido,Perdido,9900.0,Outbound,Varejo,1-50,Nordeste,Senior,CEO / Sócio
+88,Empresa 0088 · Financeiro,Empresa 0088,2025-10-01,2025-11-07,Perdido,Perdido,5300.0,LinkedIn Ads,Financeiro,1-50,Nordeste,SAP,Diretor(a) de RH
+89,Empresa 0089 · Tecnologia,Empresa 0089,2025-10-13,2025-11-22,Ganho,Ganho,16400.0,Orgânico (SEO),Tecnologia,201-1000,Sudeste,Outro,Diretor(a) de RH
+90,Empresa 0090 · Saúde,Empresa 0090,2024-11-14,2025-01-06,Perdido,Perdido,8800.0,Indicação,Saúde,1-50,Sul,SAP,CEO / Sócio
+91,Empresa 0091 · Tecnologia,Empresa 0091,2025-02-20,2025-03-24,Perdido,Perdido,8200.0,Orgânico (SEO),Tecnologia,51-200,Sudeste,Senior,Gerente de T&D
+92,Empresa 0092 · Tecnologia,Empresa 0092,2025-10-20,2025-12-02,Perdido,Perdido,53800.0,Google Ads,Tecnologia,1000+,Sudeste,Outro,Gerente de T&D
+93,Empresa 0093 · Saúde,Empresa 0093,2026-05-21,2026-07-11,Perdido,Perdido,13300.0,Google Ads,Saúde,51-200,Sudeste,SAP,Diretor(a) de RH
+94,Empresa 0094 · Tecnologia,Empresa 0094,2025-03-18,2025-04-27,Aberto,Proposta,10100.0,Outbound,Tecnologia,51-200,Sudeste,SAP,TI
+95,Empresa 0095 · Saúde,Empresa 0095,2025-02-15,2025-03-17,Perdido,Perdido,9700.0,Google Ads,Saúde,51-200,Centro-Oeste,SAP,Analista
+96,Empresa 0096 · Saúde,Empresa 0096,2025-10-09,2025-10-24,Perdido,Perdido,8000.0,Google Ads,Saúde,1-50,Sul,TOTVS,Diretor(a) de RH
+97,Empresa 0097 · Serviços,Empresa 0097,2025-06-20,2025-10-25,Perdido,Perdido,6600.0,Orgânico (SEO),Serviços,1-50,Sudeste,Planilha / nenhum,Gerente de T&D
+98,Empresa 0098 · Indústria,Empresa 0098,2026-05-31,2026-06-20,Perdido,Perdido,14700.0,Indicação,Indústria,201-1000,Sudeste,TOTVS,Analista
+99,Empresa 0099 · Financeiro,Empresa 0099,2026-07-01,2026-10-03,Perdido,Perdido,12800.0,Orgânico (SEO),Financeiro,201-1000,Sul,TOTVS,Gerente de T&D
+100,Empresa 0100 · Tecnologia,Empresa 0100,2025-09-27,2025-10-29,Perdido,Perdido,13100.0,Indicação,Tecnologia,51-200,Nordeste,Planilha / nenhum,CEO / Sócio
+101,Empresa 0101 · Tecnologia,Empresa 0101,2024-11-14,2024-12-03,Perdido,Perdido,8000.0,Outbound,Tecnologia,1-50,Sudeste,Outro,Analista
+102,Empresa 0102 · Indústria,Empresa 0102,2026-02-22,2026-05-02,Aberto,Proposta,5700.0,Eventos,Indústria,1-50,Nordeste,Senior,Analista
+103,Empresa 0103 · Saúde,Empresa 0103,2025-05-01,2025-05-14,Perdido,Perdido,21500.0,Indicação,Saúde,201-1000,Sudeste,SAP,Analista
+104,Empresa 0104 · Tecnologia,Empresa 0104,2025-08-12,2025-09-19,Aberto,Proposta,3800.0,Google Ads,Tecnologia,51-200,Sudeste,Planilha / nenhum,Gerente de T&D
+105,Empresa 0105 · Serviços,Empresa 0105,2025-12-13,2026-01-03,Perdido,Perdido,10000.0,Eventos,Serviços,51-200,Sudeste,SAP,CEO / Sócio
+106,Empresa 0106 · Saúde,Empresa 0106,2025-09-09,2025-10-28,Ganho,Ganho,69200.0,Indicação,Saúde,1000+,Sudeste,TOTVS,CEO / Sócio
+107,Empresa 0107 · Educação,Empresa 0107,2026-02-03,2026-02-28,Perdido,Perdido,8100.0,Orgânico (SEO),Educação,1-50,Sudeste,Outro,CEO / Sócio
+108,Empresa 0108 · Educação,Empresa 0108,2025-05-12,2025-10-15,Aberto,Proposta,47000.0,Google Ads,Educação,1000+,Sudeste,Outro,Analista
+109,Empresa 0109 · Serviços,Empresa 0109,2025-06-07,2025-08-03,Perdido,Perdido,8200.0,LinkedIn Ads,Serviços,51-200,Centro-Oeste,Outro,CEO / Sócio
+110,Empresa 0110 · Financeiro,Empresa 0110,2025-04-27,2025-06-04,Perdido,Perdido,14600.0,Indicação,Financeiro,1000+,Sudeste,SAP,Analista
+111,Empresa 0111 · Educação,Empresa 0111,2025-03-25,2025-05-02,Perdido,Perdido,3300.0,Indicação,Educação,1-50,Sudeste,TOTVS,TI
+112,Empresa 0112 · Serviços,Empresa 0112,2025-01-17,2025-02-08,Perdido,Perdido,8700.0,LinkedIn Ads,Serviços,1-50,Sudeste,Outro,Diretor(a) de RH
+113,Empresa 0113 · Varejo,Empresa 0113,2025-10-10,2026-01-17,Perdido,Perdido,31700.0,Orgânico (SEO),Varejo,1000+,Centro-Oeste,Planilha / nenhum,Analista
+114,Empresa 0114 · Varejo,Empresa 0114,2026-02-18,2026-04-12,Perdido,Perdido,13900.0,Indicação,Varejo,51-200,Sudeste,TOTVS,Gerente de T&D
+115,Empresa 0115 · Tecnologia,Empresa 0115,2026-09-02,2026-09-28,Perdido,Perdido,30300.0,Google Ads,Tecnologia,1-50,Norte,TOTVS,Analista
+116,Empresa 0116 · Educação,Empresa 0116,2025-06-23,2025-07-26,Perdido,Perdido,4300.0,Google Ads,Educação,1-50,Sudeste,Outro,Gerente de T&D
+117,Empresa 0117 · Serviços,Empresa 0117,2025-09-07,2025-10-13,Perdido,Perdido,15800.0,LinkedIn Ads,Serviços,201-1000,Sudeste,Outro,TI
+118,Empresa 0118 · Saúde,Empresa 0118,2025-08-23,2025-11-13,Perdido,Perdido,19700.0,Google Ads,Saúde,1000+,Sudeste,Outro,Analista
+119,Empresa 0119 · Indústria,Empresa 0119,2026-02-16,2026-04-21,Aberto,Proposta,4500.0,Outbound,Indústria,1-50,Sudeste,TOTVS,CEO / Sócio
+120,Empresa 0120 · Educação,Empresa 0120,2025-02-18,2025-03-28,Perdido,Perdido,16000.0,Outbound,Educação,201-1000,Centro-Oeste,TOTVS,Diretor(a) de RH
+121,Empresa 0121 · Tecnologia,Empresa 0121,2025-07-30,2025-08-23,Perdido,Perdido,17100.0,Orgânico (SEO),Tecnologia,1-50,Sul,Outro,Gerente de T&D
+122,Empresa 0122 · Indústria,Empresa 0122,2025-10-20,2025-11-11,Perdido,Perdido,14600.0,Google Ads,Indústria,51-200,Sudeste,Planilha / nenhum,Gerente de T&D
+123,Empresa 0123 · Tecnologia,Empresa 0123,2025-10-20,2025-11-08,Perdido,Perdido,13000.0,Google Ads,Tecnologia,201-1000,Sul,TOTVS,Analista
+124,Empresa 0124 · Tecnologia,Empresa 0124,2026-09-06,2026-12-13,Aberto,Proposta,20400.0,Indicação,Tecnologia,201-1000,Sudeste,TOTVS,CEO / Sócio
+125,Empresa 0125 · Saúde,Empresa 0125,2025-06-16,2025-07-14,Perdido,Perdido,8700.0,Google Ads,Saúde,1-50,Norte,Planilha / nenhum,TI
+126,Empresa 0126 · Educação,Empresa 0126,2026-07-08,2026-09-01,Perdido,Perdido,29600.0,Outbound,Educação,51-200,Sul,SAP,Analista
+127,Empresa 0127 · Serviços,Empresa 0127,2026-03-09,2026-04-08,Perdido,Perdido,7700.0,Google Ads,Serviços,1-50,Sudeste,Outro,Analista
+128,Empresa 0128 · Educação,Empresa 0128,2026-07-24,2026-09-29,Perdido,Perdido,10800.0,Orgânico (SEO),Educação,51-200,Sudeste,Senior,CEO / Sócio
+129,Empresa 0129 · Indústria,Empresa 0129,2024-10-14,2025-01-11,Ganho,Ganho,44900.0,Indicação,Indústria,1000+,Nordeste,Outro,Gerente de T&D
+130,Empresa 0130 · Serviços,Empresa 0130,2025-09-04,2025-10-14,Perdido,Perdido,10900.0,Indicação,Serviços,51-200,Centro-Oeste,Senior,Diretor(a) de RH
+131,Empresa 0131 · Indústria,Empresa 0131,2025-08-25,2025-10-24,Perdido,Perdido,9900.0,LinkedIn Ads,Indústria,51-200,Centro-Oeste,SAP,Analista
+132,Empresa 0132 · Financeiro,Empresa 0132,2026-10-05,2026-11-20,Aberto,Proposta,21400.0,LinkedIn Ads,Financeiro,51-200,Sudeste,SAP,Analista
+133,Empresa 0133 · Varejo,Empresa 0133,2026-02-28,2026-04-13,Perdido,Perdido,16700.0,LinkedIn Ads,Varejo,51-200,Nordeste,Planilha / nenhum,Diretor(a) de RH
+134,Empresa 0134 · Indústria,Empresa 0134,2026-02-04,2026-04-06,Perdido,Perdido,4800.0,Google Ads,Indústria,1-50,Sul,Planilha / nenhum,Diretor(a) de RH
+135,Empresa 0135 · Indústria,Empresa 0135,2026-01-19,2026-03-26,Ganho,Ganho,5300.0,Orgânico (SEO),Indústria,1-50,Sudeste,SAP,Diretor(a) de RH
+136,Empresa 0136 · Serviços,Empresa 0136,2026-08-23,2026-09-25,Perdido,Perdido,11000.0,Eventos,Serviços,51-200,Sudeste,Planilha / nenhum,CEO / Sócio
+137,Empresa 0137 · Indústria,Empresa 0137,2025-04-25,2025-07-13,Perdido,Perdido,36900.0,Eventos,Indústria,201-1000,Sudeste,Planilha / nenhum,Analista
+138,Empresa 0138 · Saúde,Empresa 0138,2025-09-16,2025-10-07,Perdido,Perdido,17000.0,LinkedIn Ads,Saúde,201-1000,Sudeste,TOTVS,TI
+139,Empresa 0139 · Varejo,Empresa 0139,2026-04-15,2026-05-01,Perdido,Perdido,11500.0,Outbound,Varejo,201-1000,Sudeste,TOTVS,Analista
+140,Empresa 0140 · Indústria,Empresa 0140,2026-08-07,2026-10-19,Perdido,Perdido,17300.0,LinkedIn Ads,Indústria,51-200,Sul,Planilha / nenhum,Diretor(a) de RH
+141,Empresa 0141 · Educação,Empresa 0141,2025-09-10,2025-10-21,Perdido,Perdido,9000.0,LinkedIn Ads,Educação,1-50,Nordeste,Planilha / nenhum,CEO / Sócio
+142,Empresa 0142 · Tecnologia,Empresa 0142,2026-07-30,2026-09-30,Aberto,Proposta,21000.0,Google Ads,Tecnologia,1-50,Nordeste,Planilha / nenhum,Gerente de T&D
+143,Empresa 0143 · Varejo,Empresa 0143,2024-10-24,2024-12-26,Aberto,Proposta,16900.0,Outbound,Varejo,51-200,Sudeste,Planilha / nenhum,Analista
+144,Empresa 0144 · Financeiro,Empresa 0144,2025-10-04,2025-11-01,Perdido,Perdido,5200.0,Google Ads,Financeiro,1-50,Sudeste,SAP,Gerente de T&D
+145,Empresa 0145 · Tecnologia,Empresa 0145,2026-03-13,2026-05-05,Perdido,Perdido,8100.0,Eventos,Tecnologia,51-200,Nordeste,Planilha / nenhum,Gerente de T&D
+146,Empresa 0146 · Financeiro,Empresa 0146,2025-11-10,2026-01-17,Perdido,Perdido,14700.0,Indicação,Financeiro,201-1000,Centro-Oeste,Senior,CEO / Sócio
+147,Empresa 0147 · Indústria,Empresa 0147,2025-11-10,2026-01-12,Ganho,Ganho,12800.0,Google Ads,Indústria,201-1000,Nordeste,TOTVS,CEO / Sócio
+148,Empresa 0148 · Indústria,Empresa 0148,2026-02-01,2026-08-09,Aberto,Proposta,5800.0,Eventos,Indústria,1-50,Norte,TOTVS,Analista
+149,Empresa 0149 · Educação,Empresa 0149,2025-12-19,2026-02-22,Perdido,Perdido,23000.0,Google Ads,Educação,51-200,Nordeste,Planilha / nenhum,TI
+150,Empresa 0150 · Serviços,Empresa 0150,2026-08-14,2026-12-08,Aberto,Proposta,9500.0,Outbound,Serviços,1-50,Sudeste,Planilha / nenhum,CEO / Sócio
+151,Empresa 0151 · Educação,Empresa 0151,2024-10-28,2024-12-08,Ganho,Ganho,7700.0,LinkedIn Ads,Educação,51-200,Sudeste,Outro,Gerente de T&D
+152,Empresa 0152 · Educação,Empresa 0152,2025-05-21,2025-06-28,Perdido,Perdido,8600.0,Outbound,Educação,1-50,Sul,SAP,Gerente de T&D
+153,Empresa 0153 · Varejo,Empresa 0153,2025-08-12,2025-09-19,Aberto,Proposta,28500.0,Indicação,Varejo,201-1000,Sudeste,TOTVS,Diretor(a) de RH
+154,Empresa 0154 · Indústria,Empresa 0154,2026-04-10,2026-05-21,Perdido,Perdido,8700.0,Outbound,Indústria,1-50,Sudeste,Outro,CEO / Sócio
+155,Empresa 0155 · Tecnologia,Empresa 0155,2025-06-21,2025-08-11,Perdido,Perdido,5200.0,LinkedIn Ads,Tecnologia,1-50,Sul,TOTVS,TI
+156,Empresa 0156 · Educação,Empresa 0156,2026-07-07,2026-09-22,Perdido,Perdido,6900.0,Eventos,Educação,1-50,Nordeste,Planilha / nenhum,TI
+157,Empresa 0157 · Financeiro,Empresa 0157,2026-08-05,2026-08-31,Perdido,Perdido,18400.0,Google Ads,Financeiro,51-200,Sudeste,Outro,CEO / Sócio
+158,Empresa 0158 · Serviços,Empresa 0158,2025-06-25,2025-09-04,Aberto,Proposta,12400.0,LinkedIn Ads,Serviços,51-200,Sudeste,Planilha / nenhum,Gerente de T&D
+159,Empresa 0159 · Saúde,Empresa 0159,2026-10-18,2026-11-20,Aberto,Proposta,31000.0,Indicação,Saúde,201-1000,Sudeste,TOTVS,Diretor(a) de RH
+160,Empresa 0160 · Indústria,Empresa 0160,2025-10-25,2025-12-20,Ganho,Ganho,8200.0,Indicação,Indústria,51-200,Sudeste,SAP,Diretor(a) de RH
+161,Empresa 0161 · Indústria,Empresa 0161,2025-01-03,2025-02-10,Aberto,Proposta,19200.0,Orgânico (SEO),Indústria,51-200,Sul,Outro,CEO / Sócio
+162,Empresa 0162 · Tecnologia,Empresa 0162,2025-01-27,2025-06-13,Perdido,Perdido,24700.0,Google Ads,Tecnologia,1000+,Sudeste,Senior,Analista
+163,Empresa 0163 · Varejo,Empresa 0163,2026-08-07,2026-08-31,Perdido,Perdido,16100.0,Google Ads,Varejo,51-200,Sudeste,SAP,CEO / Sócio
+164,Empresa 0164 · Varejo,Empresa 0164,2025-11-11,2025-12-17,Perdido,Perdido,8200.0,Indicação,Varejo,1-50,Sudeste,Planilha / nenhum,Gerente de T&D
+165,Empresa 0165 · Tecnologia,Empresa 0165,2026-01-07,2026-03-06,Perdido,Perdido,29600.0,Orgânico (SEO),Tecnologia,51-200,Sudeste,TOTVS,Analista
+166,Empresa 0166 · Varejo,Empresa 0166,2024-12-24,2025-01-15,Perdido,Perdido,15000.0,Google Ads,Varejo,51-200,Nordeste,Outro,TI
+167,Empresa 0167 · Indústria,Empresa 0167,2025-09-16,2025-12-30,Perdido,Perdido,26900.0,Outbound,Indústria,201-1000,Sudeste,Planilha / nenhum,Analista
+168,Empresa 0168 · Indústria,Empresa 0168,2025-01-07,2025-03-06,Perdido,Perdido,18000.0,LinkedIn Ads,Indústria,51-200,Sudeste,TOTVS,Diretor(a) de RH
+169,Empresa 0169 · Indústria,Empresa 0169,2026-01-01,2026-01-26,Perdido,Perdido,7800.0,Outbound,Indústria,1-50,Sudeste,TOTVS,Gerente de T&D
+170,Empresa 0170 · Tecnologia,Empresa 0170,2025-12-07,2026-01-30,Aberto,Proposta,14500.0,Outbound,Tecnologia,51-200,Sul,TOTVS,Diretor(a) de RH
+171,Empresa 0171 · Varejo,Empresa 0171,2026-07-06,2026-09-26,Perdido,Perdido,21200.0,LinkedIn Ads,Varejo,1000+,Sul,Senior,Gerente de T&D
+172,Empresa 0172 · Serviços,Empresa 0172,2026-09-10,2026-11-20,Aberto,Proposta,9100.0,Google Ads,Serviços,51-200,Norte,Senior,Diretor(a) de RH
+173,Empresa 0173 · Tecnologia,Empresa 0173,2026-09-11,2026-10-28,Perdido,Perdido,9700.0,Orgânico (SEO),Tecnologia,51-200,Norte,Planilha / nenhum,Diretor(a) de RH
+174,Empresa 0174 · Tecnologia,Empresa 0174,2026-03-01,2026-03-18,Perdido,Perdido,3500.0,Orgânico (SEO),Tecnologia,1-50,Nordeste,Outro,CEO / Sócio
+175,Empresa 0175 · Varejo,Empresa 0175,2026-03-26,2026-07-26,Perdido,Perdido,4800.0,Outbound,Varejo,1-50,Norte,Senior,CEO / Sócio
+176,Empresa 0176 · Educação,Empresa 0176,2026-04-05,2026-06-02,Perdido,Perdido,4900.0,Orgânico (SEO),Educação,1-50,Sudeste,TOTVS,Analista
+177,Empresa 0177 · Varejo,Empresa 0177,2024-12-20,2025-01-11,Perdido,Perdido,30900.0,LinkedIn Ads,Varejo,201-1000,Sul,Outro,TI
+178,Empresa 0178 · Serviços,Empresa 0178,2025-04-10,2025-05-14,Perdido,Perdido,17100.0,Orgânico (SEO),Serviços,51-200,Sudeste,Planilha / nenhum,Diretor(a) de RH
+179,Empresa 0179 · Financeiro,Empresa 0179,2024-11-08,2025-02-05,Perdido,Perdido,28300.0,Eventos,Financeiro,1000+,Sudeste,TOTVS,CEO / Sócio
+180,Empresa 0180 · Indústria,Empresa 0180,2026-10-16,2026-11-30,Aberto,Proposta,21700.0,Indicação,Indústria,51-200,Sudeste,Planilha / nenhum,CEO / Sócio
+181,Empresa 0181 · Serviços,Empresa 0181,2026-09-19,2026-11-25,Aberto,Proposta,8500.0,Outbound,Serviços,1-50,Centro-Oeste,Senior,CEO / Sócio
+182,Empresa 0182 · Saúde,Empresa 0182,2026-03-31,2026-04-21,Perdido,Perdido,5700.0,Indicação,Saúde,1-50,Sudeste,TOTVS,CEO / Sócio
+183,Empresa 0183 · Financeiro,Empresa 0183,2026-07-10,2026-07-27,Ganho,Ganho,10600.0,Orgânico (SEO),Financeiro,51-200,Sudeste,Outro,TI
+184,Empresa 0184 · Financeiro,Empresa 0184,2025-11-05,2025-12-17,Perdido,Perdido,5200.0,LinkedIn Ads,Financeiro,1-50,Sul,SAP,Analista
+185,Empresa 0185 · Financeiro,Empresa 0185,2024-11-14,2024-12-22,Perdido,Perdido,9000.0,Outbound,Financeiro,51-200,Sudeste,Outro,Analista
+186,Empresa 0186 · Saúde,Empresa 0186,2025-03-10,2025-04-06,Perdido,Perdido,8900.0,Outbound,Saúde,51-200,Nordeste,Planilha / nenhum,Analista
+187,Empresa 0187 · Saúde,Empresa 0187,2025-07-17,2025-09-07,Perdido,Perdido,10600.0,Orgânico (SEO),Saúde,1-50,Nordeste,SAP,Analista
+188,Empresa 0188 · Serviços,Empresa 0188,2026-08-01,2026-09-26,Perdido,Perdido,5400.0,LinkedIn Ads,Serviços,1-50,Sudeste,Senior,Diretor(a) de RH
+189,Empresa 0189 · Indústria,Empresa 0189,2025-05-15,2025-07-01,Perdido,Perdido,13400.0,Google Ads,Indústria,51-200,Nordeste,Senior,Gerente de T&D
+190,Empresa 0190 · Financeiro,Empresa 0190,2025-04-16,2025-06-03,Perdido,Perdido,3500.0,Indicação,Financeiro,51-200,Sul,Senior,CEO / Sócio
+191,Empresa 0191 · Varejo,Empresa 0191,2025-12-25,2026-01-18,Perdido,Perdido,37200.0,Eventos,Varejo,1000+,Norte,Outro,Diretor(a) de RH
+192,Empresa 0192 · Saúde,Empresa 0192,2026-09-11,2026-11-12,Perdido,Perdido,28700.0,Outbound,Saúde,201-1000,Nordeste,Planilha / nenhum,CEO / Sócio
+193,Empresa 0193 · Educação,Empresa 0193,2026-08-25,2026-09-27,Perdido,Perdido,15600.0,LinkedIn Ads,Educação,51-200,Sul,Planilha / nenhum,CEO / Sócio
+194,Empresa 0194 · Serviços,Empresa 0194,2024-11-05,2024-12-01,Perdido,Perdido,4700.0,Outbound,Serviços,1-50,Sudeste,TOTVS,Diretor(a) de RH
+195,Empresa 0195 · Serviços,Empresa 0195,2026-09-24,2027-01-31,Aberto,Proposta,29100.0,Outbound,Serviços,1-50,Sudeste,TOTVS,CEO / Sócio
+196,Empresa 0196 · Tecnologia,Empresa 0196,2024-12-26,2025-02-27,Perdido,Perdido,5500.0,Eventos,Tecnologia,1-50,Sul,TOTVS,Gerente de T&D
+197,Empresa 0197 · Tecnologia,Empresa 0197,2025-12-05,2026-01-06,Perdido,Perdido,24200.0,Google Ads,Tecnologia,51-200,Sudeste,SAP,CEO / Sócio
+198,Empresa 0198 · Saúde,Empresa 0198,2026-10-04,2026-10-27,Perdido,Perdido,7100.0,Google Ads,Saúde,51-200,Sul,Senior,CEO / Sócio
+199,Empresa 0199 · Educação,Empresa 0199,2026-03-05,2026-06-18,Aberto,Proposta,31500.0,LinkedIn Ads,Educação,51-200,Centro-Oeste,TOTVS,Gerente de T&D
+200,Empresa 0200 · Indústria,Empresa 0200,2025-05-08,2025-07-06,Perdido,Perdido,7500.0,LinkedIn Ads,Indústria,1-50,Sudeste,Senior,Diretor(a) de RH
+201,Empresa 0201 · Saúde,Empresa 0201,2025-10-02,2025-11-05,Perdido,Perdido,6400.0,Indicação,Saúde,1-50,Norte,Outro,TI
+202,Empresa 0202 · Serviços,Empresa 0202,2025-11-23,2026-03-16,Aberto,Proposta,46700.0,Google Ads,Serviços,1000+,Sudeste,SAP,Gerente de T&D
+203,Empresa 0203 · Serviços,Empresa 0203,2026-08-07,2026-08-28,Perdido,Perdido,5100.0,Google Ads,Serviços,1-50,Sudeste,SAP,CEO / Sócio
+204,Empresa 0204 · Financeiro,Empresa 0204,2024-11-27,2025-01-29,Perdido,Perdido,10000.0,LinkedIn Ads,Financeiro,51-200,Sudeste,Outro,TI
+205,Empresa 0205 · Tecnologia,Empresa 0205,2025-08-23,2025-11-22,Perdido,Perdido,7400.0,Google Ads,Tecnologia,1-50,Nordeste,Planilha / nenhum,CEO / Sócio
+206,Empresa 0206 · Serviços,Empresa 0206,2026-06-05,2026-08-03,Perdido,Perdido,12200.0,LinkedIn Ads,Serviços,51-200,Sudeste,SAP,Analista
+207,Empresa 0207 · Educação,Empresa 0207,2026-02-18,2026-04-07,Perdido,Perdido,9000.0,Google Ads,Educação,201-1000,Sudeste,SAP,TI
+208,Empresa 0208 · Indústria,Empresa 0208,2025-02-28,2025-05-07,Aberto,Proposta,7600.0,Indicação,Indústria,1-50,Sudeste,TOTVS,Diretor(a) de RH
+209,Empresa 0209 · Indústria,Empresa 0209,2025-01-28,2025-03-13,Perdido,Perdido,10300.0,Google Ads,Indústria,201-1000,Centro-Oeste,Planilha / nenhum,Analista
+210,Empresa 0210 · Serviços,Empresa 0210,2025-02-22,2025-04-12,Perdido,Perdido,8900.0,Google Ads,Serviços,1-50,Sudeste,SAP,Gerente de T&D
+211,Empresa 0211 · Financeiro,Empresa 0211,2025-08-31,2025-09-19,Perdido,Perdido,9700.0,Eventos,Financeiro,51-200,Sudeste,TOTVS,Gerente de T&D
+212,Empresa 0212 · Financeiro,Empresa 0212,2024-10-17,2024-11-10,Perdido,Perdido,25900.0,Indicação,Financeiro,1000+,Nordeste,TOTVS,Diretor(a) de RH
+213,Empresa 0213 · Saúde,Empresa 0213,2026-04-10,2026-08-12,Perdido,Perdido,31700.0,Orgânico (SEO),Saúde,1000+,Sudeste,Planilha / nenhum,Diretor(a) de RH
+214,Empresa 0214 · Varejo,Empresa 0214,2026-09-27,2027-01-25,Aberto,Proposta,8500.0,LinkedIn Ads,Varejo,201-1000,Norte,TOTVS,CEO / Sócio
+215,Empresa 0215 · Tecnologia,Empresa 0215,2025-09-03,2025-12-19,Perdido,Perdido,9900.0,Orgânico (SEO),Tecnologia,1-50,Sul,TOTVS,Analista
+216,Empresa 0216 · Educação,Empresa 0216,2025-02-24,2025-04-28,Perdido,Perdido,4800.0,Outbound,Educação,1-50,Sudeste,Senior,Diretor(a) de RH
+217,Empresa 0217 · Tecnologia,Empresa 0217,2025-10-29,2025-11-18,Perdido,Perdido,11300.0,Eventos,Tecnologia,51-200,Centro-Oeste,Senior,CEO / Sócio
+218,Empresa 0218 · Indústria,Empresa 0218,2024-11-21,2024-12-21,Aberto,Proposta,8900.0,Google Ads,Indústria,1-50,Sudeste,TOTVS,Gerente de T&D
+219,Empresa 0219 · Varejo,Empresa 0219,2026-04-07,2026-05-11,Perdido,Perdido,16000.0,Indicação,Varejo,201-1000,Sul,TOTVS,Analista
+220,Empresa 0220 · Saúde,Empresa 0220,2025-09-02,2025-10-14,Perdido,Perdido,21300.0,Indicação,Saúde,201-1000,Sul,Senior,CEO / Sócio
+221,Empresa 0221 · Indústria,Empresa 0221,2025-02-14,2025-03-22,Perdido,Perdido,7400.0,Google Ads,Indústria,1-50,Sudeste,TOTVS,Analista
+222,Empresa 0222 · Tecnologia,Empresa 0222,2025-05-29,2025-08-27,Perdido,Perdido,13900.0,Outbound,Tecnologia,51-200,Sul,Planilha / nenhum,Diretor(a) de RH
+223,Empresa 0223 · Varejo,Empresa 0223,2026-05-19,2026-07-27,Perdido,Perdido,15100.0,Outbound,Varejo,201-1000,Nordeste,Outro,Analista
+224,Empresa 0224 · Tecnologia,Empresa 0224,2025-03-12,2025-05-08,Perdido,Perdido,3400.0,Indicação,Tecnologia,1-50,Sul,Outro,Diretor(a) de RH
+225,Empresa 0225 · Saúde,Empresa 0225,2026-04-03,2026-08-10,Perdido,Perdido,9000.0,Google Ads,Saúde,1-50,Sul,Planilha / nenhum,CEO / Sócio
+226,Empresa 0226 · Educação,Empresa 0226,2026-08-06,2026-09-04,Perdido,Perdido,15300.0,Eventos,Educação,201-1000,Nordeste,TOTVS,Diretor(a) de RH
+227,Empresa 0227 · Tecnologia,Empresa 0227,2025-12-08,2026-01-05,Perdido,Perdido,21900.0,LinkedIn Ads,Tecnologia,51-200,Sul,SAP,CEO / Sócio
+228,Empresa 0228 · Serviços,Empresa 0228,2026-05-03,2026-06-27,Perdido,Perdido,24500.0,LinkedIn Ads,Serviços,201-1000,Sudeste,TOTVS,Gerente de T&D
+229,Empresa 0229 · Educação,Empresa 0229,2026-02-12,2026-03-29,Perdido,Perdido,5900.0,Outbound,Educação,1-50,Nordeste,SAP,CEO / Sócio
+230,Empresa 0230 · Financeiro,Empresa 0230,2026-08-10,2027-03-12,Aberto,Proposta,38300.0,LinkedIn Ads,Financeiro,1000+,Sudeste,Outro,Diretor(a) de RH
+231,Empresa 0231 · Saúde,Empresa 0231,2025-09-12,2025-10-04,Perdido,Perdido,13500.0,Outbound,Saúde,1-50,Centro-Oeste,SAP,Diretor(a) de RH
+232,Empresa 0232 · Saúde,Empresa 0232,2025-10-17,2025-11-03,Perdido,Perdido,12000.0,LinkedIn Ads,Saúde,51-200,Sul,Planilha / nenhum,Gerente de T&D
+233,Empresa 0233 · Educação,Empresa 0233,2025-09-04,2025-09-24,Perdido,Perdido,22100.0,Outbound,Educação,201-1000,Sul,TOTVS,Diretor(a) de RH
+234,Empresa 0234 · Tecnologia,Empresa 0234,2025-05-10,2025-10-13,Perdido,Perdido,17100.0,Outbound,Tecnologia,51-200,Nordeste,Outro,Analista
+235,Empresa 0235 · Tecnologia,Empresa 0235,2026-02-04,2026-02-26,Perdido,Perdido,39300.0,Google Ads,Tecnologia,201-1000,Sul,Outro,CEO / Sócio
+236,Empresa 0236 · Serviços,Empresa 0236,2024-11-11,2024-12-13,Perdido,Perdido,6100.0,Outbound,Serviços,1-50,Sudeste,Outro,Analista
+237,Empresa 0237 · Varejo,Empresa 0237,2025-04-21,2025-06-25,Perdido,Perdido,9600.0,Google Ads,Varejo,1-50,Sudeste,SAP,CEO / Sócio
+238,Empresa 0238 · Varejo,Empresa 0238,2025-07-25,2025-09-14,Perdido,Perdido,10100.0,Eventos,Varejo,51-200,Norte,Outro,Analista
+239,Empresa 0239 · Serviços,Empresa 0239,2025-08-09,2025-11-28,Perdido,Perdido,65800.0,Eventos,Serviços,1000+,Norte,Planilha / nenhum,Diretor(a) de RH
+240,Empresa 0240 · Financeiro,Empresa 0240,2026-08-23,2027-01-11,Aberto,Proposta,23700.0,LinkedIn Ads,Financeiro,51-200,Nordeste,Planilha / nenhum,Diretor(a) de RH
+241,Empresa 0241 · Tecnologia,Empresa 0241,2024-12-16,2025-01-26,Perdido,Perdido,14600.0,Outbound,Tecnologia,1-50,Sudeste,Senior,Analista
+242,Empresa 0242 · Tecnologia,Empresa 0242,2024-11-04,2024-12-14,Perdido,Perdido,10400.0,LinkedIn Ads,Tecnologia,51-200,Nordeste,Outro,Diretor(a) de RH
+243,Empresa 0243 · Indústria,Empresa 0243,2025-11-10,2025-12-11,Perdido,Perdido,55200.0,Indicação,Indústria,1000+,Nordeste,Outro,CEO / Sócio
+244,Empresa 0244 · Varejo,Empresa 0244,2026-10-24,2026-12-30,Aberto,Proposta,11700.0,Google Ads,Varejo,1-50,Sul,TOTVS,TI
+245,Empresa 0245 · Tecnologia,Empresa 0245,2025-01-27,2025-03-13,Perdido,Perdido,27000.0,Indicação,Tecnologia,51-200,Sudeste,Outro,CEO / Sócio
+246,Empresa 0246 · Financeiro,Empresa 0246,2025-08-31,2025-10-03,Perdido,Perdido,3600.0,Indicação,Financeiro,1-50,Nordeste,SAP,Gerente de T&D
+247,Empresa 0247 · Financeiro,Empresa 0247,2024-11-23,2025-01-26,Perdido,Perdido,14900.0,LinkedIn Ads,Financeiro,1-50,Sul,Planilha / nenhum,Gerente de T&D
+248,Empresa 0248 · Tecnologia,Empresa 0248,2025-04-06,2025-04-26,Perdido,Perdido,27500.0,Outbound,Tecnologia,201-1000,Sul,Planilha / nenhum,Diretor(a) de RH
+249,Empresa 0249 · Serviços,Empresa 0249,2025-07-31,2025-10-19,Perdido,Perdido,5000.0,Outbound,Serviços,1-50,Sudeste,Planilha / nenhum,Diretor(a) de RH
+250,Empresa 0250 · Serviços,Empresa 0250,2026-11-06,2027-05-09,Aberto,Proposta,49500.0,Outbound,Serviços,1000+,Sudeste,TOTVS,CEO / Sócio
+251,Empresa 0251 · Varejo,Empresa 0251,2025-03-25,2025-04-22,Perdido,Perdido,16800.0,Outbound,Varejo,51-200,Sudeste,TOTVS,CEO / Sócio
+252,Empresa 0252 · Financeiro,Empresa 0252,2025-07-12,2025-08-17,Perdido,Perdido,11100.0,Orgânico (SEO),Financeiro,1-50,Sudeste,Outro,Diretor(a) de RH
+253,Empresa 0253 · Financeiro,Empresa 0253,2025-12-21,2026-01-23,Perdido,Perdido,6700.0,Orgânico (SEO),Financeiro,1-50,Sudeste,TOTVS,CEO / Sócio
+254,Empresa 0254 · Indústria,Empresa 0254,2026-01-09,2026-03-08,Aberto,Proposta,18000.0,Orgânico (SEO),Indústria,51-200,Sudeste,SAP,Analista
+255,Empresa 0255 · Educação,Empresa 0255,2025-01-03,2025-02-05,Ganho,Ganho,21000.0,Outbound,Educação,51-200,Nordeste,TOTVS,Diretor(a) de RH
+256,Empresa 0256 · Varejo,Empresa 0256,2025-08-05,2025-09-06,Perdido,Perdido,6500.0,Outbound,Varejo,1-50,Sul,SAP,CEO / Sócio
+257,Empresa 0257 · Saúde,Empresa 0257,2025-04-12,2025-05-02,Perdido,Perdido,9700.0,Indicação,Saúde,201-1000,Sudeste,TOTVS,TI
+258,Empresa 0258 · Saúde,Empresa 0258,2026-06-13,2026-07-28,Ganho,Ganho,10300.0,Orgânico (SEO),Saúde,51-200,Sudeste,Planilha / nenhum,CEO / Sócio
+259,Empresa 0259 · Serviços,Empresa 0259,2025-07-26,2025-09-24,Perdido,Perdido,4900.0,Outbound,Serviços,1-50,Sul,Outro,Gerente de T&D
+260,Empresa 0260 · Serviços,Empresa 0260,2026-06-11,2026-08-14,Perdido,Perdido,43300.0,Eventos,Serviços,201-1000,Centro-Oeste,SAP,CEO / Sócio
+261,Empresa 0261 · Varejo,Empresa 0261,2024-12-11,2025-01-23,Perdido,Perdido,12500.0,LinkedIn Ads,Varejo,1-50,Sudeste,Senior,Analista
+262,Empresa 0262 · Saúde,Empresa 0262,2025-03-19,2025-05-14,Ganho,Ganho,8400.0,Outbound,Saúde,201-1000,Sul,Planilha / nenhum,Diretor(a) de RH
+263,Empresa 0263 · Saúde,Empresa 0263,2025-09-12,2025-09-22,Perdido,Perdido,8200.0,LinkedIn Ads,Saúde,1-50,Sudeste,Outro,CEO / Sócio
+264,Empresa 0264 · Indústria,Empresa 0264,2026-04-19,2026-05-19,Perdido,Perdido,8300.0,Eventos,Indústria,1-50,Sul,Planilha / nenhum,Gerente de T&D
+265,Empresa 0265 · Serviços,Empresa 0265,2024-12-19,2025-01-23,Perdido,Perdido,10700.0,Google Ads,Serviços,51-200,Sudeste,SAP,Diretor(a) de RH
+266,Empresa 0266 · Tecnologia,Empresa 0266,2025-10-15,2025-12-28,Aberto,Proposta,23500.0,Google Ads,Tecnologia,201-1000,Norte,Outro,CEO / Sócio
+267,Empresa 0267 · Tecnologia,Empresa 0267,2025-05-26,2025-08-28,Ganho,Ganho,38600.0,Indicação,Tecnologia,201-1000,Sudeste,SAP,CEO / Sócio
+268,Empresa 0268 · Financeiro,Empresa 0268,2025-07-13,2025-08-07,Ganho,Ganho,4500.0,Indicação,Financeiro,51-200,Sudeste,Outro,Diretor(a) de RH
+269,Empresa 0269 · Educação,Empresa 0269,2025-02-18,2025-03-12,Perdido,Perdido,8800.0,Orgânico (SEO),Educação,1-50,Sul,Planilha / nenhum,CEO / Sócio
+270,Empresa 0270 · Saúde,Empresa 0270,2025-06-21,2025-11-23,Perdido,Perdido,21400.0,Orgânico (SEO),Saúde,1000+,Sudeste,Planilha / nenhum,Gerente de T&D
+271,Empresa 0271 · Varejo,Empresa 0271,2025-02-15,2025-04-20,Aberto,Proposta,44600.0,LinkedIn Ads,Varejo,1000+,Sul,TOTVS,Diretor(a) de RH
+272,Empresa 0272 · Indústria,Empresa 0272,2025-08-26,2025-10-17,Perdido,Perdido,21100.0,Google Ads,Indústria,51-200,Sul,Planilha / nenhum,Diretor(a) de RH
+273,Empresa 0273 · Financeiro,Empresa 0273,2025-01-10,2025-02-20,Perdido,Perdido,5400.0,Outbound,Financeiro,1-50,Sudeste,TOTVS,CEO / Sócio
+274,Empresa 0274 · Varejo,Empresa 0274,2025-12-11,2026-01-09,Perdido,Perdido,37500.0,Google Ads,Varejo,201-1000,Sudeste,Senior,CEO / Sócio
+275,Empresa 0275 · Indústria,Empresa 0275,2025-11-14,2026-03-02,Perdido,Perdido,25900.0,LinkedIn Ads,Indústria,1000+,Sudeste,Senior,CEO / Sócio
+276,Empresa 0276 · Tecnologia,Empresa 0276,2024-12-07,2025-02-21,Aberto,Proposta,9800.0,Google Ads,Tecnologia,1-50,Norte,SAP,Gerente de T&D
+277,Empresa 0277 · Varejo,Empresa 0277,2026-07-04,2026-07-14,Perdido,Perdido,16400.0,Google Ads,Varejo,51-200,Sul,Planilha / nenhum,TI
+278,Empresa 0278 · Educação,Empresa 0278,2025-03-13,2025-05-06,Perdido,Perdido,16100.0,Orgânico (SEO),Educação,1-50,Sudeste,Senior,TI
+279,Empresa 0279 · Varejo,Empresa 0279,2025-09-26,2025-12-16,Perdido,Perdido,4400.0,Outbound,Varejo,1-50,Sudeste,Senior,Gerente de T&D
+280,Empresa 0280 · Serviços,Empresa 0280,2026-07-25,2026-12-14,Aberto,Proposta,3000.0,LinkedIn Ads,Serviços,1-50,Norte,Senior,Diretor(a) de RH
+281,Empresa 0281 · Varejo,Empresa 0281,2025-08-24,2025-10-23,Perdido,Perdido,8100.0,Eventos,Varejo,1-50,Nordeste,Planilha / nenhum,CEO / Sócio
+282,Empresa 0282 · Varejo,Empresa 0282,2025-06-21,2025-07-20,Perdido,Perdido,6300.0,Orgânico (SEO),Varejo,1-50,Sul,Outro,CEO / Sócio
+283,Empresa 0283 · Tecnologia,Empresa 0283,2025-03-20,2025-04-20,Perdido,Perdido,34200.0,LinkedIn Ads,Tecnologia,201-1000,Sudeste,Planilha / nenhum,Gerente de T&D
+284,Empresa 0284 · Indústria,Empresa 0284,2025-03-08,2025-04-11,Perdido,Perdido,10200.0,Google Ads,Indústria,51-200,Nordeste,TOTVS,CEO / Sócio
+285,Empresa 0285 · Educação,Empresa 0285,2025-07-16,2025-08-01,Perdido,Perdido,8400.0,Eventos,Educação,1-50,Sudeste,Outro,Gerente de T&D
+286,Empresa 0286 · Varejo,Empresa 0286,2025-03-07,2025-04-24,Perdido,Perdido,12900.0,Google Ads,Varejo,201-1000,Sul,TOTVS,Diretor(a) de RH
+287,Empresa 0287 · Varejo,Empresa 0287,2026-08-28,2026-11-05,Perdido,Perdido,22500.0,Orgânico (SEO),Varejo,201-1000,Sudeste,TOTVS,Analista
+288,Empresa 0288 · Varejo,Empresa 0288,2025-08-25,2025-11-05,Perdido,Perdido,5700.0,Outbound,Varejo,1-50,Sudeste,Outro,Gerente de T&D
+289,Empresa 0289 · Indústria,Empresa 0289,2025-05-24,2025-07-08,Perdido,Perdido,10600.0,Google Ads,Indústria,51-200,Nordeste,SAP,Gerente de T&D
+290,Empresa 0290 · Tecnologia,Empresa 0290,2026-01-06,2026-02-16,Perdido,Perdido,8500.0,Indicação,Tecnologia,1-50,Norte,Planilha / nenhum,Analista
+291,Empresa 0291 · Serviços,Empresa 0291,2025-03-23,2025-06-12,Perdido,Perdido,29600.0,Orgânico (SEO),Serviços,1000+,Nordeste,SAP,Analista
+292,Empresa 0292 · Saúde,Empresa 0292,2025-06-19,2025-07-10,Perdido,Perdido,24100.0,Google Ads,Saúde,51-200,Norte,Planilha / nenhum,Diretor(a) de RH
+293,Empresa 0293 · Indústria,Empresa 0293,2026-06-08,2026-08-21,Perdido,Perdido,16300.0,Orgânico (SEO),Indústria,201-1000,Sul,Senior,CEO / Sócio
+294,Empresa 0294 · Tecnologia,Empresa 0294,2025-08-21,2025-10-21,Perdido,Perdido,26100.0,LinkedIn Ads,Tecnologia,201-1000,Sudeste,SAP,Analista
+295,Empresa 0295 · Financeiro,Empresa 0295,2024-11-08,2024-12-08,Ganho,Ganho,10500.0,Orgânico (SEO),Financeiro,1-50,Sudeste,Senior,Diretor(a) de RH
+296,Empresa 0296 · Financeiro,Empresa 0296,2025-06-25,2025-07-17,Perdido,Perdido,11800.0,LinkedIn Ads,Financeiro,51-200,Sudeste,TOTVS,CEO / Sócio
+297,Empresa 0297 · Educação,Empresa 0297,2025-12-25,2026-02-12,Perdido,Perdido,20300.0,Google Ads,Educação,201-1000,Sudeste,Senior,TI
+298,Empresa 0298 · Tecnologia,Empresa 0298,2025-10-18,2025-11-11,Perdido,Perdido,17200.0,Outbound,Tecnologia,51-200,Nordeste,Planilha / nenhum,Analista
+299,Empresa 0299 · Varejo,Empresa 0299,2026-01-07,2026-02-06,Perdido,Perdido,12400.0,Indicação,Varejo,201-1000,Sudeste,Planilha / nenhum,Diretor(a) de RH
+300,Empresa 0300 · Indústria,Empresa 0300,2025-07-29,2026-01-18,Aberto,Proposta,19900.0,Eventos,Indústria,1-50,Sudeste,Planilha / nenhum,CEO / Sócio
+301,Empresa 0301 · Saúde,Empresa 0301,2025-12-12,2026-01-07,Perdido,Perdido,12300.0,Indicação,Saúde,1-50,Sudeste,Outro,CEO / Sócio
+302,Empresa 0302 · Saúde,Empresa 0302,2024-12-10,2025-02-25,Perdido,Perdido,17700.0,Eventos,Saúde,1-50,Sudeste,Outro,CEO / Sócio
+303,Empresa 0303 · Serviços,Empresa 0303,2024-11-05,2025-02-01,Aberto,Proposta,32200.0,Outbound,Serviços,51-200,Nordeste,Senior,Gerente de T&D
+304,Empresa 0304 · Indústria,Empresa 0304,2025-04-16,2025-06-22,Perdido,Perdido,20700.0,Eventos,Indústria,201-1000,Nordeste,SAP,Gerente de T&D
+305,Empresa 0305 · Serviços,Empresa 0305,2025-06-14,2025-08-10,Perdido,Perdido,11500.0,Outbound,Serviços,1-50,Nordeste,SAP,Diretor(a) de RH
+306,Empresa 0306 · Educação,Empresa 0306,2026-05-20,2026-07-24,Perdido,Perdido,27800.0,Google Ads,Educação,1000+,Sudeste,Senior,Diretor(a) de RH
+307,Empresa 0307 · Indústria,Empresa 0307,2026-08-28,2026-10-10,Ganho,Ganho,77200.0,Indicação,Indústria,1000+,Sudeste,Senior,TI
+308,Empresa 0308 · Saúde,Empresa 0308,2025-10-13,2025-11-12,Perdido,Perdido,28100.0,Outbound,Saúde,201-1000,Sudeste,Outro,Analista
+309,Empresa 0309 · Tecnologia,Empresa 0309,2026-10-02,2026-12-27,Aberto,Proposta,14700.0,Orgânico (SEO),Tecnologia,201-1000,Nordeste,Planilha / nenhum,Diretor(a) de RH
+310,Empresa 0310 · Tecnologia,Empresa 0310,2025-01-12,2025-02-16,Perdido,Perdido,7800.0,Outbound,Tecnologia,1-50,Sudeste,Outro,TI
+311,Empresa 0311 · Varejo,Empresa 0311,2025-11-18,2026-02-16,Perdido,Perdido,6700.0,LinkedIn Ads,Varejo,1-50,Norte,Senior,Diretor(a) de RH
+312,Empresa 0312 · Serviços,Empresa 0312,2026-08-15,2026-10-01,Perdido,Perdido,21000.0,Eventos,Serviços,51-200,Sudeste,Planilha / nenhum,TI
+313,Empresa 0313 · Tecnologia,Empresa 0313,2026-10-09,2027-01-01,Aberto,Proposta,7100.0,LinkedIn Ads,Tecnologia,1-50,Sudeste,SAP,Analista
+314,Empresa 0314 · Varejo,Empresa 0314,2025-10-28,2025-12-24,Aberto,Proposta,4400.0,Google Ads,Varejo,1-50,Sul,SAP,Gerente de T&D
+315,Empresa 0315 · Indústria,Empresa 0315,2026-01-05,2026-03-07,Perdido,Perdido,12000.0,Orgânico (SEO),Indústria,1-50,Nordeste,Planilha / nenhum,Analista
+316,Empresa 0316 · Educação,Empresa 0316,2025-12-14,2026-01-18,Perdido,Perdido,7600.0,LinkedIn Ads,Educação,1-50,Nordeste,Outro,Analista
+317,Empresa 0317 · Varejo,Empresa 0317,2024-10-15,2024-12-06,Aberto,Proposta,9400.0,Eventos,Varejo,1-50,Centro-Oeste,SAP,Diretor(a) de RH
+318,Empresa 0318 · Tecnologia,Empresa 0318,2025-03-06,2025-04-10,Perdido,Perdido,11700.0,Orgânico (SEO),Tecnologia,51-200,Sudeste,TOTVS,Gerente de T&D
+319,Empresa 0319 · Saúde,Empresa 0319,2025-09-25,2025-10-08,Perdido,Perdido,29300.0,Indicação,Saúde,201-1000,Sudeste,Outro,Gerente de T&D
+320,Empresa 0320 · Varejo,Empresa 0320,2026-06-13,2026-06-26,Perdido,Perdido,19800.0,Google Ads,Varejo,201-1000,Sudeste,TOTVS,CEO / Sócio
+321,Empresa 0321 · Varejo,Empresa 0321,2026-05-14,2026-06-23,Perdido,Perdido,11900.0,Orgânico (SEO),Varejo,1-50,Sul,Planilha / nenhum,Diretor(a) de RH
+322,Empresa 0322 · Indústria,Empresa 0322,2025-01-31,2025-02-24,Perdido,Perdido,53500.0,Orgânico (SEO),Indústria,1000+,Sul,Planilha / nenhum,CEO / Sócio
+323,Empresa 0323 · Indústria,Empresa 0323,2025-02-04,2025-03-04,Perdido,Perdido,26100.0,Outbound,Indústria,201-1000,Nordeste,TOTVS,Gerente de T&D
+324,Empresa 0324 · Financeiro,Empresa 0324,2025-08-31,2025-10-14,Ganho,Ganho,13500.0,Orgânico (SEO),Financeiro,51-200,Sul,SAP,CEO / Sócio
+325,Empresa 0325 · Varejo,Empresa 0325,2025-11-24,2026-01-25,Perdido,Perdido,19200.0,Eventos,Varejo,51-200,Sudeste,Outro,CEO / Sócio
+326,Empresa 0326 · Varejo,Empresa 0326,2024-10-25,2024-12-15,Perdido,Perdido,16900.0,Orgânico (SEO),Varejo,1-50,Nordeste,Senior,Analista
+327,Empresa 0327 · Tecnologia,Empresa 0327,2026-03-26,2026-07-23,Perdido,Perdido,15600.0,LinkedIn Ads,Tecnologia,1000+,Sul,Senior,Gerente de T&D
+328,Empresa 0328 · Financeiro,Empresa 0328,2025-02-17,2025-03-28,Perdido,Perdido,9400.0,Indicação,Financeiro,201-1000,Sul,Planilha / nenhum,TI
+329,Empresa 0329 · Tecnologia,Empresa 0329,2026-03-21,2026-06-02,Perdido,Perdido,10600.0,Eventos,Tecnologia,51-200,Norte,Outro,Diretor(a) de RH
+330,Empresa 0330 · Indústria,Empresa 0330,2025-12-30,2026-04-12,Aberto,Proposta,13100.0,Indicação,Indústria,51-200,Sudeste,TOTVS,Diretor(a) de RH
+331,Empresa 0331 · Tecnologia,Empresa 0331,2024-12-12,2025-02-13,Perdido,Perdido,12000.0,Google Ads,Tecnologia,1-50,Sudeste,Planilha / nenhum,Gerente de T&D
+332,Empresa 0332 · Tecnologia,Empresa 0332,2025-06-22,2025-09-10,Aberto,Proposta,9700.0,Eventos,Tecnologia,1-50,Sul,SAP,CEO / Sócio
+333,Empresa 0333 · Educação,Empresa 0333,2026-08-06,2026-08-24,Perdido,Perdido,9300.0,Outbound,Educação,1-50,Sul,Planilha / nenhum,Analista
+334,Empresa 0334 · Saúde,Empresa 0334,2025-02-17,2025-05-16,Perdido,Perdido,9300.0,Eventos,Saúde,201-1000,Sul,Senior,Analista
+335,Empresa 0335 · Saúde,Empresa 0335,2026-07-18,2026-09-14,Perdido,Perdido,16500.0,LinkedIn Ads,Saúde,201-1000,Sul,Planilha / nenhum,Diretor(a) de RH
+336,Empresa 0336 · Varejo,Empresa 0336,2025-11-14,2025-12-16,Perdido,Perdido,12100.0,LinkedIn Ads,Varejo,1-50,Sudeste,Senior,Analista
+337,Empresa 0337 · Financeiro,Empresa 0337,2024-10-30,2024-12-05,Perdido,Perdido,12600.0,Google Ads,Financeiro,51-200,Sul,TOTVS,Gerente de T&D
+338,Empresa 0338 · Indústria,Empresa 0338,2026-06-24,2026-07-31,Perdido,Perdido,26500.0,Orgânico (SEO),Indústria,1-50,Sudeste,TOTVS,Analista
+339,Empresa 0339 · Saúde,Empresa 0339,2025-02-23,2025-05-13,Perdido,Perdido,37100.0,LinkedIn Ads,Saúde,1000+,Sudeste,SAP,CEO / Sócio
+340,Empresa 0340 · Tecnologia,Empresa 0340,2025-06-27,2025-07-20,Perdido,Perdido,6200.0,Eventos,Tecnologia,51-200,Norte,Planilha / nenhum,Gerente de T&D
+341,Empresa 0341 · Saúde,Empresa 0341,2024-12-10,2025-01-15,Perdido,Perdido,5300.0,Google Ads,Saúde,1-50,Centro-Oeste,Outro,Analista
+342,Empresa 0342 · Serviços,Empresa 0342,2025-09-23,2025-11-07,Perdido,Perdido,18500.0,Outbound,Serviços,201-1000,Sudeste,TOTVS,Gerente de T&D
+343,Empresa 0343 · Serviços,Empresa 0343,2025-04-17,2025-05-31,Perdido,Perdido,25800.0,Eventos,Serviços,201-1000,Centro-Oeste,Senior,TI
+344,Empresa 0344 · Varejo,Empresa 0344,2024-12-23,2025-03-05,Perdido,Perdido,13600.0,Eventos,Varejo,201-1000,Sudeste,SAP,CEO / Sócio
+345,Empresa 0345 · Tecnologia,Empresa 0345,2025-08-16,2025-09-02,Perdido,Perdido,27300.0,Indicação,Tecnologia,201-1000,Norte,Planilha / nenhum,Analista
+346,Empresa 0346 · Saúde,Empresa 0346,2026-04-03,2026-05-27,Perdido,Perdido,17900.0,Indicação,Saúde,51-200,Sudeste,Planilha / nenhum,Analista
+347,Empresa 0347 · Varejo,Empresa 0347,2025-11-28,2026-01-05,Perdido,Perdido,6700.0,Eventos,Varejo,51-200,Sudeste,SAP,Gerente de T&D
+348,Empresa 0348 · Saúde,Empresa 0348,2025-07-28,2025-10-08,Perdido,Perdido,10500.0,Orgânico (SEO),Saúde,1-50,Nordeste,TOTVS,Gerente de T&D
+349,Empresa 0349 · Tecnologia,Empresa 0349,2026-07-26,2026-08-30,Perdido,Perdido,5500.0,Outbound,Tecnologia,1-50,Sul,SAP,Analista
+350,Empresa 0350 · Financeiro,Empresa 0350,2025-02-16,2025-10-03,Perdido,Perdido,33500.0,Outbound,Financeiro,1000+,Centro-Oeste,Planilha / nenhum,TI
+351,Empresa 0351 · Serviços,Empresa 0351,2025-01-05,2025-02-16,Ganho,Ganho,7600.0,LinkedIn Ads,Serviços,51-200,Sul,TOTVS,Gerente de T&D
+352,Empresa 0352 · Educação,Empresa 0352,2025-10-29,2026-01-15,Perdido,Perdido,31200.0,Google Ads,Educação,201-1000,Nordeste,Outro,Diretor(a) de RH
+353,Empresa 0353 · Financeiro,Empresa 0353,2026-01-30,2026-05-06,Perdido,Perdido,8600.0,Google Ads,Financeiro,1-50,Norte,Planilha / nenhum,CEO / Sócio
+354,Empresa 0354 · Serviços,Empresa 0354,2026-09-25,2026-11-05,Ganho,Ganho,21300.0,Google Ads,Serviços,51-200,Norte,TOTVS,CEO / Sócio
+355,Empresa 0355 · Serviços,Empresa 0355,2025-05-24,2025-10-15,Aberto,Proposta,16000.0,Orgânico (SEO),Serviços,1000+,Sudeste,Outro,Diretor(a) de RH
+356,Empresa 0356 · Tecnologia,Empresa 0356,2025-08-06,2025-10-04,Perdido,Perdido,22600.0,LinkedIn Ads,Tecnologia,201-1000,Nordeste,Planilha / nenhum,TI
+357,Empresa 0357 · Serviços,Empresa 0357,2026-04-10,2026-05-20,Perdido,Perdido,9300.0,Eventos,Serviços,201-1000,Norte,Senior,Diretor(a) de RH
+358,Empresa 0358 · Saúde,Empresa 0358,2025-05-24,2025-07-30,Perdido,Perdido,15600.0,Outbound,Saúde,1-50,Sudeste,Planilha / nenhum,TI
+359,Empresa 0359 · Tecnologia,Empresa 0359,2026-10-18,2026-12-11,Aberto,Proposta,34400.0,Eventos,Tecnologia,1000+,Sudeste,Senior,TI
+360,Empresa 0360 · Varejo,Empresa 0360,2026-09-09,2026-10-04,Aberto,Proposta,9300.0,Outbound,Varejo,1-50,Sul,Outro,Diretor(a) de RH
+361,Empresa 0361 · Financeiro,Empresa 0361,2026-08-31,2026-10-04,Ganho,Ganho,10600.0,Google Ads,Financeiro,51-200,Centro-Oeste,Senior,Analista
+362,Empresa 0362 · Tecnologia,Empresa 0362,2025-07-14,2025-09-04,Perdido,Perdido,24400.0,Outbound,Tecnologia,201-1000,Sudeste,SAP,Analista
+363,Empresa 0363 · Serviços,Empresa 0363,2025-07-30,2025-10-30,Perdido,Perdido,15600.0,LinkedIn Ads,Serviços,51-200,Sudeste,Senior,Diretor(a) de RH
+364,Empresa 0364 · Varejo,Empresa 0364,2026-04-10,2026-06-19,Perdido,Perdido,11200.0,Google Ads,Varejo,51-200,Nordeste,TOTVS,CEO / Sócio
+365,Empresa 0365 · Educação,Empresa 0365,2026-08-07,2026-09-01,Perdido,Perdido,6500.0,LinkedIn Ads,Educação,1-50,Sudeste,Senior,CEO / Sócio
+366,Empresa 0366 · Varejo,Empresa 0366,2025-07-21,2025-09-25,Perdido,Perdido,8400.0,Google Ads,Varejo,51-200,Nordeste,TOTVS,CEO / Sócio
+367,Empresa 0367 · Saúde,Empresa 0367,2026-01-22,2026-03-13,Perdido,Perdido,15500.0,Outbound,Saúde,51-200,Sul,Senior,Diretor(a) de RH
+368,Empresa 0368 · Serviços,Empresa 0368,2026-08-23,2026-10-03,Perdido,Perdido,20300.0,Outbound,Serviços,51-200,Sudeste,Planilha / nenhum,Gerente de T&D
+369,Empresa 0369 · Serviços,Empresa 0369,2025-04-02,2025-05-09,Ganho,Ganho,34400.0,Indicação,Serviços,201-1000,Centro-Oeste,SAP,Gerente de T&D
+370,Empresa 0370 · Financeiro,Empresa 0370,2024-11-05,2024-12-30,Ganho,Ganho,20900.0,Outbound,Financeiro,201-1000,Sudeste,Senior,CEO / Sócio
+371,Empresa 0371 · Educação,Empresa 0371,2025-01-09,2025-03-10,Perdido,Perdido,8800.0,LinkedIn Ads,Educação,51-200,Nordeste,TOTVS,CEO / Sócio
+372,Empresa 0372 · Indústria,Empresa 0372,2024-10-30,2024-12-03,Perdido,Perdido,13300.0,Orgânico (SEO),Indústria,201-1000,Sudeste,TOTVS,Analista
+373,Empresa 0373 · Varejo,Empresa 0373,2025-11-13,2025-12-02,Perdido,Perdido,7400.0,Indicação,Varejo,1-50,Sudeste,Outro,CEO / Sócio
+374,Empresa 0374 · Serviços,Empresa 0374,2025-05-12,2025-06-20,Perdido,Perdido,15700.0,Orgânico (SEO),Serviços,51-200,Sul,Outro,Diretor(a) de RH
+375,Empresa 0375 · Tecnologia,Empresa 0375,2026-04-13,2026-05-22,Ganho,Ganho,42500.0,Orgânico (SEO),Tecnologia,51-200,Sudeste,SAP,Diretor(a) de RH
+376,Empresa 0376 · Indústria,Empresa 0376,2025-09-11,2025-09-30,Perdido,Perdido,16500.0,Orgânico (SEO),Indústria,201-1000,Sul,Outro,Diretor(a) de RH
+377,Empresa 0377 · Serviços,Empresa 0377,2025-08-01,2025-09-26,Perdido,Perdido,4800.0,Eventos,Serviços,1-50,Sudeste,Planilha / nenhum,CEO / Sócio
+378,Empresa 0378 · Tecnologia,Empresa 0378,2025-08-07,2025-10-10,Perdido,Perdido,13600.0,Outbound,Tecnologia,51-200,Centro-Oeste,Senior,Analista
+379,Empresa 0379 · Varejo,Empresa 0379,2026-01-27,2026-02-27,Perdido,Perdido,13200.0,LinkedIn Ads,Varejo,1-50,Sul,Senior,CEO / Sócio
+380,Empresa 0380 · Saúde,Empresa 0380,2025-07-09,2025-08-27,Perdido,Perdido,32700.0,LinkedIn Ads,Saúde,51-200,Nordeste,SAP,Analista
+381,Empresa 0381 · Saúde,Empresa 0381,2026-03-18,2026-07-04,Perdido,Perdido,12000.0,Outbound,Saúde,1-50,Sudeste,Planilha / nenhum,Gerente de T&D
+382,Empresa 0382 · Indústria,Empresa 0382,2026-01-30,2026-02-26,Perdido,Perdido,28100.0,Google Ads,Indústria,51-200,Nordeste,Senior,Gerente de T&D
+383,Empresa 0383 · Tecnologia,Empresa 0383,2025-09-17,2025-10-18,Perdido,Perdido,23100.0,Indicação,Tecnologia,201-1000,Sudeste,Planilha / nenhum,Analista
+384,Empresa 0384 · Tecnologia,Empresa 0384,2026-05-31,2026-08-05,Perdido,Perdido,10500.0,Google Ads,Tecnologia,1-50,Centro-Oeste,TOTVS,Analista
+385,Empresa 0385 · Varejo,Empresa 0385,2025-04-10,2025-06-21,Ganho,Ganho,8900.0,Eventos,Varejo,201-1000,Sudeste,Senior,CEO / Sócio
+386,Empresa 0386 · Tecnologia,Empresa 0386,2025-01-17,2025-03-28,Perdido,Perdido,2500.0,Outbound,Tecnologia,1-50,Nordeste,SAP,CEO / Sócio
+387,Empresa 0387 · Saúde,Empresa 0387,2026-01-30,2026-03-25,Perdido,Perdido,6800.0,Google Ads,Saúde,1-50,Centro-Oeste,SAP,CEO / Sócio
+388,Empresa 0388 · Saúde,Empresa 0388,2025-05-07,2025-07-02,Perdido,Perdido,3500.0,Google Ads,Saúde,1-50,Sudeste,Outro,CEO / Sócio
+389,Empresa 0389 · Indústria,Empresa 0389,2025-12-13,2026-01-11,Perdido,Perdido,9200.0,Indicação,Indústria,1-50,Sudeste,Planilha / nenhum,Analista
+390,Empresa 0390 · Indústria,Empresa 0390,2025-06-28,2025-07-15,Perdido,Perdido,30300.0,LinkedIn Ads,Indústria,201-1000,Nordeste,Outro,Gerente de T&D
+391,Empresa 0391 · Tecnologia,Empresa 0391,2026-03-01,2026-04-29,Perdido,Perdido,7700.0,Orgânico (SEO),Tecnologia,1-50,Norte,Planilha / nenhum,Analista
+392,Empresa 0392 · Serviços,Empresa 0392,2025-08-07,2025-09-23,Perdido,Perdido,27200.0,Google Ads,Serviços,51-200,Sul,TOTVS,Gerente de T&D
+393,Empresa 0393 · Indústria,Empresa 0393,2025-07-11,2025-08-23,Perdido,Perdido,9300.0,Eventos,Indústria,1-50,Norte,Planilha / nenhum,Diretor(a) de RH
+394,Empresa 0394 · Indústria,Empresa 0394,2026-09-29,2026-12-26,Aberto,Proposta,19700.0,Outbound,Indústria,201-1000,Sul,Planilha / nenhum,CEO / Sócio
+395,Empresa 0395 · Varejo,Empresa 0395,2026-03-01,2026-03-28,Perdido,Perdido,19900.0,Indicação,Varejo,51-200,Centro-Oeste,Outro,Diretor(a) de RH
+396,Empresa 0396 · Varejo,Empresa 0396,2024-10-25,2024-12-18,Perdido,Perdido,15700.0,LinkedIn Ads,Varejo,201-1000,Sudeste,SAP,Analista
+397,Empresa 0397 · Indústria,Empresa 0397,2026-09-23,2026-10-16,Perdido,Perdido,18200.0,Indicação,Indústria,51-200,Norte,Outro,Analista
+398,Empresa 0398 · Financeiro,Empresa 0398,2025-11-01,2026-01-12,Perdido,Perdido,5300.0,LinkedIn Ads,Financeiro,1-50,Sudeste,Planilha / nenhum,TI
+399,Empresa 0399 · Tecnologia,Empresa 0399,2026-06-02,2026-09-12,Aberto,Proposta,32900.0,Eventos,Tecnologia,1000+,Sudeste,TOTVS,Diretor(a) de RH
+400,Empresa 0400 · Serviços,Empresa 0400,2025-10-18,2025-12-15,Aberto,Proposta,10400.0,Google Ads,Serviços,51-200,Sudeste,Planilha / nenhum,Gerente de T&D
+401,Empresa 0401 · Educação,Empresa 0401,2026-03-09,2026-03-26,Perdido,Perdido,55100.0,Indicação,Educação,201-1000,Centro-Oeste,Planilha / nenhum,Analista
+402,Empresa 0402 · Saúde,Empresa 0402,2026-01-23,2026-05-23,Perdido,Perdido,14600.0,Eventos,Saúde,51-200,Sudeste,TOTVS,Analista
+403,Empresa 0403 · Indústria,Empresa 0403,2025-07-22,2025-08-22,Perdido,Perdido,53900.0,Google Ads,Indústria,201-1000,Centro-Oeste,TOTVS,CEO / Sócio
+404,Empresa 0404 · Financeiro,Empresa 0404,2024-12-28,2025-03-11,Perdido,Perdido,15900.0,Orgânico (SEO),Financeiro,1-50,Sul,Senior,Analista
+405,Empresa 0405 · Serviços,Empresa 0405,2026-05-05,2026-08-11,Perdido,Perdido,17100.0,Orgânico (SEO),Serviços,51-200,Norte,Senior,CEO / Sócio
+406,Empresa 0406 · Tecnologia,Empresa 0406,2026-02-06,2026-03-12,Ganho,Ganho,19700.0,Indicação,Tecnologia,201-1000,Norte,SAP,Gerente de T&D
+407,Empresa 0407 · Educação,Empresa 0407,2024-11-30,2024-12-07,Perdido,Perdido,14200.0,Google Ads,Educação,51-200,Sudeste,TOTVS,Analista
+408,Empresa 0408 · Educação,Empresa 0408,2026-02-19,2026-04-13,Ganho,Ganho,6500.0,LinkedIn Ads,Educação,1-50,Nordeste,SAP,Gerente de T&D
+409,Empresa 0409 · Financeiro,Empresa 0409,2026-09-26,2027-01-10,Aberto,Proposta,4500.0,LinkedIn Ads,Financeiro,1-50,Centro-Oeste,Senior,Analista
+410,Empresa 0410 · Indústria,Empresa 0410,2026-04-18,2026-05-07,Perdido,Perdido,15600.0,Google Ads,Indústria,1-50,Sul,Senior,CEO / Sócio
+411,Empresa 0411 · Tecnologia,Empresa 0411,2025-10-13,2025-11-12,Perdido,Perdido,3100.0,Eventos,Tecnologia,1-50,Sudeste,TOTVS,Analista
+412,Empresa 0412 · Financeiro,Empresa 0412,2025-11-03,2025-12-05,Perdido,Perdido,5000.0,Google Ads,Financeiro,1-50,Nordeste,Planilha / nenhum,TI
+413,Empresa 0413 · Varejo,Empresa 0413,2025-10-08,2025-11-21,Ganho,Ganho,25900.0,Indicação,Varejo,51-200,Nordeste,TOTVS,Gerente de T&D
+414,Empresa 0414 · Indústria,Empresa 0414,2025-01-30,2025-02-24,Ganho,Ganho,4100.0,Indicação,Indústria,1-50,Sudeste,Outro,CEO / Sócio
+415,Empresa 0415 · Serviços,Empresa 0415,2026-02-23,2026-04-07,Perdido,Perdido,6100.0,Eventos,Serviços,1-50,Sudeste,Outro,CEO / Sócio
+416,Empresa 0416 · Saúde,Empresa 0416,2026-07-31,2026-09-22,Perdido,Perdido,10500.0,Orgânico (SEO),Saúde,1-50,Sudeste,Senior,Diretor(a) de RH
+417,Empresa 0417 · Educação,Empresa 0417,2025-11-04,2025-12-30,Perdido,Perdido,26700.0,LinkedIn Ads,Educação,201-1000,Sul,Outro,CEO / Sócio
+418,Empresa 0418 · Serviços,Empresa 0418,2026-06-27,2026-07-19,Perdido,Perdido,11800.0,Eventos,Serviços,201-1000,Sul,Planilha / nenhum,Analista
+419,Empresa 0419 · Financeiro,Empresa 0419,2026-05-14,2026-05-31,Ganho,Ganho,8600.0,Orgânico (SEO),Financeiro,1-50,Sudeste,SAP,CEO / Sócio
+420,Empresa 0420 · Indústria,Empresa 0420,2024-11-12,2024-12-08,Perdido,Perdido,16200.0,Outbound,Indústria,201-1000,Centro-Oeste,Outro,Analista
+421,Empresa 0421 · Serviços,Empresa 0421,2026-07-17,2026-09-01,Aberto,Proposta,7700.0,Indicação,Serviços,201-1000,Sul,Senior,Diretor(a) de RH
+422,Empresa 0422 · Educação,Empresa 0422,2026-08-02,2026-09-09,Ganho,Ganho,10900.0,Indicação,Educação,51-200,Sul,Planilha / nenhum,Diretor(a) de RH
+423,Empresa 0423 · Indústria,Empresa 0423,2025-04-23,2025-05-21,Ganho,Ganho,4200.0,Indicação,Indústria,51-200,Sudeste,Planilha / nenhum,Gerente de T&D
+424,Empresa 0424 · Financeiro,Empresa 0424,2024-11-18,2025-01-08,Aberto,Proposta,25100.0,Google Ads,Financeiro,1000+,Sudeste,Planilha / nenhum,Gerente de T&D
+425,Empresa 0425 · Tecnologia,Empresa 0425,2024-12-05,2025-02-18,Perdido,Perdido,15100.0,Outbound,Tecnologia,51-200,Sudeste,Planilha / nenhum,CEO / Sócio
+426,Empresa 0426 · Tecnologia,Empresa 0426,2026-04-07,2026-05-04,Perdido,Perdido,26500.0,Eventos,Tecnologia,51-200,Sul,Outro,Analista
+427,Empresa 0427 · Serviços,Empresa 0427,2024-12-08,2025-04-17,Ganho,Ganho,26800.0,Orgânico (SEO),Serviços,1000+,Nordeste,TOTVS,Diretor(a) de RH
+428,Empresa 0428 · Educação,Empresa 0428,2026-05-23,2026-08-06,Aberto,Proposta,14900.0,Outbound,Educação,201-1000,Nordeste,TOTVS,Gerente de T&D
+429,Empresa 0429 · Indústria,Empresa 0429,2025-07-10,2025-11-16,Aberto,Proposta,41000.0,Outbound,Indústria,1000+,Sudeste,TOTVS,Diretor(a) de RH
+430,Empresa 0430 · Serviços,Empresa 0430,2025-11-29,2026-01-06,Perdido,Perdido,2600.0,Indicação,Serviços,1-50,Sul,TOTVS,Gerente de T&D
+431,Empresa 0431 · Educação,Empresa 0431,2026-07-29,2026-08-28,Ganho,Ganho,19700.0,Outbound,Educação,51-200,Sudeste,TOTVS,Analista
+432,Empresa 0432 · Serviços,Empresa 0432,2025-07-14,2025-10-03,Perdido,Perdido,10800.0,Eventos,Serviços,51-200,Sul,Outro,Diretor(a) de RH
+433,Empresa 0433 · Tecnologia,Empresa 0433,2025-08-21,2025-09-27,Perdido,Perdido,15700.0,Orgânico (SEO),Tecnologia,201-1000,Sul,Planilha / nenhum,Diretor(a) de RH
+434,Empresa 0434 · Tecnologia,Empresa 0434,2025-02-20,2025-04-21,Perdido,Perdido,8000.0,Orgânico (SEO),Tecnologia,1-50,Sudeste,Senior,CEO / Sócio
+435,Empresa 0435 · Varejo,Empresa 0435,2026-10-28,2027-01-05,Aberto,Proposta,10600.0,Google Ads,Varejo,51-200,Nordeste,TOTVS,Diretor(a) de RH
+436,Empresa 0436 · Tecnologia,Empresa 0436,2025-08-09,2025-09-09,Ganho,Ganho,61000.0,Indicação,Tecnologia,201-1000,Sudeste,SAP,Diretor(a) de RH
+437,Empresa 0437 · Serviços,Empresa 0437,2026-05-29,2026-08-20,Aberto,Proposta,12200.0,LinkedIn Ads,Serviços,1-50,Sudeste,TOTVS,Analista
+438,Empresa 0438 · Indústria,Empresa 0438,2026-11-01,2026-12-26,Aberto,Proposta,9200.0,Orgânico (SEO),Indústria,1-50,Sul,TOTVS,Analista
+439,Empresa 0439 · Tecnologia,Empresa 0439,2026-04-29,2026-05-30,Perdido,Perdido,29100.0,Eventos,Tecnologia,201-1000,Sudeste,Outro,CEO / Sócio
+440,Empresa 0440 · Financeiro,Empresa 0440,2025-04-26,2025-05-22,Aberto,Proposta,10100.0,Orgânico (SEO),Financeiro,51-200,Sudeste,Planilha / nenhum,Analista
+441,Empresa 0441 · Saúde,Empresa 0441,2025-03-05,2025-04-29,Ganho,Ganho,7700.0,Google Ads,Saúde,1-50,Sul,TOTVS,Diretor(a) de RH
+442,Empresa 0442 · Varejo,Empresa 0442,2025-09-09,2025-12-11,Perdido,Perdido,26000.0,Orgânico (SEO),Varejo,1000+,Sudeste,Planilha / nenhum,TI
+443,Empresa 0443 · Varejo,Empresa 0443,2026-05-25,2026-06-13,Perdido,Perdido,4100.0,Orgânico (SEO),Varejo,1-50,Sudeste,Planilha / nenhum,Analista
+444,Empresa 0444 · Tecnologia,Empresa 0444,2026-04-14,2026-05-30,Perdido,Perdido,11700.0,Google Ads,Tecnologia,201-1000,Sul,Planilha / nenhum,CEO / Sócio
+445,Empresa 0445 · Tecnologia,Empresa 0445,2026-05-10,2026-06-21,Perdido,Perdido,27600.0,Outbound,Tecnologia,51-200,Sudeste,Senior,CEO / Sócio
+446,Empresa 0446 · Indústria,Empresa 0446,2025-09-09,2025-10-18,Ganho,Ganho,11300.0,Orgânico (SEO),Indústria,201-1000,Sul,Outro,Gerente de T&D
+447,Empresa 0447 · Varejo,Empresa 0447,2025-03-09,2025-05-03,Aberto,Proposta,3700.0,LinkedIn Ads,Varejo,1-50,Norte,Outro,Analista
+448,Empresa 0448 · Tecnologia,Empresa 0448,2024-10-21,2024-11-26,Aberto,Proposta,11700.0,Google Ads,Tecnologia,1-50,Sudeste,Senior,Gerente de T&D
+449,Empresa 0449 · Varejo,Empresa 0449,2024-11-01,2024-12-22,Perdido,Perdido,25400.0,Google Ads,Varejo,51-200,Sudeste,Outro,Diretor(a) de RH
+450,Empresa 0450 · Tecnologia,Empresa 0450,2026-03-02,2026-03-26,Perdido,Perdido,30800.0,Google Ads,Tecnologia,51-200,Sudeste,Planilha / nenhum,Analista
+451,Empresa 0451 · Financeiro,Empresa 0451,2024-10-23,2024-11-23,Perdido,Perdido,34400.0,LinkedIn Ads,Financeiro,201-1000,Sul,Senior,Analista
+452,Empresa 0452 · Tecnologia,Empresa 0452,2026-09-06,2026-10-09,Perdido,Perdido,11400.0,LinkedIn Ads,Tecnologia,1-50,Sudeste,Planilha / nenhum,Diretor(a) de RH
+453,Empresa 0453 · Serviços,Empresa 0453,2026-06-01,2026-08-09,Perdido,Perdido,7000.0,Outbound,Serviços,1-50,Sudeste,TOTVS,CEO / Sócio
+454,Empresa 0454 · Tecnologia,Empresa 0454,2026-07-05,2026-08-13,Aberto,Proposta,32600.0,Google Ads,Tecnologia,1000+,Sul,Outro,CEO / Sócio
+455,Empresa 0455 · Educação,Empresa 0455,2026-07-26,2026-09-07,Perdido,Perdido,8400.0,LinkedIn Ads,Educação,51-200,Sudeste,TOTVS,Analista
+456,Empresa 0456 · Educação,Empresa 0456,2026-03-26,2026-05-17,Ganho,Ganho,24300.0,Orgânico (SEO),Educação,201-1000,Sudeste,TOTVS,Gerente de T&D
+457,Empresa 0457 · Tecnologia,Empresa 0457,2025-04-16,2025-07-14,Ganho,Ganho,15600.0,Google Ads,Tecnologia,51-200,Sul,Planilha / nenhum,TI
+458,Empresa 0458 · Indústria,Empresa 0458,2025-08-09,2025-09-03,Perdido,Perdido,8200.0,Outbound,Indústria,51-200,Nordeste,Planilha / nenhum,TI
+459,Empresa 0459 · Tecnologia,Empresa 0459,2025-03-05,2025-04-23,Perdido,Perdido,31400.0,Indicação,Tecnologia,201-1000,Sudeste,Planilha / nenhum,Analista
+460,Empresa 0460 · Tecnologia,Empresa 0460,2026-08-30,2026-10-03,Perdido,Perdido,17700.0,Outbound,Tecnologia,51-200,Sudeste,TOTVS,Gerente de T&D
+461,Empresa 0461 · Tecnologia,Empresa 0461,2026-04-30,2026-06-21,Aberto,Proposta,11400.0,Outbound,Tecnologia,51-200,Sudeste,Outro,CEO / Sócio
+462,Empresa 0462 · Tecnologia,Empresa 0462,2025-01-13,2025-03-08,Perdido,Perdido,14600.0,Google Ads,Tecnologia,51-200,Sul,Senior,Diretor(a) de RH
+463,Empresa 0463 · Indústria,Empresa 0463,2026-02-22,2026-03-10,Perdido,Perdido,10000.0,Google Ads,Indústria,1-50,Sul,Planilha / nenhum,TI
+464,Empresa 0464 · Indústria,Empresa 0464,2025-05-11,2025-08-27,Perdido,Perdido,18400.0,Eventos,Indústria,1000+,Norte,Planilha / nenhum,Diretor(a) de RH
+465,Empresa 0465 · Serviços,Empresa 0465,2025-03-08,2025-06-11,Aberto,Proposta,7400.0,LinkedIn Ads,Serviços,1-50,Sudeste,Outro,Analista
+466,Empresa 0466 · Indústria,Empresa 0466,2026-06-17,2026-12-20,Aberto,Proposta,34400.0,Outbound,Indústria,1000+,Centro-Oeste,TOTVS,CEO / Sócio
+467,Empresa 0467 · Tecnologia,Empresa 0467,2024-11-30,2025-01-31,Perdido,Perdido,7500.0,Outbound,Tecnologia,1-50,Sudeste,SAP,Analista
+468,Empresa 0468 · Saúde,Empresa 0468,2025-11-16,2025-12-16,Perdido,Perdido,29900.0,Google Ads,Saúde,201-1000,Sudeste,Planilha / nenhum,Diretor(a) de RH
+469,Empresa 0469 · Serviços,Empresa 0469,2026-03-08,2026-04-02,Perdido,Perdido,17900.0,Google Ads,Serviços,51-200,Norte,Planilha / nenhum,CEO / Sócio
+470,Empresa 0470 · Financeiro,Empresa 0470,2025-04-06,2025-05-02,Ganho,Ganho,47000.0,Orgânico (SEO),Financeiro,1000+,Sudeste,Senior,CEO / Sócio
+471,Empresa 0471 · Serviços,Empresa 0471,2024-11-03,2024-12-05,Perdido,Perdido,9700.0,Outbound,Serviços,51-200,Norte,TOTVS,CEO / Sócio
+472,Empresa 0472 · Varejo,Empresa 0472,2025-09-22,2025-11-12,Aberto,Proposta,3100.0,Orgânico (SEO),Varejo,1-50,Norte,Outro,Gerente de T&D
+473,Empresa 0473 · Saúde,Empresa 0473,2025-07-01,2025-10-04,Ganho,Ganho,25500.0,Outbound,Saúde,201-1000,Sudeste,SAP,Diretor(a) de RH
+474,Empresa 0474 · Educação,Empresa 0474,2025-12-03,2026-01-21,Perdido,Perdido,7300.0,Indicação,Educação,1-50,Sudeste,TOTVS,Analista
+475,Empresa 0475 · Serviços,Empresa 0475,2026-02-02,2026-03-30,Perdido,Perdido,14800.0,LinkedIn Ads,Serviços,51-200,Nordeste,Planilha / nenhum,Analista
+476,Empresa 0476 · Tecnologia,Empresa 0476,2025-02-17,2025-04-29,Perdido,Perdido,8200.0,Eventos,Tecnologia,1-50,Sudeste,Senior,Gerente de T&D
+477,Empresa 0477 · Varejo,Empresa 0477,2026-01-15,2026-03-06,Perdido,Perdido,25300.0,Indicação,Varejo,201-1000,Sul,Senior,TI
+478,Empresa 0478 · Varejo,Empresa 0478,2025-12-24,2026-03-08,Perdido,Perdido,6500.0,Orgânico (SEO),Varejo,1-50,Centro-Oeste,Outro,Gerente de T&D
+479,Empresa 0479 · Financeiro,Empresa 0479,2024-11-14,2025-01-02,Perdido,Perdido,21000.0,Outbound,Financeiro,201-1000,Sul,TOTVS,CEO / Sócio
+480,Empresa 0480 · Saúde,Empresa 0480,2026-11-04,2026-12-30,Aberto,Proposta,7300.0,Orgânico (SEO),Saúde,1-50,Nordeste,Outro,CEO / Sócio
+481,Empresa 0481 · Indústria,Empresa 0481,2025-05-04,2025-07-21,Perdido,Perdido,31800.0,Indicação,Indústria,51-200,Sul,TOTVS,CEO / Sócio
+482,Empresa 0482 · Serviços,Empresa 0482,2025-07-20,2025-10-15,Ganho,Ganho,13700.0,Orgânico (SEO),Serviços,1-50,Sul,SAP,Gerente de T&D
+483,Empresa 0483 · Tecnologia,Empresa 0483,2025-05-04,2025-05-22,Perdido,Perdido,26200.0,Orgânico (SEO),Tecnologia,201-1000,Sudeste,Outro,Analista
+484,Empresa 0484 · Saúde,Empresa 0484,2026-07-14,2026-08-30,Ganho,Ganho,18900.0,Google Ads,Saúde,201-1000,Sul,Planilha / nenhum,Diretor(a) de RH
+485,Empresa 0485 · Financeiro,Empresa 0485,2025-11-01,2025-11-29,Perdido,Perdido,35500.0,Google Ads,Financeiro,201-1000,Centro-Oeste,Outro,TI
+486,Empresa 0486 · Tecnologia,Empresa 0486,2026-11-06,2026-12-10,Aberto,Proposta,25900.0,Orgânico (SEO),Tecnologia,1000+,Sudeste,TOTVS,CEO / Sócio
+487,Empresa 0487 · Varejo,Empresa 0487,2024-10-29,2024-12-24,Perdido,Perdido,7700.0,Outbound,Varejo,1-50,Sudeste,Planilha / nenhum,CEO / Sócio
+488,Empresa 0488 · Tecnologia,Empresa 0488,2025-03-14,2025-04-13,Perdido,Perdido,13300.0,Indicação,Tecnologia,51-200,Sudeste,TOTVS,TI
+489,Empresa 0489 · Serviços,Empresa 0489,2025-05-09,2025-06-05,Perdido,Perdido,17400.0,Orgânico (SEO),Serviços,201-1000,Sudeste,TOTVS,CEO / Sócio
+490,Empresa 0490 · Financeiro,Empresa 0490,2026-07-10,2026-08-06,Perdido,Perdido,13200.0,Google Ads,Financeiro,51-200,Sudeste,Outro,Gerente de T&D
+491,Empresa 0491 · Varejo,Empresa 0491,2026-04-17,2026-05-19,Perdido,Perdido,14100.0,LinkedIn Ads,Varejo,51-200,Nordeste,Outro,Analista
+492,Empresa 0492 · Saúde,Empresa 0492,2024-12-07,2025-01-08,Perdido,Perdido,5000.0,Google Ads,Saúde,1-50,Sudeste,SAP,Diretor(a) de RH
+493,Empresa 0493 · Educação,Empresa 0493,2026-03-09,2026-04-12,Perdido,Perdido,20100.0,Orgânico (SEO),Educação,201-1000,Sudeste,Senior,CEO / Sócio
+494,Empresa 0494 · Educação,Empresa 0494,2026-04-01,2026-05-17,Perdido,Perdido,10300.0,Google Ads,Educação,1-50,Nordeste,Outro,Gerente de T&D
+495,Empresa 0495 · Educação,Empresa 0495,2026-04-05,2026-06-18,Perdido,Perdido,14700.0,LinkedIn Ads,Educação,51-200,Nordeste,SAP,Gerente de T&D
+496,Empresa 0496 · Tecnologia,Empresa 0496,2026-06-29,2026-09-02,Aberto,Proposta,3900.0,Outbound,Tecnologia,1-50,Sul,TOTVS,CEO / Sócio
+497,Empresa 0497 · Serviços,Empresa 0497,2025-09-11,2025-10-01,Perdido,Perdido,27800.0,Indicação,Serviços,201-1000,Sudeste,Outro,Diretor(a) de RH
+498,Empresa 0498 · Indústria,Empresa 0498,2025-12-30,2026-01-18,Perdido,Perdido,13400.0,Orgânico (SEO),Indústria,51-200,Sudeste,Planilha / nenhum,Gerente de T&D
+499,Empresa 0499 · Educação,Empresa 0499,2025-08-25,2025-10-18,Aberto,Proposta,6600.0,Eventos,Educação,1-50,Sudeste,Outro,CEO / Sócio
+500,Empresa 0500 · Indústria,Empresa 0500,2026-02-24,2026-05-15,Aberto,Proposta,11300.0,Outbound,Indústria,51-200,Norte,Outro,Analista
+501,Empresa 0501 · Indústria,Empresa 0501,2025-04-25,2025-07-01,Perdido,Perdido,9600.0,Orgânico (SEO),Indústria,51-200,Sudeste,Outro,Gerente de T&D
+502,Empresa 0502 · Educação,Empresa 0502,2025-05-30,2025-06-30,Perdido,Perdido,4900.0,Google Ads,Educação,1-50,Sudeste,TOTVS,TI
+503,Empresa 0503 · Serviços,Empresa 0503,2026-06-10,2026-07-16,Perdido,Perdido,4000.0,Google Ads,Serviços,1-50,Sudeste,SAP,Gerente de T&D
+504,Empresa 0504 · Financeiro,Empresa 0504,2025-06-06,2025-07-11,Perdido,Perdido,5000.0,Google Ads,Financeiro,1-50,Sul,Planilha / nenhum,Diretor(a) de RH
+505,Empresa 0505 · Saúde,Empresa 0505,2025-12-17,2026-01-04,Perdido,Perdido,24000.0,Orgânico (SEO),Saúde,51-200,Sudeste,TOTVS,TI
+506,Empresa 0506 · Financeiro,Empresa 0506,2025-07-11,2025-08-17,Aberto,Proposta,23700.0,Eventos,Financeiro,201-1000,Nordeste,Planilha / nenhum,Analista
+507,Empresa 0507 · Educação,Empresa 0507,2025-12-16,2026-02-27,Perdido,Perdido,11800.0,Eventos,Educação,51-200,Sudeste,Senior,Analista
+508,Empresa 0508 · Tecnologia,Empresa 0508,2025-10-09,2025-12-14,Perdido,Perdido,7600.0,Outbound,Tecnologia,1-50,Nordeste,Planilha / nenhum,Diretor(a) de RH
+509,Empresa 0509 · Tecnologia,Empresa 0509,2025-02-05,2025-04-19,Perdido,Perdido,29200.0,Google Ads,Tecnologia,201-1000,Norte,Senior,CEO / Sócio
+510,Empresa 0510 · Tecnologia,Empresa 0510,2025-07-05,2025-11-13,Perdido,Perdido,14200.0,Orgânico (SEO),Tecnologia,201-1000,Sudeste,Outro,Analista
+511,Empresa 0511 · Tecnologia,Empresa 0511,2025-08-31,2025-11-24,Perdido,Perdido,12500.0,Google Ads,Tecnologia,1-50,Sudeste,TOTVS,Gerente de T&D
+512,Empresa 0512 · Serviços,Empresa 0512,2025-11-12,2026-03-04,Perdido,Perdido,19400.0,Orgânico (SEO),Serviços,201-1000,Sudeste,TOTVS,Analista
+513,Empresa 0513 · Indústria,Empresa 0513,2025-04-20,2025-07-04,Perdido,Perdido,10600.0,Outbound,Indústria,1000+,Nordeste,Senior,CEO / Sócio
+514,Empresa 0514 · Financeiro,Empresa 0514,2025-04-26,2025-05-21,Perdido,Perdido,16600.0,Indicação,Financeiro,1-50,Norte,Outro,Analista
+515,Empresa 0515 · Educação,Empresa 0515,2025-11-04,2025-12-14,Ganho,Ganho,22500.0,Outbound,Educação,201-1000,Sudeste,TOTVS,Analista
+516,Empresa 0516 · Saúde,Empresa 0516,2025-04-12,2025-06-26,Perdido,Perdido,19400.0,Orgânico (SEO),Saúde,201-1000,Sudeste,Senior,Gerente de T&D
+517,Empresa 0517 · Saúde,Empresa 0517,2025-05-11,2025-06-15,Perdido,Perdido,33200.0,Outbound,Saúde,201-1000,Nordeste,Planilha / nenhum,Analista
+518,Empresa 0518 · Tecnologia,Empresa 0518,2026-06-04,2026-07-01,Perdido,Perdido,12300.0,Google Ads,Tecnologia,201-1000,Sudeste,Outro,Analista
+519,Empresa 0519 · Financeiro,Empresa 0519,2025-02-04,2025-03-31,Perdido,Perdido,6800.0,LinkedIn Ads,Financeiro,1-50,Nordeste,Outro,Analista
+520,Empresa 0520 · Financeiro,Empresa 0520,2025-03-14,2025-04-12,Ganho,Ganho,11800.0,Google Ads,Financeiro,51-200,Sudeste,SAP,CEO / Sócio
+521,Empresa 0521 · Saúde,Empresa 0521,2025-04-25,2025-05-24,Perdido,Perdido,14200.0,Google Ads,Saúde,1-50,Sul,Outro,Diretor(a) de RH
+522,Empresa 0522 · Saúde,Empresa 0522,2025-11-04,2025-12-25,Perdido,Perdido,11200.0,Outbound,Saúde,51-200,Sudeste,Planilha / nenhum,TI
+523,Empresa 0523 · Indústria,Empresa 0523,2025-03-15,2025-05-12,Perdido,Perdido,34900.0,Outbound,Indústria,201-1000,Sudeste,TOTVS,Gerente de T&D
+524,Empresa 0524 · Saúde,Empresa 0524,2024-11-25,2025-01-11,Perdido,Perdido,22100.0,Outbound,Saúde,51-200,Nordeste,TOTVS,Diretor(a) de RH
+525,Empresa 0525 · Indústria,Empresa 0525,2026-10-16,2026-12-02,Aberto,Proposta,106200.0,Orgânico (SEO),Indústria,1000+,Sudeste,Planilha / nenhum,TI
+526,Empresa 0526 · Indústria,Empresa 0526,2025-04-14,2025-07-27,Aberto,Proposta,50400.0,Orgânico (SEO),Indústria,201-1000,Nordeste,SAP,Diretor(a) de RH
+527,Empresa 0527 · Tecnologia,Empresa 0527,2026-02-12,2026-04-17,Ganho,Ganho,26300.0,Orgânico (SEO),Tecnologia,51-200,Sul,TOTVS,Diretor(a) de RH
+528,Empresa 0528 · Tecnologia,Empresa 0528,2025-02-10,2025-03-11,Ganho,Ganho,18400.0,Orgânico (SEO),Tecnologia,201-1000,Sudeste,TOTVS,CEO / Sócio
+529,Empresa 0529 · Indústria,Empresa 0529,2026-08-07,2026-10-07,Perdido,Perdido,22100.0,Eventos,Indústria,1-50,Nordeste,Planilha / nenhum,CEO / Sócio
+530,Empresa 0530 · Indústria,Empresa 0530,2025-08-08,2025-08-30,Perdido,Perdido,17300.0,Orgânico (SEO),Indústria,51-200,Sudeste,Planilha / nenhum,CEO / Sócio
+531,Empresa 0531 · Tecnologia,Empresa 0531,2025-09-16,2025-10-09,Perdido,Perdido,20700.0,Google Ads,Tecnologia,51-200,Sudeste,Planilha / nenhum,CEO / Sócio
+532,Empresa 0532 · Financeiro,Empresa 0532,2025-08-23,2025-09-22,Perdido,Perdido,11600.0,Indicação,Financeiro,51-200,Nordeste,Outro,Analista
+533,Empresa 0533 · Varejo,Empresa 0533,2026-04-12,2026-05-04,Perdido,Perdido,7700.0,LinkedIn Ads,Varejo,1-50,Sul,SAP,CEO / Sócio
+534,Empresa 0534 · Saúde,Empresa 0534,2026-05-17,2026-06-21,Perdido,Perdido,16600.0,LinkedIn Ads,Saúde,51-200,Norte,TOTVS,Gerente de T&D
+535,Empresa 0535 · Indústria,Empresa 0535,2025-07-22,2025-09-29,Perdido,Perdido,31100.0,Google Ads,Indústria,1000+,Sudeste,TOTVS,CEO / Sócio
+536,Empresa 0536 · Saúde,Empresa 0536,2025-11-26,2026-01-08,Perdido,Perdido,30500.0,Outbound,Saúde,201-1000,Sul,TOTVS,CEO / Sócio
+537,Empresa 0537 · Indústria,Empresa 0537,2025-08-31,2025-10-07,Perdido,Perdido,6800.0,Google Ads,Indústria,1-50,Nordeste,Senior,CEO / Sócio
+538,Empresa 0538 · Saúde,Empresa 0538,2025-11-02,2025-12-25,Ganho,Ganho,9100.0,Outbound,Saúde,51-200,Sul,TOTVS,CEO / Sócio
+539,Empresa 0539 · Varejo,Empresa 0539,2025-07-22,2025-08-25,Perdido,Perdido,15100.0,Outbound,Varejo,51-200,Sul,Outro,Gerente de T&D
+540,Empresa 0540 · Saúde,Empresa 0540,2026-05-04,2026-06-07,Perdido,Perdido,11100.0,Eventos,Saúde,1-50,Sul,SAP,Gerente de T&D
+541,Empresa 0541 · Financeiro,Empresa 0541,2025-07-04,2025-08-11,Perdido,Perdido,30000.0,Outbound,Financeiro,201-1000,Sudeste,Outro,TI
+542,Empresa 0542 · Indústria,Empresa 0542,2025-08-22,2025-09-27,Perdido,Perdido,8600.0,Eventos,Indústria,1-50,Sudeste,Planilha / nenhum,TI
+543,Empresa 0543 · Varejo,Empresa 0543,2025-06-17,2025-09-22,Aberto,Proposta,6800.0,Orgânico (SEO),Varejo,1-50,Sudeste,Outro,Analista
+544,Empresa 0544 · Indústria,Empresa 0544,2025-03-28,2025-05-11,Perdido,Perdido,20200.0,Orgânico (SEO),Indústria,201-1000,Sudeste,Planilha / nenhum,CEO / Sócio
+545,Empresa 0545 · Educação,Empresa 0545,2025-08-14,2025-09-08,Aberto,Proposta,8800.0,Outbound,Educação,1-50,Centro-Oeste,SAP,Diretor(a) de RH
+546,Empresa 0546 · Tecnologia,Empresa 0546,2025-11-23,2026-01-04,Perdido,Perdido,8800.0,Google Ads,Tecnologia,51-200,Nordeste,Planilha / nenhum,TI
+547,Empresa 0547 · Saúde,Empresa 0547,2026-01-27,2026-05-08,Aberto,Proposta,21300.0,LinkedIn Ads,Saúde,201-1000,Sul,Outro,Gerente de T&D
+548,Empresa 0548 · Varejo,Empresa 0548,2025-11-03,2025-12-31,Perdido,Perdido,62500.0,Google Ads,Varejo,201-1000,Sudeste,Senior,TI
+549,Empresa 0549 · Serviços,Empresa 0549,2025-04-20,2025-05-12,Perdido,Perdido,15300.0,Outbound,Serviços,201-1000,Sul,Senior,Diretor(a) de RH
+550,Empresa 0550 · Financeiro,Empresa 0550,2025-08-20,2025-09-20,Perdido,Perdido,7800.0,Google Ads,Financeiro,1-50,Sul,TOTVS,Analista
+551,Empresa 0551 · Educação,Empresa 0551,2026-07-23,2026-08-11,Perdido,Perdido,5700.0,Eventos,Educação,1-50,Sul,Outro,Gerente de T&D
+552,Empresa 0552 · Indústria,Empresa 0552,2024-12-22,2025-01-29,Perdido,Perdido,5300.0,Orgânico (SEO),Indústria,1-50,Nordeste,Senior,CEO / Sócio
+553,Empresa 0553 · Financeiro,Empresa 0553,2025-12-17,2026-03-28,Perdido,Perdido,6400.0,Orgânico (SEO),Financeiro,1-50,Sul,Outro,Gerente de T&D
+554,Empresa 0554 · Tecnologia,Empresa 0554,2026-01-09,2026-02-05,Perdido,Perdido,14100.0,Indicação,Tecnologia,51-200,Sul,Planilha / nenhum,Diretor(a) de RH
+555,Empresa 0555 · Serviços,Empresa 0555,2024-11-21,2024-12-17,Perdido,Perdido,15400.0,Indicação,Serviços,201-1000,Sudeste,TOTVS,CEO / Sócio
+556,Empresa 0556 · Saúde,Empresa 0556,2025-11-01,2026-01-12,Perdido,Perdido,9900.0,Outbound,Saúde,51-200,Sudeste,SAP,Gerente de T&D
+557,Empresa 0557 · Indústria,Empresa 0557,2025-03-01,2025-04-26,Perdido,Perdido,7400.0,Outbound,Indústria,201-1000,Sudeste,TOTVS,Gerente de T&D
+558,Empresa 0558 · Varejo,Empresa 0558,2026-04-02,2026-07-01,Ganho,Ganho,24600.0,Orgânico (SEO),Varejo,201-1000,Sudeste,Senior,CEO / Sócio
+559,Empresa 0559 · Educação,Empresa 0559,2026-02-24,2026-04-30,Perdido,Perdido,21100.0,Orgânico (SEO),Educação,51-200,Nordeste,TOTVS,Diretor(a) de RH
+560,Empresa 0560 · Tecnologia,Empresa 0560,2026-04-27,2026-06-03,Perdido,Perdido,20500.0,Google Ads,Tecnologia,201-1000,Nordeste,Senior,Gerente de T&D
+561,Empresa 0561 · Indústria,Empresa 0561,2026-04-26,2026-05-28,Perdido,Perdido,7600.0,Orgânico (SEO),Indústria,1-50,Centro-Oeste,TOTVS,Analista
+562,Empresa 0562 · Tecnologia,Empresa 0562,2024-10-29,2024-12-14,Perdido,Perdido,39800.0,Outbound,Tecnologia,201-1000,Nordeste,TOTVS,Gerente de T&D
+563,Empresa 0563 · Varejo,Empresa 0563,2026-10-31,2026-12-25,Aberto,Proposta,9900.0,LinkedIn Ads,Varejo,1-50,Nordeste,TOTVS,Analista
+564,Empresa 0564 · Saúde,Empresa 0564,2026-06-26,2026-07-26,Aberto,Proposta,33900.0,Outbound,Saúde,201-1000,Sul,TOTVS,Gerente de T&D
+565,Empresa 0565 · Saúde,Empresa 0565,2024-11-29,2025-02-07,Aberto,Proposta,11600.0,Orgânico (SEO),Saúde,1-50,Centro-Oeste,Senior,Analista
+566,Empresa 0566 · Indústria,Empresa 0566,2026-02-03,2026-03-31,Aberto,Proposta,44700.0,Indicação,Indústria,201-1000,Sul,TOTVS,Gerente de T&D
+567,Empresa 0567 · Indústria,Empresa 0567,2025-01-17,2025-02-19,Perdido,Perdido,41200.0,Orgânico (SEO),Indústria,201-1000,Sudeste,Planilha / nenhum,Diretor(a) de RH
+568,Empresa 0568 · Indústria,Empresa 0568,2026-10-07,2026-11-12,Perdido,Perdido,8200.0,Outbound,Indústria,1-50,Sudeste,Outro,CEO / Sócio
+569,Empresa 0569 · Financeiro,Empresa 0569,2025-12-12,2026-02-14,Perdido,Perdido,10100.0,Outbound,Financeiro,201-1000,Sudeste,TOTVS,TI
+570,Empresa 0570 · Financeiro,Empresa 0570,2026-01-14,2026-02-12,Perdido,Perdido,15600.0,Eventos,Financeiro,201-1000,Sudeste,TOTVS,CEO / Sócio
+571,Empresa 0571 · Financeiro,Empresa 0571,2025-02-11,2025-05-28,Perdido,Perdido,18300.0,Eventos,Financeiro,51-200,Nordeste,Outro,Gerente de T&D
+572,Empresa 0572 · Financeiro,Empresa 0572,2025-12-23,2026-03-02,Perdido,Perdido,12800.0,Outbound,Financeiro,51-200,Sul,SAP,Diretor(a) de RH
+573,Empresa 0573 · Tecnologia,Empresa 0573,2025-10-18,2026-01-03,Perdido,Perdido,14400.0,Google Ads,Tecnologia,51-200,Sudeste,Planilha / nenhum,Analista
+574,Empresa 0574 · Varejo,Empresa 0574,2025-03-04,2025-04-30,Aberto,Proposta,7800.0,Eventos,Varejo,1-50,Sudeste,Outro,Diretor(a) de RH
+575,Empresa 0575 · Saúde,Empresa 0575,2025-07-27,2025-10-24,Perdido,Perdido,14300.0,LinkedIn Ads,Saúde,51-200,Norte,Outro,Diretor(a) de RH
+576,Empresa 0576 · Tecnologia,Empresa 0576,2026-01-21,2026-03-08,Perdido,Perdido,34600.0,Eventos,Tecnologia,1000+,Centro-Oeste,TOTVS,Gerente de T&D
+577,Empresa 0577 · Saúde,Empresa 0577,2026-11-01,2026-12-22,Aberto,Proposta,26800.0,Orgânico (SEO),Saúde,1000+,Nordeste,TOTVS,Gerente de T&D
+578,Empresa 0578 · Varejo,Empresa 0578,2026-03-26,2026-06-10,Perdido,Perdido,8600.0,Eventos,Varejo,201-1000,Nordeste,SAP,TI
+579,Empresa 0579 · Tecnologia,Empresa 0579,2026-05-18,2026-08-26,Perdido,Perdido,25700.0,Eventos,Tecnologia,201-1000,Sudeste,TOTVS,TI
+580,Empresa 0580 · Tecnologia,Empresa 0580,2026-05-21,2026-06-27,Perdido,Perdido,20000.0,Indicação,Tecnologia,1-50,Sudeste,Planilha / nenhum,TI
+581,Empresa 0581 · Saúde,Empresa 0581,2026-09-26,2026-12-26,Aberto,Proposta,39300.0,LinkedIn Ads,Saúde,1000+,Sul,TOTVS,Analista
+582,Empresa 0582 · Tecnologia,Empresa 0582,2025-08-27,2025-09-29,Perdido,Perdido,4100.0,Google Ads,Tecnologia,1-50,Sudeste,TOTVS,Diretor(a) de RH
+583,Empresa 0583 · Financeiro,Empresa 0583,2026-01-04,2026-02-21,Aberto,Proposta,13200.0,Google Ads,Financeiro,51-200,Sudeste,Outro,Diretor(a) de RH
+584,Empresa 0584 · Tecnologia,Empresa 0584,2026-03-29,2026-06-01,Perdido,Perdido,13100.0,Outbound,Tecnologia,201-1000,Sudeste,SAP,Gerente de T&D
+585,Empresa 0585 · Tecnologia,Empresa 0585,2025-02-18,2025-04-15,Perdido,Perdido,2800.0,Google Ads,Tecnologia,1-50,Sul,Outro,Diretor(a) de RH
+586,Empresa 0586 · Serviços,Empresa 0586,2026-06-14,2026-08-22,Perdido,Perdido,35900.0,Indicação,Serviços,51-200,Nordeste,Outro,Gerente de T&D
+587,Empresa 0587 · Varejo,Empresa 0587,2025-09-07,2025-10-23,Perdido,Perdido,3800.0,Outbound,Varejo,1-50,Sul,Planilha / nenhum,Analista
+588,Empresa 0588 · Indústria,Empresa 0588,2025-05-28,2025-07-13,Aberto,Proposta,8400.0,LinkedIn Ads,Indústria,1-50,Sudeste,Planilha / nenhum,Diretor(a) de RH
+589,Empresa 0589 · Tecnologia,Empresa 0589,2026-02-20,2026-03-10,Perdido,Perdido,12900.0,Outbound,Tecnologia,51-200,Sudeste,Planilha / nenhum,Analista
+590,Empresa 0590 · Indústria,Empresa 0590,2024-12-27,2025-02-28,Perdido,Perdido,10900.0,Indicação,Indústria,1-50,Sudeste,TOTVS,CEO / Sócio
+591,Empresa 0591 · Tecnologia,Empresa 0591,2026-07-19,2026-09-04,Ganho,Ganho,7100.0,LinkedIn Ads,Tecnologia,1-50,Sudeste,TOTVS,CEO / Sócio
+592,Empresa 0592 · Varejo,Empresa 0592,2025-09-17,2025-11-16,Perdido,Perdido,28400.0,Indicação,Varejo,1000+,Nordeste,Senior,Gerente de T&D
+593,Empresa 0593 · Saúde,Empresa 0593,2026-10-08,2027-02-17,Aberto,Proposta,10200.0,Eventos,Saúde,201-1000,Sudeste,TOTVS,Gerente de T&D
+594,Empresa 0594 · Financeiro,Empresa 0594,2026-01-20,2026-02-09,Perdido,Perdido,14800.0,Eventos,Financeiro,51-200,Sudeste,TOTVS,Analista
+595,Empresa 0595 · Educação,Empresa 0595,2025-11-27,2025-12-23,Perdido,Perdido,9600.0,Google Ads,Educação,51-200,Sudeste,Planilha / nenhum,Analista
+596,Empresa 0596 · Varejo,Empresa 0596,2024-11-22,2025-04-10,Perdido,Perdido,19900.0,Orgânico (SEO),Varejo,1000+,Sul,Outro,CEO / Sócio
+597,Empresa 0597 · Tecnologia,Empresa 0597,2025-04-10,2025-05-23,Perdido,Perdido,18600.0,Google Ads,Tecnologia,51-200,Sul,Planilha / nenhum,Diretor(a) de RH
+598,Empresa 0598 · Saúde,Empresa 0598,2025-07-25,2025-08-17,Perdido,Perdido,41800.0,LinkedIn Ads,Saúde,201-1000,Sudeste,Senior,TI
+599,Empresa 0599 · Saúde,Empresa 0599,2026-02-11,2026-04-10,Perdido,Perdido,15700.0,Orgânico (SEO),Saúde,1-50,Sudeste,Senior,Diretor(a) de RH
+600,Empresa 0600 · Educação,Empresa 0600,2024-12-28,2025-02-02,Perdido,Perdido,23800.0,Orgânico (SEO),Educação,1000+,Sudeste,Planilha / nenhum,Diretor(a) de RH
+601,Empresa 0601 · Indústria,Empresa 0601,2026-09-18,2026-10-14,Perdido,Perdido,14000.0,Google Ads,Indústria,201-1000,Sudeste,Outro,Gerente de T&D
+602,Empresa 0602 · Varejo,Empresa 0602,2024-12-07,2025-01-18,Perdido,Perdido,6100.0,Outbound,Varejo,1-50,Sul,Planilha / nenhum,Gerente de T&D
+603,Empresa 0603 · Educação,Empresa 0603,2025-08-20,2025-09-09,Perdido,Perdido,12500.0,Orgânico (SEO),Educação,1-50,Centro-Oeste,TOTVS,Gerente de T&D
+604,Empresa 0604 · Tecnologia,Empresa 0604,2026-08-18,2026-10-19,Perdido,Perdido,16600.0,Google Ads,Tecnologia,51-200,Sul,TOTVS,Diretor(a) de RH
+605,Empresa 0605 · Saúde,Empresa 0605,2026-08-19,2026-11-23,Aberto,Proposta,4000.0,Orgânico (SEO),Saúde,1-50,Norte,Planilha / nenhum,Analista
+606,Empresa 0606 · Varejo,Empresa 0606,2026-06-28,2026-07-30,Perdido,Perdido,39300.0,Outbound,Varejo,1000+,Norte,Planilha / nenhum,Gerente de T&D
+607,Empresa 0607 · Financeiro,Empresa 0607,2025-05-14,2025-06-09,Perdido,Perdido,12200.0,Google Ads,Financeiro,201-1000,Sul,Planilha / nenhum,Gerente de T&D
+608,Empresa 0608 · Varejo,Empresa 0608,2024-11-25,2025-01-12,Perdido,Perdido,14700.0,Google Ads,Varejo,51-200,Sudeste,TOTVS,Analista
+609,Empresa 0609 · Varejo,Empresa 0609,2025-11-21,2026-01-27,Perdido,Perdido,10400.0,Orgânico (SEO),Varejo,1-50,Sudeste,Senior,Diretor(a) de RH
+610,Empresa 0610 · Saúde,Empresa 0610,2025-01-03,2025-04-10,Ganho,Ganho,12400.0,Orgânico (SEO),Saúde,51-200,Sul,TOTVS,CEO / Sócio
+611,Empresa 0611 · Indústria,Empresa 0611,2025-05-04,2025-05-31,Perdido,Perdido,5300.0,Google Ads,Indústria,1-50,Nordeste,TOTVS,Diretor(a) de RH
+612,Empresa 0612 · Varejo,Empresa 0612,2026-08-22,2026-09-16,Ganho,Ganho,18200.0,Orgânico (SEO),Varejo,201-1000,Nordeste,Outro,Analista
+613,Empresa 0613 · Saúde,Empresa 0613,2026-03-27,2026-06-12,Perdido,Perdido,8700.0,Outbound,Saúde,1-50,Nordeste,SAP,CEO / Sócio
+614,Empresa 0614 · Saúde,Empresa 0614,2025-04-27,2025-06-06,Perdido,Perdido,33200.0,Outbound,Saúde,201-1000,Sul,SAP,TI
+615,Empresa 0615 · Varejo,Empresa 0615,2025-01-03,2025-03-14,Perdido,Perdido,14400.0,Google Ads,Varejo,51-200,Sul,Outro,Gerente de T&D
+616,Empresa 0616 · Financeiro,Empresa 0616,2025-06-11,2025-09-30,Perdido,Perdido,7700.0,Google Ads,Financeiro,1-50,Sudeste,Planilha / nenhum,Gerente de T&D
+617,Empresa 0617 · Saúde,Empresa 0617,2026-10-27,2027-03-06,Aberto,Proposta,4700.0,Eventos,Saúde,1-50,Sudeste,TOTVS,Analista
+618,Empresa 0618 · Saúde,Empresa 0618,2026-08-29,2026-10-15,Ganho,Ganho,34000.0,Orgânico (SEO),Saúde,1000+,Centro-Oeste,Senior,Diretor(a) de RH
+619,Empresa 0619 · Tecnologia,Empresa 0619,2025-06-02,2025-06-25,Perdido,Perdido,6800.0,Orgânico (SEO),Tecnologia,1-50,Sudeste,Senior,Diretor(a) de RH
+620,Empresa 0620 · Tecnologia,Empresa 0620,2025-06-25,2025-08-05,Perdido,Perdido,17500.0,Outbound,Tecnologia,201-1000,Sudeste,Senior,Analista
+621,Empresa 0621 · Educação,Empresa 0621,2025-07-15,2025-09-22,Perdido,Perdido,4500.0,Google Ads,Educação,51-200,Centro-Oeste,SAP,Gerente de T&D
+622,Empresa 0622 · Indústria,Empresa 0622,2025-01-06,2025-02-28,Perdido,Perdido,20700.0,Indicação,Indústria,51-200,Centro-Oeste,TOTVS,Gerente de T&D
+623,Empresa 0623 · Financeiro,Empresa 0623,2025-12-26,2026-01-27,Perdido,Perdido,7900.0,LinkedIn Ads,Financeiro,1-50,Centro-Oeste,Outro,CEO / Sócio
+624,Empresa 0624 · Tecnologia,Empresa 0624,2025-03-22,2025-05-07,Perdido,Perdido,10700.0,Google Ads,Tecnologia,51-200,Sul,Planilha / nenhum,CEO / Sócio
+625,Empresa 0625 · Financeiro,Empresa 0625,2026-08-25,2026-10-04,Perdido,Perdido,47400.0,Google Ads,Financeiro,1000+,Sul,Outro,CEO / Sócio
+626,Empresa 0626 · Educação,Empresa 0626,2026-03-23,2026-08-29,Perdido,Perdido,3600.0,LinkedIn Ads,Educação,1-50,Sudeste,SAP,Gerente de T&D
+627,Empresa 0627 · Tecnologia,Empresa 0627,2024-12-31,2025-03-09,Perdido,Perdido,69200.0,Google Ads,Tecnologia,1000+,Sudeste,Planilha / nenhum,Analista
+628,Empresa 0628 · Saúde,Empresa 0628,2024-11-01,2025-01-03,Perdido,Perdido,9300.0,Eventos,Saúde,1-50,Nordeste,Planilha / nenhum,CEO / Sócio
+629,Empresa 0629 · Tecnologia,Empresa 0629,2026-07-21,2026-08-27,Perdido,Perdido,15400.0,Google Ads,Tecnologia,51-200,Nordeste,TOTVS,Analista
+630,Empresa 0630 · Varejo,Empresa 0630,2025-10-19,2025-12-24,Ganho,Ganho,16400.0,Orgânico (SEO),Varejo,201-1000,Sudeste,Senior,Diretor(a) de RH
+631,Empresa 0631 · Tecnologia,Empresa 0631,2025-10-18,2025-11-23,Perdido,Perdido,25700.0,LinkedIn Ads,Tecnologia,1-50,Nordeste,Planilha / nenhum,Gerente de T&D
+632,Empresa 0632 · Financeiro,Empresa 0632,2026-07-04,2026-08-16,Ganho,Ganho,60800.0,Eventos,Financeiro,1000+,Nordeste,Senior,Gerente de T&D
+633,Empresa 0633 · Varejo,Empresa 0633,2025-06-02,2025-09-19,Aberto,Proposta,3200.0,LinkedIn Ads,Varejo,1-50,Norte,Outro,Diretor(a) de RH
+634,Empresa 0634 · Educação,Empresa 0634,2026-09-23,2026-12-18,Aberto,Proposta,18800.0,Google Ads,Educação,51-200,Sudeste,Planilha / nenhum,Gerente de T&D
+635,Empresa 0635 · Tecnologia,Empresa 0635,2026-04-20,2026-06-29,Perdido,Perdido,10100.0,Orgânico (SEO),Tecnologia,1-50,Sudeste,TOTVS,Analista
+636,Empresa 0636 · Educação,Empresa 0636,2025-05-28,2025-06-28,Perdido,Perdido,4200.0,Outbound,Educação,1-50,Nordeste,Planilha / nenhum,TI
+637,Empresa 0637 · Educação,Empresa 0637,2024-12-23,2025-01-19,Perdido,Perdido,14300.0,LinkedIn Ads,Educação,1-50,Sudeste,Outro,CEO / Sócio
+638,Empresa 0638 · Saúde,Empresa 0638,2025-06-13,2025-08-12,Perdido,Perdido,21100.0,Orgânico (SEO),Saúde,51-200,Sul,Planilha / nenhum,CEO / Sócio
+639,Empresa 0639 · Educação,Empresa 0639,2026-02-07,2026-04-08,Ganho,Ganho,7600.0,Orgânico (SEO),Educação,51-200,Sudeste,Outro,CEO / Sócio
+640,Empresa 0640 · Serviços,Empresa 0640,2024-12-20,2025-02-04,Perdido,Perdido,9700.0,Indicação,Serviços,51-200,Sudeste,Planilha / nenhum,Gerente de T&D
+641,Empresa 0641 · Tecnologia,Empresa 0641,2026-09-15,2026-10-14,Perdido,Perdido,27700.0,Outbound,Tecnologia,201-1000,Nordeste,Planilha / nenhum,Gerente de T&D
+642,Empresa 0642 · Financeiro,Empresa 0642,2025-02-17,2025-03-30,Perdido,Perdido,5400.0,Eventos,Financeiro,1-50,Sul,SAP,TI
+643,Empresa 0643 · Tecnologia,Empresa 0643,2026-04-19,2026-07-14,Perdido,Perdido,30400.0,LinkedIn Ads,Tecnologia,1000+,Sudeste,Outro,Gerente de T&D
+644,Empresa 0644 · Educação,Empresa 0644,2024-11-16,2024-12-07,Perdido,Perdido,19500.0,LinkedIn Ads,Educação,201-1000,Nordeste,TOTVS,Gerente de T&D
+645,Empresa 0645 · Serviços,Empresa 0645,2025-06-11,2025-08-21,Perdido,Perdido,39900.0,Eventos,Serviços,1000+,Sudeste,Outro,Diretor(a) de RH
+646,Empresa 0646 · Educação,Empresa 0646,2024-12-18,2025-03-05,Aberto,Proposta,23100.0,Orgânico (SEO),Educação,51-200,Sudeste,Outro,Diretor(a) de RH
+647,Empresa 0647 · Financeiro,Empresa 0647,2024-12-09,2025-02-01,Perdido,Perdido,9800.0,Google Ads,Financeiro,51-200,Sul,Planilha / nenhum,Analista
+648,Empresa 0648 · Financeiro,Empresa 0648,2026-07-01,2026-07-27,Ganho,Ganho,22700.0,Orgânico (SEO),Financeiro,51-200,Centro-Oeste,SAP,Analista
+649,Empresa 0649 · Indústria,Empresa 0649,2026-07-17,2026-10-12,Perdido,Perdido,73100.0,Orgânico (SEO),Indústria,1000+,Sul,TOTVS,Analista
+650,Empresa 0650 · Varejo,Empresa 0650,2025-01-28,2025-04-14,Perdido,Perdido,37400.0,Outbound,Varejo,51-200,Sul,TOTVS,Diretor(a) de RH
+651,Empresa 0651 · Serviços,Empresa 0651,2025-07-31,2025-09-14,Perdido,Perdido,6900.0,Outbound,Serviços,1-50,Sudeste,TOTVS,CEO / Sócio
+652,Empresa 0652 · Tecnologia,Empresa 0652,2025-11-23,2026-01-02,Perdido,Perdido,15100.0,Eventos,Tecnologia,1-50,Sudeste,Outro,CEO / Sócio
+653,Empresa 0653 · Saúde,Empresa 0653,2025-04-23,2025-08-14,Aberto,Proposta,28300.0,Google Ads,Saúde,1000+,Sul,Planilha / nenhum,Analista
+654,Empresa 0654 · Varejo,Empresa 0654,2025-04-20,2025-05-24,Perdido,Perdido,26100.0,Eventos,Varejo,1000+,Norte,Outro,Analista
+655,Empresa 0655 · Educação,Empresa 0655,2026-06-03,2026-07-11,Ganho,Ganho,14300.0,Indicação,Educação,51-200,Centro-Oeste,Senior,TI
+656,Empresa 0656 · Saúde,Empresa 0656,2025-03-24,2025-05-08,Aberto,Proposta,18000.0,Google Ads,Saúde,51-200,Nordeste,SAP,Analista
+657,Empresa 0657 · Varejo,Empresa 0657,2026-09-19,2026-10-27,Perdido,Perdido,18900.0,Eventos,Varejo,201-1000,Sudeste,Outro,CEO / Sócio
+658,Empresa 0658 · Saúde,Empresa 0658,2026-09-07,2026-12-16,Aberto,Proposta,49400.0,Outbound,Saúde,1000+,Sudeste,TOTVS,Diretor(a) de RH
+659,Empresa 0659 · Varejo,Empresa 0659,2026-02-15,2026-03-13,Perdido,Perdido,6500.0,LinkedIn Ads,Varejo,1-50,Sudeste,Planilha / nenhum,Analista
+660,Empresa 0660 · Educação,Empresa 0660,2025-02-01,2025-02-28,Perdido,Perdido,10800.0,Eventos,Educação,1-50,Sudeste,Outro,Analista
+661,Empresa 0661 · Educação,Empresa 0661,2024-11-15,2025-01-14,Aberto,Proposta,7900.0,Orgânico (SEO),Educação,1-50,Sudeste,TOTVS,CEO / Sócio
+662,Empresa 0662 · Indústria,Empresa 0662,2026-10-06,2026-10-18,Perdido,Perdido,6200.0,Indicação,Indústria,1-50,Sul,SAP,Analista
+663,Empresa 0663 · Serviços,Empresa 0663,2025-09-06,2025-10-29,Perdido,Perdido,8800.0,Orgânico (SEO),Serviços,1-50,Norte,Senior,Gerente de T&D
+664,Empresa 0664 · Tecnologia,Empresa 0664,2025-05-17,2025-06-19,Perdido,Perdido,9900.0,LinkedIn Ads,Tecnologia,1-50,Centro-Oeste,TOTVS,Analista
+665,Empresa 0665 · Educação,Empresa 0665,2025-05-05,2025-07-07,Perdido,Perdido,7100.0,Orgânico (SEO),Educação,1-50,Sudeste,Planilha / nenhum,Gerente de T&D
+666,Empresa 0666 · Financeiro,Empresa 0666,2026-10-11,2026-11-28,Aberto,Proposta,7000.0,Google Ads,Financeiro,1-50,Centro-Oeste,Planilha / nenhum,Diretor(a) de RH
+667,Empresa 0667 · Indústria,Empresa 0667,2026-05-08,2026-08-11,Perdido,Perdido,13500.0,Indicação,Indústria,1000+,Sul,TOTVS,Analista
+668,Empresa 0668 · Tecnologia,Empresa 0668,2025-12-30,2026-01-31,Aberto,Proposta,25000.0,Orgânico (SEO),Tecnologia,51-200,Centro-Oeste,Planilha / nenhum,Analista
+669,Empresa 0669 · Serviços,Empresa 0669,2026-07-24,2026-08-10,Perdido,Perdido,18300.0,LinkedIn Ads,Serviços,201-1000,Norte,Senior,Analista
+670,Empresa 0670 · Tecnologia,Empresa 0670,2025-08-10,2025-08-28,Perdido,Perdido,3300.0,Outbound,Tecnologia,1-50,Sul,TOTVS,Diretor(a) de RH
+671,Empresa 0671 · Varejo,Empresa 0671,2025-06-22,2025-08-09,Perdido,Perdido,15200.0,Outbound,Varejo,201-1000,Sudeste,TOTVS,Gerente de T&D
+672,Empresa 0672 · Serviços,Empresa 0672,2026-03-12,2026-04-26,Perdido,Perdido,9100.0,LinkedIn Ads,Serviços,1-50,Sudeste,TOTVS,Diretor(a) de RH
+673,Empresa 0673 · Educação,Empresa 0673,2026-05-05,2026-05-25,Perdido,Perdido,17100.0,Google Ads,Educação,1000+,Sudeste,TOTVS,CEO / Sócio
+674,Empresa 0674 · Serviços,Empresa 0674,2025-09-07,2025-12-07,Perdido,Perdido,11500.0,Outbound,Serviços,51-200,Sul,Planilha / nenhum,CEO / Sócio
+675,Empresa 0675 · Financeiro,Empresa 0675,2025-06-15,2025-07-10,Ganho,Ganho,9400.0,Eventos,Financeiro,201-1000,Sudeste,Planilha / nenhum,Diretor(a) de RH
+676,Empresa 0676 · Indústria,Empresa 0676,2026-10-18,2027-03-17,Aberto,Proposta,47600.0,LinkedIn Ads,Indústria,1000+,Sudeste,Outro,TI
+677,Empresa 0677 · Serviços,Empresa 0677,2025-07-15,2025-08-18,Ganho,Ganho,11800.0,Outbound,Serviços,51-200,Sudeste,TOTVS,Analista
+678,Empresa 0678 · Financeiro,Empresa 0678,2026-03-11,2026-04-04,Perdido,Perdido,7500.0,Indicação,Financeiro,1-50,Sudeste,Planilha / nenhum,CEO / Sócio
+679,Empresa 0679 · Tecnologia,Empresa 0679,2025-03-07,2025-06-05,Perdido,Perdido,22400.0,Orgânico (SEO),Tecnologia,1000+,Sudeste,Planilha / nenhum,Analista
+680,Empresa 0680 · Tecnologia,Empresa 0680,2026-02-22,2026-03-24,Perdido,Perdido,6900.0,Orgânico (SEO),Tecnologia,1-50,Sul,TOTVS,Diretor(a) de RH
+681,Empresa 0681 · Varejo,Empresa 0681,2024-12-14,2025-05-30,Aberto,Proposta,5500.0,Eventos,Varejo,1-50,Sul,TOTVS,TI
+682,Empresa 0682 · Indústria,Empresa 0682,2025-08-04,2025-10-02,Ganho,Ganho,11300.0,Orgânico (SEO),Indústria,51-200,Norte,TOTVS,Diretor(a) de RH
+683,Empresa 0683 · Financeiro,Empresa 0683,2026-04-27,2026-05-12,Perdido,Perdido,32300.0,Indicação,Financeiro,1000+,Sul,Planilha / nenhum,CEO / Sócio
+684,Empresa 0684 · Financeiro,Empresa 0684,2025-08-18,2025-09-07,Perdido,Perdido,9300.0,Outbound,Financeiro,201-1000,Norte,Outro,Diretor(a) de RH
+685,Empresa 0685 · Tecnologia,Empresa 0685,2024-11-09,2024-12-28,Perdido,Perdido,22800.0,Outbound,Tecnologia,201-1000,Sudeste,Outro,Gerente de T&D
+686,Empresa 0686 · Indústria,Empresa 0686,2026-06-20,2026-09-16,Ganho,Ganho,12700.0,LinkedIn Ads,Indústria,1-50,Nordeste,Outro,Gerente de T&D
+687,Empresa 0687 · Serviços,Empresa 0687,2025-06-12,2025-08-28,Perdido,Perdido,17100.0,Orgânico (SEO),Serviços,51-200,Nordeste,SAP,Diretor(a) de RH
+688,Empresa 0688 · Tecnologia,Empresa 0688,2026-10-06,2027-01-03,Aberto,Proposta,10400.0,LinkedIn Ads,Tecnologia,51-200,Nordeste,SAP,Diretor(a) de RH
+689,Empresa 0689 · Financeiro,Empresa 0689,2025-06-01,2025-08-23,Perdido,Perdido,43100.0,Orgânico (SEO),Financeiro,1000+,Nordeste,SAP,Analista
+690,Empresa 0690 · Indústria,Empresa 0690,2026-09-03,2026-10-20,Perdido,Perdido,24300.0,Outbound,Indústria,51-200,Sul,Senior,TI
+691,Empresa 0691 · Varejo,Empresa 0691,2025-08-29,2025-11-19,Aberto,Proposta,20100.0,Orgânico (SEO),Varejo,51-200,Sudeste,SAP,Diretor(a) de RH
+692,Empresa 0692 · Educação,Empresa 0692,2025-05-08,2025-07-07,Perdido,Perdido,8500.0,Orgânico (SEO),Educação,1-50,Sul,SAP,CEO / Sócio
+693,Empresa 0693 · Saúde,Empresa 0693,2025-07-10,2025-08-05,Ganho,Ganho,8800.0,Indicação,Saúde,51-200,Centro-Oeste,Planilha / nenhum,CEO / Sócio
+694,Empresa 0694 · Serviços,Empresa 0694,2025-03-09,2025-05-07,Perdido,Perdido,6300.0,Google Ads,Serviços,1-50,Norte,Outro,TI
+695,Empresa 0695 · Varejo,Empresa 0695,2024-11-18,2024-12-18,Perdido,Perdido,5700.0,Outbound,Varejo,1-50,Sudeste,Planilha / nenhum,CEO / Sócio
+696,Empresa 0696 · Varejo,Empresa 0696,2026-06-18,2026-09-01,Perdido,Perdido,47400.0,Google Ads,Varejo,1000+,Sudeste,Senior,CEO / Sócio
+697,Empresa 0697 · Indústria,Empresa 0697,2026-05-16,2026-07-14,Perdido,Perdido,14400.0,Google Ads,Indústria,51-200,Sudeste,Outro,TI
+698,Empresa 0698 · Varejo,Empresa 0698,2026-06-01,2026-09-30,Perdido,Perdido,27000.0,Outbound,Varejo,1000+,Sudeste,TOTVS,CEO / Sócio
+699,Empresa 0699 · Varejo,Empresa 0699,2026-01-19,2026-04-05,Perdido,Perdido,36000.0,Google Ads,Varejo,1000+,Sudeste,Outro,Analista
+700,Empresa 0700 · Indústria,Empresa 0700,2026-09-22,2026-11-16,Aberto,Proposta,3400.0,Outbound,Indústria,1-50,Sudeste,Senior,Gerente de T&D
+701,Empresa 0701 · Varejo,Empresa 0701,2026-01-19,2026-02-04,Perdido,Perdido,41200.0,Outbound,Varejo,201-1000,Nordeste,TOTVS,Diretor(a) de RH
+702,Empresa 0702 · Indústria,Empresa 0702,2026-10-08,2026-11-11,Aberto,Proposta,20200.0,Eventos,Indústria,201-1000,Sul,SAP,Gerente de T&D
+703,Empresa 0703 · Serviços,Empresa 0703,2025-03-20,2025-04-14,Perdido,Perdido,8600.0,Google Ads,Serviços,1-50,Sul,Senior,Gerente de T&D
+704,Empresa 0704 · Serviços,Empresa 0704,2025-02-09,2025-04-07,Perdido,Perdido,11300.0,Indicação,Serviços,51-200,Centro-Oeste,TOTVS,Gerente de T&D
+705,Empresa 0705 · Varejo,Empresa 0705,2024-12-28,2025-02-23,Perdido,Perdido,13400.0,Orgânico (SEO),Varejo,201-1000,Nordeste,Outro,TI
+706,Empresa 0706 · Varejo,Empresa 0706,2026-06-01,2026-07-06,Perdido,Perdido,38500.0,Orgânico (SEO),Varejo,201-1000,Sudeste,Planilha / nenhum,CEO / Sócio
+707,Empresa 0707 · Serviços,Empresa 0707,2025-01-31,2025-03-25,Perdido,Perdido,8300.0,Orgânico (SEO),Serviços,51-200,Norte,SAP,TI
+708,Empresa 0708 · Varejo,Empresa 0708,2026-10-30,2027-02-02,Aberto,Proposta,7600.0,Google Ads,Varejo,1-50,Sul,Senior,Diretor(a) de RH
+709,Empresa 0709 · Financeiro,Empresa 0709,2026-10-12,2027-01-07,Aberto,Proposta,18900.0,LinkedIn Ads,Financeiro,51-200,Nordeste,TOTVS,CEO / Sócio
+710,Empresa 0710 · Educação,Empresa 0710,2026-09-14,2026-10-07,Perdido,Perdido,5400.0,Outbound,Educação,51-200,Nordeste,SAP,Diretor(a) de RH
+711,Empresa 0711 · Saúde,Empresa 0711,2026-11-01,2027-02-22,Aberto,Proposta,14100.0,Eventos,Saúde,51-200,Sul,TOTVS,Analista
+712,Empresa 0712 · Financeiro,Empresa 0712,2026-07-05,2026-07-24,Perdido,Perdido,16700.0,Google Ads,Financeiro,201-1000,Sudeste,TOTVS,Diretor(a) de RH
+713,Empresa 0713 · Saúde,Empresa 0713,2025-11-04,2025-12-03,Ganho,Ganho,8100.0,Outbound,Saúde,51-200,Nordeste,SAP,Analista
+714,Empresa 0714 · Indústria,Empresa 0714,2025-11-04,2025-12-14,Ganho,Ganho,29900.0,Indicação,Indústria,1000+,Sudeste,Planilha / nenhum,CEO / Sócio
+715,Empresa 0715 · Financeiro,Empresa 0715,2026-09-19,2027-01-13,Aberto,Proposta,25800.0,LinkedIn Ads,Financeiro,201-1000,Nordeste,Planilha / nenhum,Diretor(a) de RH
+716,Empresa 0716 · Indústria,Empresa 0716,2026-11-03,2027-02-15,Aberto,Proposta,16000.0,Indicação,Indústria,51-200,Sudeste,Senior,Diretor(a) de RH
+717,Empresa 0717 · Serviços,Empresa 0717,2025-03-19,2025-04-22,Perdido,Perdido,8800.0,Eventos,Serviços,1-50,Sudeste,SAP,CEO / Sócio
+718,Empresa 0718 · Financeiro,Empresa 0718,2025-07-01,2025-08-28,Perdido,Perdido,5900.0,Indicação,Financeiro,1-50,Sudeste,Outro,Diretor(a) de RH
+719,Empresa 0719 · Tecnologia,Empresa 0719,2025-11-20,2026-01-04,Perdido,Perdido,9500.0,Google Ads,Tecnologia,51-200,Nordeste,SAP,Gerente de T&D
+720,Empresa 0720 · Varejo,Empresa 0720,2026-03-28,2026-07-10,Ganho,Ganho,15800.0,Orgânico (SEO),Varejo,51-200,Sudeste,TOTVS,CEO / Sócio
+721,Empresa 0721 · Financeiro,Empresa 0721,2025-01-08,2025-03-15,Perdido,Perdido,28000.0,Indicação,Financeiro,201-1000,Nordeste,SAP,CEO / Sócio
+722,Empresa 0722 · Tecnologia,Empresa 0722,2025-05-26,2025-09-03,Perdido,Perdido,9500.0,Eventos,Tecnologia,51-200,Sudeste,Outro,CEO / Sócio
+723,Empresa 0723 · Tecnologia,Empresa 0723,2026-04-16,2026-06-10,Perdido,Perdido,14400.0,Google Ads,Tecnologia,51-200,Nordeste,TOTVS,Diretor(a) de RH
+724,Empresa 0724 · Financeiro,Empresa 0724,2026-06-15,2026-07-03,Perdido,Perdido,5700.0,Orgânico (SEO),Financeiro,1-50,Norte,Planilha / nenhum,CEO / Sócio
+725,Empresa 0725 · Varejo,Empresa 0725,2026-08-11,2026-09-30,Perdido,Perdido,4600.0,Orgânico (SEO),Varejo,1-50,Sudeste,TOTVS,Diretor(a) de RH
+726,Empresa 0726 · Saúde,Empresa 0726,2025-09-19,2025-10-05,Perdido,Perdido,20300.0,Eventos,Saúde,1-50,Nordeste,TOTVS,CEO / Sócio
+727,Empresa 0727 · Educação,Empresa 0727,2026-07-30,2026-09-09,Perdido,Perdido,30600.0,Outbound,Educação,51-200,Sudeste,TOTVS,CEO / Sócio
+728,Empresa 0728 · Tecnologia,Empresa 0728,2026-10-18,2027-01-14,Aberto,Proposta,10300.0,Orgânico (SEO),Tecnologia,1-50,Sudeste,Outro,CEO / Sócio
+729,Empresa 0729 · Financeiro,Empresa 0729,2025-01-04,2025-02-02,Ganho,Ganho,7800.0,Outbound,Financeiro,1-50,Sudeste,TOTVS,Gerente de T&D
+730,Empresa 0730 · Serviços,Empresa 0730,2025-12-13,2026-02-15,Perdido,Perdido,14000.0,Indicação,Serviços,51-200,Nordeste,Outro,CEO / Sócio
+731,Empresa 0731 · Financeiro,Empresa 0731,2026-09-30,2026-12-20,Aberto,Proposta,13000.0,Orgânico (SEO),Financeiro,1-50,Centro-Oeste,Outro,Analista
+732,Empresa 0732 · Financeiro,Empresa 0732,2025-01-08,2025-03-09,Perdido,Perdido,45800.0,LinkedIn Ads,Financeiro,1000+,Sudeste,TOTVS,Analista
+733,Empresa 0733 · Varejo,Empresa 0733,2025-01-28,2025-04-23,Perdido,Perdido,14100.0,Orgânico (SEO),Varejo,51-200,Centro-Oeste,Planilha / nenhum,Analista
+734,Empresa 0734 · Educação,Empresa 0734,2025-04-08,2025-05-05,Perdido,Perdido,10100.0,Eventos,Educação,1-50,Sudeste,Outro,TI
+735,Empresa 0735 · Varejo,Empresa 0735,2024-12-26,2025-03-19,Perdido,Perdido,10300.0,Eventos,Varejo,1-50,Sul,TOTVS,CEO / Sócio
+736,Empresa 0736 · Indústria,Empresa 0736,2025-10-03,2025-10-29,Perdido,Perdido,23900.0,Indicação,Indústria,201-1000,Sul,Outro,CEO / Sócio
+737,Empresa 0737 · Tecnologia,Empresa 0737,2024-12-09,2025-03-08,Perdido,Perdido,10700.0,Indicação,Tecnologia,1-50,Sudeste,Planilha / nenhum,CEO / Sócio
+738,Empresa 0738 · Serviços,Empresa 0738,2026-08-24,2026-09-13,Ganho,Ganho,22900.0,Indicação,Serviços,201-1000,Norte,Planilha / nenhum,Diretor(a) de RH
+739,Empresa 0739 · Varejo,Empresa 0739,2025-10-19,2026-03-14,Perdido,Perdido,15700.0,Google Ads,Varejo,1000+,Sudeste,Senior,Diretor(a) de RH
+740,Empresa 0740 · Educação,Empresa 0740,2024-10-14,2024-12-24,Ganho,Ganho,10900.0,Outbound,Educação,51-200,Sudeste,TOTVS,Gerente de T&D
+741,Empresa 0741 · Saúde,Empresa 0741,2025-03-20,2025-04-26,Perdido,Perdido,15800.0,LinkedIn Ads,Saúde,51-200,Nordeste,Senior,Diretor(a) de RH
+742,Empresa 0742 · Saúde,Empresa 0742,2025-02-15,2025-03-24,Ganho,Ganho,10900.0,Google Ads,Saúde,201-1000,Sul,SAP,CEO / Sócio
+743,Empresa 0743 · Tecnologia,Empresa 0743,2026-02-15,2026-03-17,Perdido,Perdido,24700.0,Outbound,Tecnologia,201-1000,Sudeste,TOTVS,TI
+744,Empresa 0744 · Tecnologia,Empresa 0744,2025-08-07,2025-08-27,Perdido,Perdido,10600.0,Google Ads,Tecnologia,201-1000,Centro-Oeste,Senior,CEO / Sócio
+745,Empresa 0745 · Saúde,Empresa 0745,2026-03-25,2026-05-19,Perdido,Perdido,9800.0,LinkedIn Ads,Saúde,1-50,Centro-Oeste,Planilha / nenhum,Diretor(a) de RH
+746,Empresa 0746 · Indústria,Empresa 0746,2025-04-12,2025-05-25,Perdido,Perdido,8500.0,LinkedIn Ads,Indústria,1-50,Norte,Planilha / nenhum,Diretor(a) de RH
+747,Empresa 0747 · Educação,Empresa 0747,2026-09-29,2027-01-07,Aberto,Proposta,5400.0,Orgânico (SEO),Educação,1-50,Norte,Outro,Gerente de T&D
+748,Empresa 0748 · Educação,Empresa 0748,2025-08-13,2025-09-28,Aberto,Proposta,6200.0,Eventos,Educação,51-200,Sul,Planilha / nenhum,CEO / Sócio
+749,Empresa 0749 · Financeiro,Empresa 0749,2025-10-03,2025-12-08,Perdido,Perdido,10300.0,Orgânico (SEO),Financeiro,1-50,Norte,Planilha / nenhum,CEO / Sócio
+750,Empresa 0750 · Varejo,Empresa 0750,2026-09-27,2026-10-31,Ganho,Ganho,4100.0,Indicação,Varejo,1-50,Norte,Outro,Gerente de T&D
+751,Empresa 0751 · Indústria,Empresa 0751,2025-10-21,2025-11-21,Perdido,Perdido,5100.0,Eventos,Indústria,1-50,Nordeste,SAP,TI
+752,Empresa 0752 · Varejo,Empresa 0752,2026-10-08,2026-10-30,Perdido,Perdido,14100.0,Eventos,Varejo,1-50,Centro-Oeste,Planilha / nenhum,Analista
+753,Empresa 0753 · Varejo,Empresa 0753,2025-03-19,2025-04-09,Ganho,Ganho,11000.0,Eventos,Varejo,201-1000,Sul,TOTVS,CEO / Sócio
+754,Empresa 0754 · Varejo,Empresa 0754,2025-01-02,2025-02-17,Perdido,Perdido,11200.0,Outbound,Varejo,1-50,Sudeste,Outro,Diretor(a) de RH
+755,Empresa 0755 · Varejo,Empresa 0755,2025-09-12,2025-10-28,Perdido,Perdido,29400.0,Google Ads,Varejo,201-1000,Nordeste,SAP,CEO / Sócio
+756,Empresa 0756 · Varejo,Empresa 0756,2026-07-31,2026-09-21,Perdido,Perdido,28000.0,Google Ads,Varejo,1000+,Nordeste,TOTVS,Gerente de T&D
+757,Empresa 0757 · Educação,Empresa 0757,2026-09-08,2027-01-25,Aberto,Proposta,12700.0,Orgânico (SEO),Educação,1-50,Sul,Outro,TI
+758,Empresa 0758 · Educação,Empresa 0758,2026-01-04,2026-01-18,Perdido,Perdido,19200.0,Google Ads,Educação,51-200,Centro-Oeste,TOTVS,CEO / Sócio
+759,Empresa 0759 · Tecnologia,Empresa 0759,2026-05-01,2026-06-19,Perdido,Perdido,2700.0,Orgânico (SEO),Tecnologia,1-50,Centro-Oeste,Senior,CEO / Sócio
+760,Empresa 0760 · Indústria,Empresa 0760,2026-04-14,2026-07-07,Perdido,Perdido,16400.0,Google Ads,Indústria,201-1000,Nordeste,Outro,CEO / Sócio
+761,Empresa 0761 · Varejo,Empresa 0761,2026-09-04,2026-10-16,Perdido,Perdido,5500.0,Google Ads,Varejo,51-200,Nordeste,Senior,Analista
+762,Empresa 0762 · Indústria,Empresa 0762,2025-10-01,2025-11-13,Perdido,Perdido,7400.0,Orgânico (SEO),Indústria,201-1000,Sudeste,Outro,Analista
+763,Empresa 0763 · Saúde,Empresa 0763,2026-01-17,2026-02-02,Perdido,Perdido,21400.0,Eventos,Saúde,201-1000,Sudeste,TOTVS,Gerente de T&D
+764,Empresa 0764 · Varejo,Empresa 0764,2026-04-05,2026-06-05,Aberto,Proposta,15400.0,LinkedIn Ads,Varejo,1-50,Sul,Senior,Analista
+765,Empresa 0765 · Educação,Empresa 0765,2024-10-24,2024-12-05,Perdido,Perdido,15400.0,Eventos,Educação,51-200,Sudeste,Outro,Analista
+766,Empresa 0766 · Serviços,Empresa 0766,2025-10-06,2026-01-17,Aberto,Proposta,11200.0,Orgânico (SEO),Serviços,51-200,Sudeste,Outro,Analista
+767,Empresa 0767 · Financeiro,Empresa 0767,2025-07-29,2025-09-15,Perdido,Perdido,11100.0,Indicação,Financeiro,1-50,Nordeste,Planilha / nenhum,Analista
+768,Empresa 0768 · Saúde,Empresa 0768,2025-06-17,2025-08-21,Perdido,Perdido,23300.0,Indicação,Saúde,201-1000,Sul,SAP,Analista
+769,Empresa 0769 · Saúde,Empresa 0769,2025-09-17,2025-11-01,Perdido,Perdido,43000.0,Indicação,Saúde,201-1000,Sul,Planilha / nenhum,Analista
+770,Empresa 0770 · Tecnologia,Empresa 0770,2024-12-05,2025-02-26,Perdido,Perdido,9900.0,Orgânico (SEO),Tecnologia,1-50,Norte,Planilha / nenhum,Analista
+771,Empresa 0771 · Financeiro,Empresa 0771,2025-06-24,2025-08-10,Perdido,Perdido,10000.0,Indicação,Financeiro,201-1000,Norte,Planilha / nenhum,Diretor(a) de RH
+772,Empresa 0772 · Serviços,Empresa 0772,2026-10-06,2027-01-06,Aberto,Proposta,11400.0,Orgânico (SEO),Serviços,51-200,Sudeste,TOTVS,Analista
+773,Empresa 0773 · Varejo,Empresa 0773,2025-06-13,2025-07-11,Perdido,Perdido,9400.0,Eventos,Varejo,1-50,Nordeste,Outro,Gerente de T&D
+774,Empresa 0774 · Indústria,Empresa 0774,2025-09-14,2025-10-27,Perdido,Perdido,38300.0,Eventos,Indústria,1000+,Nordeste,Outro,Gerente de T&D
+775,Empresa 0775 · Saúde,Empresa 0775,2025-06-21,2025-08-08,Ganho,Ganho,21600.0,Eventos,Saúde,201-1000,Sudeste,Senior,Gerente de T&D
+776,Empresa 0776 · Varejo,Empresa 0776,2025-06-04,2025-06-25,Perdido,Perdido,26100.0,LinkedIn Ads,Varejo,201-1000,Sudeste,Planilha / nenhum,CEO / Sócio
+777,Empresa 0777 · Indústria,Empresa 0777,2025-03-02,2025-03-26,Perdido,Perdido,27400.0,Outbound,Indústria,51-200,Sudeste,Outro,TI
+778,Empresa 0778 · Varejo,Empresa 0778,2025-10-20,2025-12-09,Aberto,Proposta,12300.0,Outbound,Varejo,51-200,Nordeste,SAP,Analista
+779,Empresa 0779 · Varejo,Empresa 0779,2025-10-14,2025-11-24,Perdido,Perdido,6800.0,Indicação,Varejo,1-50,Sul,Planilha / nenhum,Gerente de T&D
+780,Empresa 0780 · Educação,Empresa 0780,2025-08-16,2025-09-28,Perdido,Perdido,46900.0,Outbound,Educação,1000+,Sudeste,SAP,Analista
+781,Empresa 0781 · Financeiro,Empresa 0781,2026-06-23,2026-08-03,Perdido,Perdido,44500.0,Google Ads,Financeiro,1000+,Sudeste,Outro,Gerente de T&D
+782,Empresa 0782 · Indústria,Empresa 0782,2025-05-30,2025-10-09,Perdido,Perdido,38600.0,LinkedIn Ads,Indústria,1000+,Sul,SAP,Analista
+783,Empresa 0783 · Financeiro,Empresa 0783,2025-09-16,2025-12-21,Perdido,Perdido,45300.0,LinkedIn Ads,Financeiro,201-1000,Sul,TOTVS,Analista
+784,Empresa 0784 · Saúde,Empresa 0784,2024-11-13,2025-02-20,Aberto,Proposta,31800.0,Outbound,Saúde,201-1000,Sudeste,Outro,CEO / Sócio
+785,Empresa 0785 · Tecnologia,Empresa 0785,2026-11-07,2027-01-26,Aberto,Proposta,9600.0,Outbound,Tecnologia,201-1000,Sudeste,Senior,CEO / Sócio
+786,Empresa 0786 · Financeiro,Empresa 0786,2026-09-23,2026-12-14,Aberto,Proposta,8500.0,Eventos,Financeiro,1-50,Norte,Outro,TI
+787,Empresa 0787 · Tecnologia,Empresa 0787,2026-07-31,2026-12-20,Aberto,Proposta,23900.0,LinkedIn Ads,Tecnologia,201-1000,Sudeste,TOTVS,Gerente de T&D
+788,Empresa 0788 · Saúde,Empresa 0788,2026-03-23,2026-04-08,Perdido,Perdido,12600.0,Indicação,Saúde,51-200,Sudeste,TOTVS,Analista
+789,Empresa 0789 · Serviços,Empresa 0789,2024-12-04,2024-12-25,Perdido,Perdido,30400.0,Outbound,Serviços,201-1000,Centro-Oeste,Senior,Diretor(a) de RH
+790,Empresa 0790 · Varejo,Empresa 0790,2025-03-14,2025-05-30,Perdido,Perdido,21600.0,Outbound,Varejo,51-200,Nordeste,TOTVS,Diretor(a) de RH
+791,Empresa 0791 · Varejo,Empresa 0791,2025-02-17,2025-05-22,Aberto,Proposta,41800.0,Google Ads,Varejo,1000+,Sudeste,Senior,Analista
+792,Empresa 0792 · Saúde,Empresa 0792,2024-10-15,2024-11-11,Perdido,Perdido,13800.0,Outbound,Saúde,51-200,Centro-Oeste,TOTVS,Analista
+793,Empresa 0793 · Tecnologia,Empresa 0793,2026-06-15,2026-07-25,Perdido,Perdido,13000.0,LinkedIn Ads,Tecnologia,51-200,Norte,TOTVS,CEO / Sócio
+794,Empresa 0794 · Saúde,Empresa 0794,2025-09-29,2025-10-28,Perdido,Perdido,7100.0,Outbound,Saúde,51-200,Nordeste,Senior,CEO / Sócio
+795,Empresa 0795 · Financeiro,Empresa 0795,2026-06-05,2026-08-01,Perdido,Perdido,9100.0,LinkedIn Ads,Financeiro,51-200,Sudeste,Planilha / nenhum,Gerente de T&D
+796,Empresa 0796 · Financeiro,Empresa 0796,2026-10-27,2026-12-15,Aberto,Proposta,15200.0,Outbound,Financeiro,1-50,Nordeste,TOTVS,Gerente de T&D
+797,Empresa 0797 · Educação,Empresa 0797,2025-02-04,2025-03-14,Perdido,Perdido,56300.0,Orgânico (SEO),Educação,1000+,Nordeste,Outro,Analista
+798,Empresa 0798 · Serviços,Empresa 0798,2026-05-23,2026-06-18,Perdido,Perdido,7000.0,Google Ads,Serviços,1-50,Centro-Oeste,Senior,Gerente de T&D
+799,Empresa 0799 · Saúde,Empresa 0799,2025-10-24,2025-12-19,Aberto,Proposta,6700.0,LinkedIn Ads,Saúde,1-50,Norte,Outro,Diretor(a) de RH
+800,Empresa 0800 · Serviços,Empresa 0800,2026-02-28,2026-06-21,Perdido,Perdido,24400.0,Indicação,Serviços,1000+,Centro-Oeste,Planilha / nenhum,Diretor(a) de RH
+801,Empresa 0801 · Serviços,Empresa 0801,2026-08-12,2026-10-30,Aberto,Proposta,7000.0,Eventos,Serviços,51-200,Norte,TOTVS,CEO / Sócio
+802,Empresa 0802 · Financeiro,Empresa 0802,2024-12-18,2025-02-25,Perdido,Perdido,4600.0,Orgânico (SEO),Financeiro,1-50,Nordeste,Outro,Diretor(a) de RH
+803,Empresa 0803 · Saúde,Empresa 0803,2025-06-12,2025-06-29,Perdido,Perdido,14300.0,Eventos,Saúde,51-200,Sudeste,Outro,Analista
+804,Empresa 0804 · Indústria,Empresa 0804,2026-09-07,2026-10-04,Perdido,Perdido,12500.0,Orgânico (SEO),Indústria,51-200,Sudeste,TOTVS,Analista
+805,Empresa 0805 · Financeiro,Empresa 0805,2025-08-23,2025-11-02,Perdido,Perdido,14100.0,Orgânico (SEO),Financeiro,51-200,Sul,Outro,Gerente de T&D
+806,Empresa 0806 · Saúde,Empresa 0806,2025-10-22,2025-11-11,Perdido,Perdido,41200.0,Google Ads,Saúde,1000+,Sudeste,SAP,TI
+807,Empresa 0807 · Varejo,Empresa 0807,2026-03-28,2026-05-10,Perdido,Perdido,32000.0,Orgânico (SEO),Varejo,201-1000,Norte,Outro,Analista
+808,Empresa 0808 · Saúde,Empresa 0808,2025-10-13,2025-10-29,Perdido,Perdido,13200.0,LinkedIn Ads,Saúde,201-1000,Sudeste,Planilha / nenhum,CEO / Sócio
+809,Empresa 0809 · Saúde,Empresa 0809,2026-10-05,2027-02-03,Aberto,Proposta,22500.0,LinkedIn Ads,Saúde,51-200,Sul,Planilha / nenhum,Gerente de T&D
+810,Empresa 0810 · Varejo,Empresa 0810,2026-03-23,2026-05-10,Aberto,Proposta,22600.0,Outbound,Varejo,1000+,Sul,SAP,Analista
+811,Empresa 0811 · Indústria,Empresa 0811,2025-02-15,2025-07-19,Perdido,Perdido,25000.0,Outbound,Indústria,201-1000,Nordeste,Outro,Analista
+812,Empresa 0812 · Financeiro,Empresa 0812,2026-09-17,2026-12-09,Aberto,Proposta,34600.0,Outbound,Financeiro,51-200,Sul,Outro,TI
+813,Empresa 0813 · Varejo,Empresa 0813,2026-05-18,2026-06-27,Aberto,Proposta,31600.0,Google Ads,Varejo,201-1000,Sudeste,Outro,Diretor(a) de RH
+814,Empresa 0814 · Tecnologia,Empresa 0814,2026-03-13,2026-03-24,Perdido,Perdido,9000.0,Indicação,Tecnologia,51-200,Sudeste,Outro,CEO / Sócio
+815,Empresa 0815 · Educação,Empresa 0815,2026-04-01,2026-05-13,Perdido,Perdido,29300.0,Outbound,Educação,201-1000,Sudeste,Outro,Analista
+816,Empresa 0816 · Educação,Empresa 0816,2025-07-26,2025-09-06,Perdido,Perdido,15900.0,Outbound,Educação,51-200,Sul,Outro,Gerente de T&D
+817,Empresa 0817 · Financeiro,Empresa 0817,2025-03-12,2025-05-02,Perdido,Perdido,2300.0,Google Ads,Financeiro,1-50,Sudeste,Planilha / nenhum,CEO / Sócio
+818,Empresa 0818 · Tecnologia,Empresa 0818,2025-10-03,2025-12-24,Perdido,Perdido,9600.0,LinkedIn Ads,Tecnologia,1-50,Nordeste,Planilha / nenhum,Analista
+819,Empresa 0819 · Educação,Empresa 0819,2024-11-21,2025-01-02,Perdido,Perdido,17600.0,Eventos,Educação,1-50,Norte,TOTVS,Diretor(a) de RH
+820,Empresa 0820 · Educação,Empresa 0820,2025-11-09,2026-01-31,Perdido,Perdido,4200.0,Orgânico (SEO),Educação,51-200,Nordeste,Outro,CEO / Sócio
+821,Empresa 0821 · Varejo,Empresa 0821,2026-07-14,2026-08-12,Perdido,Perdido,4100.0,LinkedIn Ads,Varejo,1-50,Sul,TOTVS,Diretor(a) de RH
+822,Empresa 0822 · Varejo,Empresa 0822,2025-08-29,2025-09-21,Perdido,Perdido,8500.0,Orgânico (SEO),Varejo,51-200,Sudeste,SAP,Diretor(a) de RH
+823,Empresa 0823 · Educação,Empresa 0823,2024-10-14,2024-11-27,Aberto,Proposta,4700.0,Orgânico (SEO),Educação,1-50,Centro-Oeste,TOTVS,Gerente de T&D
+824,Empresa 0824 · Financeiro,Empresa 0824,2026-05-03,2026-08-01,Perdido,Perdido,3800.0,Eventos,Financeiro,51-200,Sudeste,Planilha / nenhum,CEO / Sócio
+825,Empresa 0825 · Educação,Empresa 0825,2025-10-01,2025-12-11,Perdido,Perdido,32300.0,Google Ads,Educação,201-1000,Centro-Oeste,Outro,Analista
+826,Empresa 0826 · Saúde,Empresa 0826,2026-07-07,2026-08-06,Perdido,Perdido,4800.0,Google Ads,Saúde,51-200,Nordeste,Outro,Gerente de T&D
+827,Empresa 0827 · Indústria,Empresa 0827,2026-03-03,2026-05-03,Aberto,Proposta,7300.0,Indicação,Indústria,1-50,Sudeste,TOTVS,Diretor(a) de RH
+828,Empresa 0828 · Tecnologia,Empresa 0828,2025-03-15,2025-04-18,Perdido,Perdido,16500.0,Outbound,Tecnologia,201-1000,Sudeste,Planilha / nenhum,CEO / Sócio
+829,Empresa 0829 · Educação,Empresa 0829,2025-09-08,2025-11-01,Perdido,Perdido,27500.0,Eventos,Educação,51-200,Sudeste,Senior,TI
+830,Empresa 0830 · Varejo,Empresa 0830,2025-05-23,2025-08-24,Perdido,Perdido,22600.0,Google Ads,Varejo,1000+,Nordeste,Outro,CEO / Sócio
+831,Empresa 0831 · Educação,Empresa 0831,2026-08-22,2026-10-28,Perdido,Perdido,8800.0,Outbound,Educação,1-50,Sudeste,Planilha / nenhum,Analista
+832,Empresa 0832 · Serviços,Empresa 0832,2026-07-18,2027-01-23,Aberto,Proposta,21200.0,Google Ads,Serviços,1000+,Sul,Outro,Analista
+833,Empresa 0833 · Tecnologia,Empresa 0833,2026-04-05,2026-05-11,Perdido,Perdido,6200.0,LinkedIn Ads,Tecnologia,1-50,Sul,Senior,Analista
+834,Empresa 0834 · Serviços,Empresa 0834,2025-06-20,2025-07-27,Perdido,Perdido,25800.0,LinkedIn Ads,Serviços,51-200,Sul,Planilha / nenhum,Diretor(a) de RH
+835,Empresa 0835 · Financeiro,Empresa 0835,2025-04-10,2025-05-27,Perdido,Perdido,12900.0,Orgânico (SEO),Financeiro,51-200,Sudeste,SAP,Diretor(a) de RH
+836,Empresa 0836 · Varejo,Empresa 0836,2025-12-21,2026-03-05,Perdido,Perdido,5400.0,Outbound,Varejo,201-1000,Sudeste,Outro,Analista
+837,Empresa 0837 · Saúde,Empresa 0837,2024-12-31,2025-04-08,Perdido,Perdido,15400.0,Outbound,Saúde,51-200,Nordeste,Planilha / nenhum,Diretor(a) de RH
+838,Empresa 0838 · Serviços,Empresa 0838,2025-10-25,2026-01-06,Aberto,Proposta,15900.0,Google Ads,Serviços,201-1000,Nordeste,TOTVS,Analista
+839,Empresa 0839 · Educação,Empresa 0839,2025-06-27,2025-08-26,Ganho,Ganho,26300.0,LinkedIn Ads,Educação,201-1000,Nordeste,TOTVS,Diretor(a) de RH
+840,Empresa 0840 · Financeiro,Empresa 0840,2025-07-19,2025-10-01,Perdido,Perdido,3900.0,Orgânico (SEO),Financeiro,1-50,Sul,Planilha / nenhum,Gerente de T&D
+841,Empresa 0841 · Saúde,Empresa 0841,2026-08-24,2026-09-21,Ganho,Ganho,21700.0,LinkedIn Ads,Saúde,201-1000,Sudeste,SAP,Diretor(a) de RH
+842,Empresa 0842 · Serviços,Empresa 0842,2026-05-23,2026-07-13,Perdido,Perdido,22600.0,LinkedIn Ads,Serviços,51-200,Sul,Outro,Diretor(a) de RH
+843,Empresa 0843 · Financeiro,Empresa 0843,2026-06-15,2026-08-07,Perdido,Perdido,28200.0,Eventos,Financeiro,201-1000,Sudeste,TOTVS,Diretor(a) de RH
+844,Empresa 0844 · Educação,Empresa 0844,2024-10-24,2024-11-05,Perdido,Perdido,7600.0,Orgânico (SEO),Educação,1-50,Sudeste,Outro,CEO / Sócio
+845,Empresa 0845 · Tecnologia,Empresa 0845,2025-06-21,2025-08-04,Perdido,Perdido,24000.0,Outbound,Tecnologia,1000+,Norte,SAP,Gerente de T&D
+846,Empresa 0846 · Saúde,Empresa 0846,2026-03-26,2026-05-10,Perdido,Perdido,9100.0,Outbound,Saúde,1-50,Sudeste,TOTVS,Analista
+847,Empresa 0847 · Indústria,Empresa 0847,2025-09-29,2025-11-20,Perdido,Perdido,23600.0,Eventos,Indústria,51-200,Sul,SAP,Analista
+848,Empresa 0848 · Indústria,Empresa 0848,2025-05-02,2025-06-08,Perdido,Perdido,5400.0,Orgânico (SEO),Indústria,1-50,Sudeste,Planilha / nenhum,CEO / Sócio
+849,Empresa 0849 · Educação,Empresa 0849,2025-11-18,2026-01-12,Aberto,Proposta,12800.0,LinkedIn Ads,Educação,1-50,Sul,Planilha / nenhum,TI
+850,Empresa 0850 · Indústria,Empresa 0850,2024-12-13,2025-02-12,Perdido,Perdido,6800.0,Outbound,Indústria,1-50,Sul,SAP,Diretor(a) de RH
+851,Empresa 0851 · Educação,Empresa 0851,2026-07-02,2026-07-17,Perdido,Perdido,5900.0,Outbound,Educação,51-200,Sudeste,Planilha / nenhum,Gerente de T&D
+852,Empresa 0852 · Varejo,Empresa 0852,2025-11-27,2025-12-21,Perdido,Perdido,7700.0,Indicação,Varejo,51-200,Nordeste,Planilha / nenhum,Analista
+853,Empresa 0853 · Indústria,Empresa 0853,2025-03-02,2025-04-09,Aberto,Proposta,25300.0,Orgânico (SEO),Indústria,201-1000,Nordeste,TOTVS,TI
+854,Empresa 0854 · Varejo,Empresa 0854,2025-03-07,2025-05-05,Perdido,Perdido,30200.0,Eventos,Varejo,1000+,Sudeste,Planilha / nenhum,Diretor(a) de RH
+855,Empresa 0855 · Saúde,Empresa 0855,2025-04-02,2025-06-20,Perdido,Perdido,11900.0,Orgânico (SEO),Saúde,1-50,Nordeste,Planilha / nenhum,Analista
+856,Empresa 0856 · Saúde,Empresa 0856,2026-03-08,2026-04-03,Perdido,Perdido,39100.0,Outbound,Saúde,201-1000,Sudeste,Planilha / nenhum,Gerente de T&D
+857,Empresa 0857 · Serviços,Empresa 0857,2024-12-02,2025-05-14,Aberto,Proposta,13500.0,Outbound,Serviços,51-200,Centro-Oeste,TOTVS,Diretor(a) de RH
+858,Empresa 0858 · Tecnologia,Empresa 0858,2025-01-23,2025-03-28,Aberto,Proposta,12600.0,Indicação,Tecnologia,51-200,Sudeste,Outro,Diretor(a) de RH
+859,Empresa 0859 · Tecnologia,Empresa 0859,2025-10-06,2025-11-16,Perdido,Perdido,14700.0,Indicação,Tecnologia,1-50,Sudeste,Planilha / nenhum,CEO / Sócio
+860,Empresa 0860 · Indústria,Empresa 0860,2025-12-30,2026-05-08,Perdido,Perdido,12700.0,Eventos,Indústria,1000+,Sul,TOTVS,Diretor(a) de RH
+861,Empresa 0861 · Varejo,Empresa 0861,2026-09-18,2026-10-13,Perdido,Perdido,12500.0,Google Ads,Varejo,51-200,Norte,Outro,Diretor(a) de RH
+862,Empresa 0862 · Indústria,Empresa 0862,2026-07-12,2026-09-19,Ganho,Ganho,34200.0,Orgânico (SEO),Indústria,201-1000,Sudeste,Senior,CEO / Sócio
+863,Empresa 0863 · Indústria,Empresa 0863,2026-01-14,2026-02-20,Perdido,Perdido,30700.0,Orgânico (SEO),Indústria,201-1000,Norte,Planilha / nenhum,Diretor(a) de RH
+864,Empresa 0864 · Educação,Empresa 0864,2025-12-12,2026-03-30,Perdido,Perdido,21300.0,Google Ads,Educação,1000+,Norte,Outro,Analista
+865,Empresa 0865 · Indústria,Empresa 0865,2025-12-12,2026-01-13,Perdido,Perdido,26000.0,Orgânico (SEO),Indústria,51-200,Sudeste,TOTVS,CEO / Sócio
+866,Empresa 0866 · Serviços,Empresa 0866,2026-04-12,2026-06-05,Perdido,Perdido,7500.0,Outbound,Serviços,1-50,Norte,Senior,Gerente de T&D
+867,Empresa 0867 · Tecnologia,Empresa 0867,2026-09-07,2026-10-12,Perdido,Perdido,95200.0,Outbound,Tecnologia,1000+,Nordeste,Senior,Diretor(a) de RH
+868,Empresa 0868 · Varejo,Empresa 0868,2026-04-24,2026-07-30,Aberto,Proposta,11400.0,Indicação,Varejo,1-50,Sudeste,Planilha / nenhum,Gerente de T&D
+869,Empresa 0869 · Serviços,Empresa 0869,2026-03-05,2026-04-17,Perdido,Perdido,8500.0,Eventos,Serviços,51-200,Norte,Senior,Gerente de T&D
+870,Empresa 0870 · Financeiro,Empresa 0870,2024-12-07,2025-03-20,Perdido,Perdido,9800.0,Google Ads,Financeiro,1-50,Nordeste,TOTVS,TI
+871,Empresa 0871 · Tecnologia,Empresa 0871,2026-11-02,2027-02-25,Aberto,Proposta,6500.0,Orgânico (SEO),Tecnologia,51-200,Sul,SAP,Gerente de T&D
+872,Empresa 0872 · Varejo,Empresa 0872,2025-05-23,2025-07-02,Perdido,Perdido,53500.0,Outbound,Varejo,1000+,Nordeste,Senior,Diretor(a) de RH
+873,Empresa 0873 · Tecnologia,Empresa 0873,2026-06-06,2026-06-26,Perdido,Perdido,4600.0,Orgânico (SEO),Tecnologia,1-50,Sul,Planilha / nenhum,CEO / Sócio
+874,Empresa 0874 · Varejo,Empresa 0874,2025-08-23,2025-10-22,Aberto,Proposta,36200.0,LinkedIn Ads,Varejo,1000+,Sudeste,Senior,TI
+875,Empresa 0875 · Saúde,Empresa 0875,2026-05-29,2026-08-01,Ganho,Ganho,23900.0,Orgânico (SEO),Saúde,51-200,Sudeste,TOTVS,Gerente de T&D
+876,Empresa 0876 · Financeiro,Empresa 0876,2025-01-17,2025-02-15,Ganho,Ganho,11500.0,LinkedIn Ads,Financeiro,51-200,Sudeste,TOTVS,Analista
+877,Empresa 0877 · Educação,Empresa 0877,2026-06-30,2026-07-22,Perdido,Perdido,15100.0,Google Ads,Educação,201-1000,Sudeste,SAP,Analista
+878,Empresa 0878 · Varejo,Empresa 0878,2025-03-04,2025-06-17,Perdido,Perdido,5200.0,Outbound,Varejo,51-200,Centro-Oeste,SAP,Diretor(a) de RH
+879,Empresa 0879 · Financeiro,Empresa 0879,2026-08-16,2026-09-01,Perdido,Perdido,22700.0,Google Ads,Financeiro,51-200,Sudeste,TOTVS,Analista
+880,Empresa 0880 · Financeiro,Empresa 0880,2024-12-03,2025-01-12,Perdido,Perdido,32700.0,Indicação,Financeiro,51-200,Sudeste,SAP,Analista
+881,Empresa 0881 · Educação,Empresa 0881,2025-04-21,2025-07-01,Aberto,Proposta,15500.0,Orgânico (SEO),Educação,201-1000,Sudeste,TOTVS,TI
+882,Empresa 0882 · Indústria,Empresa 0882,2026-07-06,2026-08-05,Perdido,Perdido,30300.0,Orgânico (SEO),Indústria,201-1000,Sul,Senior,CEO / Sócio
+883,Empresa 0883 · Educação,Empresa 0883,2025-07-18,2025-08-16,Ganho,Ganho,34000.0,Indicação,Educação,201-1000,Sudeste,TOTVS,CEO / Sócio
+884,Empresa 0884 · Varejo,Empresa 0884,2026-04-21,2026-08-08,Aberto,Proposta,14800.0,Outbound,Varejo,51-200,Sudeste,Outro,Diretor(a) de RH
+885,Empresa 0885 · Serviços,Empresa 0885,2026-05-16,2026-08-23,Aberto,Proposta,3700.0,Google Ads,Serviços,1-50,Sudeste,Outro,Diretor(a) de RH
+886,Empresa 0886 · Varejo,Empresa 0886,2026-06-24,2026-07-09,Perdido,Perdido,8200.0,Google Ads,Varejo,51-200,Sudeste,Senior,TI
+887,Empresa 0887 · Varejo,Empresa 0887,2024-11-02,2025-01-18,Aberto,Proposta,6500.0,Indicação,Varejo,1-50,Nordeste,SAP,Analista
+888,Empresa 0888 · Saúde,Empresa 0888,2026-04-16,2026-05-04,Perdido,Perdido,8600.0,Indicação,Saúde,1-50,Sudeste,SAP,CEO / Sócio
+889,Empresa 0889 · Tecnologia,Empresa 0889,2024-12-15,2025-01-08,Perdido,Perdido,22200.0,Google Ads,Tecnologia,201-1000,Nordeste,Planilha / nenhum,Gerente de T&D
+890,Empresa 0890 · Serviços,Empresa 0890,2026-08-05,2026-09-04,Perdido,Perdido,5100.0,Google Ads,Serviços,1-50,Centro-Oeste,SAP,Analista
+891,Empresa 0891 · Educação,Empresa 0891,2024-10-16,2024-11-14,Ganho,Ganho,14300.0,Indicação,Educação,51-200,Sul,Outro,Gerente de T&D
+892,Empresa 0892 · Educação,Empresa 0892,2025-11-23,2026-02-10,Ganho,Ganho,8500.0,Google Ads,Educação,51-200,Sudeste,SAP,Analista
+893,Empresa 0893 · Indústria,Empresa 0893,2025-04-17,2025-05-09,Perdido,Perdido,31600.0,Indicação,Indústria,1000+,Sudeste,Outro,Diretor(a) de RH
+894,Empresa 0894 · Serviços,Empresa 0894,2025-08-23,2025-10-11,Perdido,Perdido,19800.0,Google Ads,Serviços,51-200,Norte,TOTVS,CEO / Sócio
+895,Empresa 0895 · Varejo,Empresa 0895,2024-10-24,2024-12-14,Perdido,Perdido,10200.0,Google Ads,Varejo,1-50,Sudeste,Outro,TI
+896,Empresa 0896 · Serviços,Empresa 0896,2025-03-14,2025-03-31,Perdido,Perdido,7900.0,Outbound,Serviços,1-50,Sul,Outro,Analista
+897,Empresa 0897 · Varejo,Empresa 0897,2026-04-15,2026-05-03,Perdido,Perdido,3900.0,Outbound,Varejo,1-50,Sul,TOTVS,Diretor(a) de RH
+898,Empresa 0898 · Serviços,Empresa 0898,2025-03-07,2025-04-05,Perdido,Perdido,15500.0,Indicação,Serviços,51-200,Sudeste,TOTVS,Diretor(a) de RH
+899,Empresa 0899 · Saúde,Empresa 0899,2026-05-06,2026-06-06,Ganho,Ganho,13800.0,Indicação,Saúde,51-200,Centro-Oeste,Senior,Diretor(a) de RH
+900,Empresa 0900 · Tecnologia,Empresa 0900,2025-07-29,2025-09-25,Perdido,Perdido,10600.0,Indicação,Tecnologia,1-50,Sudeste,Outro,Diretor(a) de RH
+901,Empresa 0901 · Tecnologia,Empresa 0901,2026-08-02,2026-08-22,Perdido,Perdido,14400.0,Outbound,Tecnologia,1-50,Sul,Planilha / nenhum,Diretor(a) de RH
+902,Empresa 0902 · Indústria,Empresa 0902,2026-11-07,2027-01-01,Aberto,Proposta,13200.0,Eventos,Indústria,51-200,Sul,TOTVS,Gerente de T&D
+903,Empresa 0903 · Varejo,Empresa 0903,2025-04-04,2025-05-24,Perdido,Perdido,9200.0,Orgânico (SEO),Varejo,51-200,Norte,Planilha / nenhum,Gerente de T&D
+904,Empresa 0904 · Educação,Empresa 0904,2026-11-06,2026-12-11,Aberto,Proposta,9600.0,Indicação,Educação,1-50,Centro-Oeste,Senior,Analista
+905,Empresa 0905 · Varejo,Empresa 0905,2024-11-19,2025-02-07,Perdido,Perdido,18300.0,Orgânico (SEO),Varejo,201-1000,Sudeste,TOTVS,Diretor(a) de RH
+906,Empresa 0906 · Educação,Empresa 0906,2024-10-23,2024-12-05,Perdido,Perdido,5000.0,Eventos,Educação,1-50,Sul,SAP,Diretor(a) de RH
+907,Empresa 0907 · Indústria,Empresa 0907,2026-06-21,2026-08-06,Perdido,Perdido,51800.0,Orgânico (SEO),Indústria,51-200,Sudeste,Outro,CEO / Sócio
+908,Empresa 0908 · Tecnologia,Empresa 0908,2025-01-24,2025-02-28,Aberto,Proposta,15100.0,Google Ads,Tecnologia,1-50,Sul,Outro,TI
+909,Empresa 0909 · Serviços,Empresa 0909,2026-10-13,2026-11-25,Aberto,Proposta,7800.0,Orgânico (SEO),Serviços,1-50,Norte,SAP,Diretor(a) de RH
+910,Empresa 0910 · Saúde,Empresa 0910,2025-03-06,2025-04-27,Perdido,Perdido,14500.0,Indicação,Saúde,201-1000,Centro-Oeste,Outro,CEO / Sócio
+911,Empresa 0911 · Saúde,Empresa 0911,2026-04-05,2026-04-29,Perdido,Perdido,19600.0,Indicação,Saúde,51-200,Nordeste,Planilha / nenhum,Analista
+912,Empresa 0912 · Varejo,Empresa 0912,2025-11-13,2026-01-17,Perdido,Perdido,7500.0,Google Ads,Varejo,1-50,Sul,TOTVS,Diretor(a) de RH
+913,Empresa 0913 · Tecnologia,Empresa 0913,2025-12-27,2026-02-17,Perdido,Perdido,3600.0,Orgânico (SEO),Tecnologia,1-50,Sudeste,Planilha / nenhum,Analista
+914,Empresa 0914 · Indústria,Empresa 0914,2025-02-08,2025-03-07,Perdido,Perdido,10100.0,Orgânico (SEO),Indústria,1-50,Norte,SAP,Analista
+915,Empresa 0915 · Indústria,Empresa 0915,2026-05-14,2026-06-12,Perdido,Perdido,10800.0,LinkedIn Ads,Indústria,51-200,Sudeste,TOTVS,CEO / Sócio
+916,Empresa 0916 · Tecnologia,Empresa 0916,2025-04-25,2025-05-24,Perdido,Perdido,17400.0,Orgânico (SEO),Tecnologia,51-200,Sudeste,TOTVS,Diretor(a) de RH
+917,Empresa 0917 · Varejo,Empresa 0917,2025-05-18,2025-06-19,Perdido,Perdido,2900.0,Outbound,Varejo,1-50,Nordeste,SAP,Analista
+918,Empresa 0918 · Tecnologia,Empresa 0918,2024-12-16,2025-01-27,Perdido,Perdido,30900.0,Google Ads,Tecnologia,1000+,Sudeste,Senior,Gerente de T&D
+919,Empresa 0919 · Tecnologia,Empresa 0919,2025-11-12,2026-04-18,Perdido,Perdido,24300.0,Orgânico (SEO),Tecnologia,201-1000,Sudeste,Senior,Analista
+920,Empresa 0920 · Tecnologia,Empresa 0920,2024-10-27,2025-01-11,Aberto,Proposta,18100.0,LinkedIn Ads,Tecnologia,201-1000,Sudeste,Senior,CEO / Sócio
+921,Empresa 0921 · Tecnologia,Empresa 0921,2024-10-29,2024-12-22,Ganho,Ganho,37400.0,Orgânico (SEO),Tecnologia,1000+,Sul,SAP,Gerente de T&D
+922,Empresa 0922 · Tecnologia,Empresa 0922,2026-01-24,2026-03-10,Perdido,Perdido,15700.0,Google Ads,Tecnologia,51-200,Norte,Outro,CEO / Sócio
+923,Empresa 0923 · Serviços,Empresa 0923,2025-04-13,2025-05-11,Perdido,Perdido,4700.0,Orgânico (SEO),Serviços,1-50,Nordeste,Planilha / nenhum,CEO / Sócio
+924,Empresa 0924 · Educação,Empresa 0924,2026-07-03,2026-12-28,Aberto,Proposta,56200.0,Indicação,Educação,1000+,Sudeste,Senior,Gerente de T&D
+925,Empresa 0925 · Financeiro,Empresa 0925,2025-12-23,2026-03-16,Perdido,Perdido,4800.0,Eventos,Financeiro,1-50,Centro-Oeste,Planilha / nenhum,Analista
+926,Empresa 0926 · Saúde,Empresa 0926,2026-03-27,2026-05-16,Perdido,Perdido,32100.0,Google Ads,Saúde,201-1000,Sudeste,SAP,Diretor(a) de RH
+927,Empresa 0927 · Serviços,Empresa 0927,2026-06-15,2026-09-26,Perdido,Perdido,5400.0,Indicação,Serviços,1-50,Norte,Planilha / nenhum,TI
+928,Empresa 0928 · Indústria,Empresa 0928,2024-11-19,2025-01-23,Ganho,Ganho,22100.0,Orgânico (SEO),Indústria,201-1000,Sudeste,Planilha / nenhum,Diretor(a) de RH
+929,Empresa 0929 · Financeiro,Empresa 0929,2026-09-11,2027-01-05,Aberto,Proposta,15500.0,Orgânico (SEO),Financeiro,201-1000,Nordeste,Planilha / nenhum,CEO / Sócio
+930,Empresa 0930 · Varejo,Empresa 0930,2024-11-24,2025-02-15,Aberto,Proposta,6900.0,Outbound,Varejo,1-50,Centro-Oeste,Outro,Gerente de T&D
+931,Empresa 0931 · Indústria,Empresa 0931,2024-11-12,2025-02-12,Ganho,Ganho,17000.0,Eventos,Indústria,51-200,Sudeste,Planilha / nenhum,CEO / Sócio
+932,Empresa 0932 · Financeiro,Empresa 0932,2026-10-15,2027-01-23,Aberto,Proposta,57000.0,Orgânico (SEO),Financeiro,201-1000,Sul,Planilha / nenhum,Diretor(a) de RH
+933,Empresa 0933 · Serviços,Empresa 0933,2026-06-30,2026-07-30,Perdido,Perdido,12100.0,Indicação,Serviços,51-200,Sul,TOTVS,CEO / Sócio
+934,Empresa 0934 · Tecnologia,Empresa 0934,2026-10-29,2026-12-28,Aberto,Proposta,8000.0,LinkedIn Ads,Tecnologia,1-50,Sul,Outro,CEO / Sócio
+935,Empresa 0935 · Tecnologia,Empresa 0935,2026-09-27,2027-01-04,Aberto,Proposta,32500.0,Outbound,Tecnologia,201-1000,Sudeste,Outro,Analista
+936,Empresa 0936 · Tecnologia,Empresa 0936,2025-09-22,2025-11-06,Perdido,Perdido,47500.0,Indicação,Tecnologia,1000+,Centro-Oeste,Outro,Gerente de T&D
+937,Empresa 0937 · Financeiro,Empresa 0937,2025-09-02,2025-10-04,Perdido,Perdido,5900.0,Google Ads,Financeiro,1-50,Sudeste,Planilha / nenhum,Analista
+938,Empresa 0938 · Financeiro,Empresa 0938,2025-01-18,2025-02-02,Perdido,Perdido,1400.0,Google Ads,Financeiro,1-50,Nordeste,Planilha / nenhum,Analista
+939,Empresa 0939 · Financeiro,Empresa 0939,2025-10-04,2025-11-26,Aberto,Proposta,30100.0,LinkedIn Ads,Financeiro,201-1000,Sudeste,Outro,Gerente de T&D
+940,Empresa 0940 · Saúde,Empresa 0940,2025-04-23,2025-07-11,Aberto,Proposta,14700.0,LinkedIn Ads,Saúde,51-200,Sudeste,Outro,Gerente de T&D
+941,Empresa 0941 · Serviços,Empresa 0941,2026-05-30,2026-06-22,Ganho,Ganho,17400.0,Orgânico (SEO),Serviços,51-200,Sudeste,TOTVS,Gerente de T&D
+942,Empresa 0942 · Indústria,Empresa 0942,2025-01-04,2025-05-09,Aberto,Proposta,5800.0,Orgânico (SEO),Indústria,1-50,Sudeste,Senior,CEO / Sócio
+943,Empresa 0943 · Varejo,Empresa 0943,2026-07-18,2026-09-12,Aberto,Proposta,13000.0,LinkedIn Ads,Varejo,1-50,Norte,Planilha / nenhum,Gerente de T&D
+944,Empresa 0944 · Tecnologia,Empresa 0944,2026-03-12,2026-05-03,Perdido,Perdido,2700.0,Orgânico (SEO),Tecnologia,1-50,Centro-Oeste,Senior,Analista
+945,Empresa 0945 · Indústria,Empresa 0945,2025-09-10,2025-10-20,Perdido,Perdido,12900.0,Indicação,Indústria,51-200,Sul,TOTVS,Analista
+946,Empresa 0946 · Financeiro,Empresa 0946,2024-10-16,2024-11-22,Perdido,Perdido,7300.0,LinkedIn Ads,Financeiro,1-50,Sudeste,Planilha / nenhum,Diretor(a) de RH
+947,Empresa 0947 · Financeiro,Empresa 0947,2025-04-07,2025-05-25,Perdido,Perdido,31300.0,Google Ads,Financeiro,201-1000,Sudeste,Outro,Analista
+948,Empresa 0948 · Saúde,Empresa 0948,2025-10-22,2025-12-10,Perdido,Perdido,12800.0,Google Ads,Saúde,51-200,Centro-Oeste,TOTVS,CEO / Sócio
+949,Empresa 0949 · Saúde,Empresa 0949,2026-03-01,2026-04-05,Perdido,Perdido,13100.0,Outbound,Saúde,1-50,Nordeste,Senior,TI
+950,Empresa 0950 · Educação,Empresa 0950,2026-02-21,2026-03-19,Perdido,Perdido,9900.0,LinkedIn Ads,Educação,51-200,Sul,Outro,CEO / Sócio
+951,Empresa 0951 · Financeiro,Empresa 0951,2025-01-30,2025-02-24,Perdido,Perdido,11900.0,LinkedIn Ads,Financeiro,201-1000,Sudeste,Outro,TI
+952,Empresa 0952 · Tecnologia,Empresa 0952,2026-02-01,2026-03-16,Aberto,Proposta,47600.0,Outbound,Tecnologia,201-1000,Nordeste,Planilha / nenhum,CEO / Sócio
+953,Empresa 0953 · Tecnologia,Empresa 0953,2026-11-02,2027-02-26,Aberto,Proposta,22300.0,Eventos,Tecnologia,201-1000,Centro-Oeste,Planilha / nenhum,TI
+954,Empresa 0954 · Educação,Empresa 0954,2026-08-10,2026-10-02,Aberto,Proposta,21600.0,Outbound,Educação,201-1000,Nordeste,SAP,Analista
+955,Empresa 0955 · Varejo,Empresa 0955,2025-02-07,2025-03-14,Perdido,Perdido,8200.0,LinkedIn Ads,Varejo,1-50,Sudeste,Outro,CEO / Sócio
+956,Empresa 0956 · Educação,Empresa 0956,2024-12-21,2025-01-19,Perdido,Perdido,64200.0,LinkedIn Ads,Educação,201-1000,Sudeste,Planilha / nenhum,Diretor(a) de RH
+957,Empresa 0957 · Saúde,Empresa 0957,2025-07-19,2025-08-18,Perdido,Perdido,13400.0,Eventos,Saúde,1-50,Sudeste,SAP,TI
+958,Empresa 0958 · Financeiro,Empresa 0958,2025-11-30,2026-01-04,Perdido,Perdido,18500.0,LinkedIn Ads,Financeiro,201-1000,Nordeste,Outro,Analista
+959,Empresa 0959 · Indústria,Empresa 0959,2026-03-14,2026-04-04,Perdido,Perdido,21700.0,Orgânico (SEO),Indústria,51-200,Sul,Senior,TI
+960,Empresa 0960 · Tecnologia,Empresa 0960,2025-08-07,2025-10-11,Perdido,Perdido,23900.0,LinkedIn Ads,Tecnologia,1000+,Sudeste,TOTVS,TI
+961,Empresa 0961 · Serviços,Empresa 0961,2025-12-19,2026-02-27,Perdido,Perdido,17400.0,Orgânico (SEO),Serviços,51-200,Sudeste,TOTVS,CEO / Sócio
+962,Empresa 0962 · Serviços,Empresa 0962,2026-09-26,2026-12-17,Aberto,Proposta,6100.0,LinkedIn Ads,Serviços,51-200,Centro-Oeste,TOTVS,CEO / Sócio
+963,Empresa 0963 · Indústria,Empresa 0963,2026-01-08,2026-02-06,Perdido,Perdido,18500.0,Orgânico (SEO),Indústria,201-1000,Nordeste,Outro,Analista
+964,Empresa 0964 · Saúde,Empresa 0964,2025-05-08,2025-06-28,Perdido,Perdido,13400.0,Eventos,Saúde,1-50,Sul,Outro,Gerente de T&D
+965,Empresa 0965 · Indústria,Empresa 0965,2026-03-24,2026-04-28,Perdido,Perdido,25000.0,Eventos,Indústria,51-200,Sudeste,Outro,Diretor(a) de RH
+966,Empresa 0966 · Tecnologia,Empresa 0966,2025-11-22,2025-12-20,Perdido,Perdido,20400.0,Outbound,Tecnologia,1-50,Sudeste,Senior,TI
+967,Empresa 0967 · Saúde,Empresa 0967,2025-02-08,2025-03-16,Perdido,Perdido,13700.0,Eventos,Saúde,51-200,Sudeste,Planilha / nenhum,Analista
+968,Empresa 0968 · Indústria,Empresa 0968,2025-10-04,2025-12-19,Perdido,Perdido,9400.0,Google Ads,Indústria,1-50,Sul,SAP,TI
+969,Empresa 0969 · Indústria,Empresa 0969,2024-11-02,2025-01-03,Perdido,Perdido,53500.0,Google Ads,Indústria,201-1000,Centro-Oeste,Senior,TI
+970,Empresa 0970 · Educação,Empresa 0970,2026-08-15,2026-08-31,Perdido,Perdido,9900.0,Google Ads,Educação,1-50,Sudeste,Planilha / nenhum,Analista
+971,Empresa 0971 · Financeiro,Empresa 0971,2026-10-06,2026-12-31,Aberto,Proposta,9700.0,Outbound,Financeiro,51-200,Norte,Outro,Diretor(a) de RH
+972,Empresa 0972 · Tecnologia,Empresa 0972,2026-06-10,2026-08-20,Aberto,Proposta,4300.0,Eventos,Tecnologia,1-50,Sudeste,Planilha / nenhum,Analista
+973,Empresa 0973 · Saúde,Empresa 0973,2026-03-11,2026-05-09,Aberto,Proposta,7000.0,Eventos,Saúde,51-200,Nordeste,TOTVS,Analista
+974,Empresa 0974 · Saúde,Empresa 0974,2026-05-30,2026-06-22,Aberto,Proposta,15300.0,Google Ads,Saúde,1-50,Norte,Planilha / nenhum,CEO / Sócio
+975,Empresa 0975 · Indústria,Empresa 0975,2026-08-28,2026-09-15,Perdido,Perdido,3500.0,Outbound,Indústria,1-50,Sudeste,Planilha / nenhum,Analista
+976,Empresa 0976 · Varejo,Empresa 0976,2025-01-16,2025-02-15,Ganho,Ganho,9800.0,Indicação,Varejo,51-200,Sudeste,Planilha / nenhum,CEO / Sócio
+977,Empresa 0977 · Varejo,Empresa 0977,2025-11-07,2026-02-11,Aberto,Proposta,9400.0,Orgânico (SEO),Varejo,1-50,Sudeste,TOTVS,CEO / Sócio
+978,Empresa 0978 · Educação,Empresa 0978,2025-11-11,2026-01-02,Perdido,Perdido,7300.0,Outbound,Educação,51-200,Sudeste,SAP,Analista
+979,Empresa 0979 · Educação,Empresa 0979,2024-10-18,2025-02-16,Ganho,Ganho,5300.0,Google Ads,Educação,1-50,Nordeste,Senior,Diretor(a) de RH
+980,Empresa 0980 · Financeiro,Empresa 0980,2026-05-10,2026-05-29,Perdido,Perdido,10400.0,Orgânico (SEO),Financeiro,1-50,Sudeste,Planilha / nenhum,Gerente de T&D
+981,Empresa 0981 · Educação,Empresa 0981,2025-03-19,2025-05-04,Aberto,Proposta,11100.0,Outbound,Educação,1-50,Sudeste,SAP,Analista
+982,Empresa 0982 · Indústria,Empresa 0982,2026-04-26,2026-05-14,Perdido,Perdido,15800.0,LinkedIn Ads,Indústria,51-200,Norte,Planilha / nenhum,CEO / Sócio
+983,Empresa 0983 · Educação,Empresa 0983,2025-07-12,2025-08-23,Perdido,Perdido,40500.0,Orgânico (SEO),Educação,1000+,Sudeste,Planilha / nenhum,CEO / Sócio
+984,Empresa 0984 · Varejo,Empresa 0984,2025-01-23,2025-03-16,Perdido,Perdido,10200.0,Outbound,Varejo,1-50,Norte,Outro,Gerente de T&D
+985,Empresa 0985 · Saúde,Empresa 0985,2025-10-27,2025-11-29,Perdido,Perdido,16500.0,LinkedIn Ads,Saúde,51-200,Norte,TOTVS,CEO / Sócio
+986,Empresa 0986 · Serviços,Empresa 0986,2026-04-29,2026-06-08,Perdido,Perdido,16300.0,Outbound,Serviços,201-1000,Sul,Outro,CEO / Sócio
+987,Empresa 0987 · Financeiro,Empresa 0987,2025-09-07,2025-11-08,Perdido,Perdido,14000.0,Google Ads,Financeiro,51-200,Centro-Oeste,Senior,TI
+988,Empresa 0988 · Educação,Empresa 0988,2025-10-09,2026-03-26,Perdido,Perdido,17300.0,Eventos,Educação,201-1000,Sudeste,Outro,Analista
+989,Empresa 0989 · Educação,Empresa 0989,2024-11-17,2025-04-15,Perdido,Perdido,7500.0,Google Ads,Educação,1-50,Sudeste,SAP,Diretor(a) de RH
+990,Empresa 0990 · Saúde,Empresa 0990,2025-07-05,2025-09-16,Perdido,Perdido,13300.0,Eventos,Saúde,51-200,Sudeste,Outro,TI
+991,Empresa 0991 · Indústria,Empresa 0991,2025-10-20,2025-12-24,Perdido,Perdido,12000.0,Google Ads,Indústria,1-50,Sudeste,Senior,Gerente de T&D
+992,Empresa 0992 · Tecnologia,Empresa 0992,2025-10-08,2025-12-02,Perdido,Perdido,14200.0,Indicação,Tecnologia,51-200,Sudeste,Outro,TI
+993,Empresa 0993 · Tecnologia,Empresa 0993,2025-10-20,2025-12-30,Perdido,Perdido,12300.0,Outbound,Tecnologia,1-50,Sudeste,SAP,Analista
+994,Empresa 0994 · Serviços,Empresa 0994,2026-06-12,2026-07-17,Perdido,Perdido,16300.0,Google Ads,Serviços,51-200,Centro-Oeste,Senior,CEO / Sócio
+995,Empresa 0995 · Varejo,Empresa 0995,2026-05-18,2026-06-03,Perdido,Perdido,11100.0,LinkedIn Ads,Varejo,51-200,Sudeste,Outro,Analista
+996,Empresa 0996 · Financeiro,Empresa 0996,2024-12-10,2025-01-25,Ganho,Ganho,14700.0,Orgânico (SEO),Financeiro,51-200,Nordeste,TOTVS,Gerente de T&D
+997,Empresa 0997 · Tecnologia,Empresa 0997,2025-03-24,2025-05-13,Perdido,Perdido,19000.0,Eventos,Tecnologia,201-1000,Centro-Oeste,Outro,Diretor(a) de RH
+998,Empresa 0998 · Saúde,Empresa 0998,2026-05-25,2026-07-08,Aberto,Proposta,7700.0,Orgânico (SEO),Saúde,1-50,Sudeste,TOTVS,Analista
+999,Empresa 0999 · Educação,Empresa 0999,2026-09-25,2026-10-15,Perdido,Perdido,24500.0,Outbound,Educação,51-200,Norte,TOTVS,Gerente de T&D
+1000,Empresa 1000 · Saúde,Empresa 1000,2025-07-21,2025-08-15,Perdido,Perdido,18200.0,Outbound,Saúde,51-200,Sul,Outro,Gerente de T&D
+1001,Empresa 1001 · Educação,Empresa 1001,2025-08-17,2025-09-22,Perdido,Perdido,6100.0,Google Ads,Educação,1-50,Sudeste,SAP,Diretor(a) de RH
+1002,Empresa 1002 · Varejo,Empresa 1002,2024-10-31,2024-11-25,Perdido,Perdido,16400.0,Outbound,Varejo,201-1000,Sudeste,Planilha / nenhum,Diretor(a) de RH
+1003,Empresa 1003 · Financeiro,Empresa 1003,2026-03-20,2026-07-03,Perdido,Perdido,13900.0,Indicação,Financeiro,1-50,Sudeste,TOTVS,Analista
+1004,Empresa 1004 · Tecnologia,Empresa 1004,2026-05-11,2026-06-22,Perdido,Perdido,4100.0,Google Ads,Tecnologia,1-50,Sul,Planilha / nenhum,Diretor(a) de RH
+1005,Empresa 1005 · Educação,Empresa 1005,2026-08-01,2026-11-16,Aberto,Proposta,15000.0,Eventos,Educação,1-50,Sudeste,Planilha / nenhum,Diretor(a) de RH
+1006,Empresa 1006 · Educação,Empresa 1006,2026-02-16,2026-06-07,Ganho,Ganho,15500.0,Google Ads,Educação,201-1000,Sudeste,Outro,Diretor(a) de RH
+1007,Empresa 1007 · Varejo,Empresa 1007,2026-11-06,2027-01-30,Aberto,Proposta,9400.0,Orgânico (SEO),Varejo,51-200,Norte,Senior,Analista
+1008,Empresa 1008 · Educação,Empresa 1008,2026-08-28,2027-05-01,Aberto,Proposta,47600.0,Eventos,Educação,1000+,Sul,Planilha / nenhum,Gerente de T&D
+1009,Empresa 1009 · Indústria,Empresa 1009,2026-09-23,2026-11-26,Aberto,Proposta,11700.0,Google Ads,Indústria,51-200,Sudeste,TOTVS,CEO / Sócio
+1010,Empresa 1010 · Tecnologia,Empresa 1010,2025-01-07,2025-01-15,Perdido,Perdido,8000.0,Orgânico (SEO),Tecnologia,1-50,Sudeste,Outro,Gerente de T&D
+1011,Empresa 1011 · Varejo,Empresa 1011,2025-10-14,2025-11-18,Perdido,Perdido,21400.0,LinkedIn Ads,Varejo,201-1000,Nordeste,Planilha / nenhum,TI
+1012,Empresa 1012 · Varejo,Empresa 1012,2025-07-25,2025-09-16,Perdido,Perdido,13400.0,Outbound,Varejo,1-50,Sudeste,Senior,Analista
+1013,Empresa 1013 · Financeiro,Empresa 1013,2025-03-16,2025-05-27,Perdido,Perdido,12000.0,LinkedIn Ads,Financeiro,201-1000,Nordeste,Planilha / nenhum,Diretor(a) de RH
+1014,Empresa 1014 · Indústria,Empresa 1014,2025-07-02,2025-10-05,Perdido,Perdido,30300.0,Outbound,Indústria,1000+,Sudeste,Senior,Diretor(a) de RH
+1015,Empresa 1015 · Serviços,Empresa 1015,2026-07-19,2026-10-10,Perdido,Perdido,41500.0,Google Ads,Serviços,1000+,Sudeste,SAP,Analista
+1016,Empresa 1016 · Tecnologia,Empresa 1016,2025-07-25,2025-08-14,Perdido,Perdido,9500.0,Orgânico (SEO),Tecnologia,1-50,Sudeste,SAP,CEO / Sócio
+1017,Empresa 1017 · Saúde,Empresa 1017,2026-05-14,2026-06-04,Perdido,Perdido,11000.0,LinkedIn Ads,Saúde,1-50,Nordeste,TOTVS,Gerente de T&D
+1018,Empresa 1018 · Indústria,Empresa 1018,2025-07-20,2025-08-31,Perdido,Perdido,17300.0,LinkedIn Ads,Indústria,1-50,Sudeste,Outro,Analista
+1019,Empresa 1019 · Financeiro,Empresa 1019,2026-07-31,2026-08-23,Perdido,Perdido,16700.0,LinkedIn Ads,Financeiro,51-200,Sudeste,Senior,Diretor(a) de RH
+1020,Empresa 1020 · Saúde,Empresa 1020,2025-08-13,2025-09-14,Perdido,Perdido,9200.0,Google Ads,Saúde,51-200,Sudeste,Outro,CEO / Sócio
+1021,Empresa 1021 · Financeiro,Empresa 1021,2026-02-16,2026-05-04,Perdido,Perdido,11000.0,Outbound,Financeiro,51-200,Sudeste,Outro,CEO / Sócio
+1022,Empresa 1022 · Indústria,Empresa 1022,2026-03-22,2026-03-29,Perdido,Perdido,4600.0,Google Ads,Indústria,1-50,Norte,TOTVS,Analista
+1023,Empresa 1023 · Saúde,Empresa 1023,2026-10-15,2026-12-16,Aberto,Proposta,41100.0,Outbound,Saúde,201-1000,Sudeste,TOTVS,Analista
+1024,Empresa 1024 · Saúde,Empresa 1024,2026-04-23,2026-06-14,Perdido,Perdido,12400.0,LinkedIn Ads,Saúde,51-200,Norte,TOTVS,Analista
+1025,Empresa 1025 · Indústria,Empresa 1025,2025-07-06,2025-10-17,Perdido,Perdido,6200.0,Orgânico (SEO),Indústria,1-50,Nordeste,Planilha / nenhum,Gerente de T&D
+1026,Empresa 1026 · Tecnologia,Empresa 1026,2026-02-21,2026-03-28,Perdido,Perdido,12500.0,Google Ads,Tecnologia,1-50,Sudeste,Outro,Analista
+1027,Empresa 1027 · Serviços,Empresa 1027,2026-08-14,2026-12-08,Aberto,Proposta,18200.0,Google Ads,Serviços,201-1000,Sudeste,Outro,TI
+1028,Empresa 1028 · Tecnologia,Empresa 1028,2025-10-22,2025-11-18,Perdido,Perdido,14000.0,Google Ads,Tecnologia,51-200,Centro-Oeste,SAP,Gerente de T&D
+1029,Empresa 1029 · Saúde,Empresa 1029,2026-02-19,2026-05-06,Perdido,Perdido,30900.0,Orgânico (SEO),Saúde,1000+,Nordeste,Outro,Analista
+1030,Empresa 1030 · Varejo,Empresa 1030,2025-10-02,2025-12-15,Perdido,Perdido,20900.0,Google Ads,Varejo,201-1000,Sudeste,Planilha / nenhum,Gerente de T&D
+1031,Empresa 1031 · Indústria,Empresa 1031,2026-02-18,2026-03-20,Perdido,Perdido,8000.0,Indicação,Indústria,1-50,Norte,Planilha / nenhum,TI
+1032,Empresa 1032 · Saúde,Empresa 1032,2024-11-25,2025-01-14,Perdido,Perdido,18600.0,Google Ads,Saúde,51-200,Sudeste,Outro,Analista
+1033,Empresa 1033 · Serviços,Empresa 1033,2026-06-28,2026-09-14,Aberto,Proposta,16000.0,LinkedIn Ads,Serviços,51-200,Sul,Planilha / nenhum,Analista
+1034,Empresa 1034 · Indústria,Empresa 1034,2026-04-20,2026-07-07,Perdido,Perdido,10100.0,Eventos,Indústria,51-200,Sudeste,Outro,Gerente de T&D
+1035,Empresa 1035 · Varejo,Empresa 1035,2026-01-17,2026-02-07,Perdido,Perdido,12200.0,Outbound,Varejo,51-200,Centro-Oeste,Senior,Gerente de T&D
+1036,Empresa 1036 · Varejo,Empresa 1036,2026-06-16,2026-07-24,Ganho,Ganho,7800.0,Eventos,Varejo,1-50,Sudeste,Outro,Diretor(a) de RH
+1037,Empresa 1037 · Saúde,Empresa 1037,2026-06-16,2026-08-25,Ganho,Ganho,22000.0,Outbound,Saúde,201-1000,Sudeste,SAP,CEO / Sócio
+1038,Empresa 1038 · Serviços,Empresa 1038,2026-01-23,2026-02-09,Perdido,Perdido,11600.0,LinkedIn Ads,Serviços,1-50,Sul,TOTVS,Gerente de T&D
+1039,Empresa 1039 · Financeiro,Empresa 1039,2026-06-18,2026-07-25,Perdido,Perdido,6200.0,Outbound,Financeiro,1-50,Nordeste,TOTVS,Analista
+1040,Empresa 1040 · Serviços,Empresa 1040,2026-03-22,2026-04-13,Perdido,Perdido,35200.0,Google Ads,Serviços,51-200,Sudeste,SAP,Analista
+1041,Empresa 1041 · Financeiro,Empresa 1041,2026-07-24,2026-10-03,Ganho,Ganho,34000.0,Orgânico (SEO),Financeiro,201-1000,Sul,SAP,Diretor(a) de RH
+1042,Empresa 1042 · Financeiro,Empresa 1042,2026-01-23,2026-03-24,Perdido,Perdido,16000.0,Orgânico (SEO),Financeiro,51-200,Sudeste,SAP,Diretor(a) de RH
+1043,Empresa 1043 · Indústria,Empresa 1043,2024-12-14,2025-01-20,Perdido,Perdido,3800.0,Google Ads,Indústria,1-50,Sudeste,SAP,TI
+1044,Empresa 1044 · Tecnologia,Empresa 1044,2026-10-31,2027-02-10,Aberto,Proposta,17700.0,Google Ads,Tecnologia,201-1000,Sudeste,Planilha / nenhum,Gerente de T&D
+1045,Empresa 1045 · Indústria,Empresa 1045,2025-06-23,2025-07-14,Perdido,Perdido,5000.0,Google Ads,Indústria,1-50,Sudeste,Outro,Analista
+1046,Empresa 1046 · Tecnologia,Empresa 1046,2025-09-26,2026-01-16,Aberto,Proposta,6600.0,LinkedIn Ads,Tecnologia,1-50,Nordeste,TOTVS,Analista
+1047,Empresa 1047 · Educação,Empresa 1047,2026-06-04,2026-07-15,Aberto,Proposta,7100.0,Indicação,Educação,1-50,Sudeste,TOTVS,TI
+1048,Empresa 1048 · Financeiro,Empresa 1048,2026-05-24,2026-07-12,Aberto,Proposta,15600.0,Indicação,Financeiro,201-1000,Nordeste,Planilha / nenhum,Diretor(a) de RH
+1049,Empresa 1049 · Educação,Empresa 1049,2026-07-01,2026-08-09,Perdido,Perdido,43300.0,Eventos,Educação,201-1000,Sudeste,Planilha / nenhum,CEO / Sócio
+1050,Empresa 1050 · Educação,Empresa 1050,2026-05-21,2026-06-02,Perdido,Perdido,49700.0,Indicação,Educação,201-1000,Norte,TOTVS,Analista
+1051,Empresa 1051 · Serviços,Empresa 1051,2026-01-23,2026-02-26,Perdido,Perdido,11400.0,Indicação,Serviços,51-200,Sudeste,Senior,Diretor(a) de RH
+1052,Empresa 1052 · Educação,Empresa 1052,2025-11-10,2025-12-28,Perdido,Perdido,6100.0,Eventos,Educação,1-50,Sudeste,Outro,Analista
+1053,Empresa 1053 · Serviços,Empresa 1053,2025-09-20,2025-11-28,Perdido,Perdido,17300.0,Google Ads,Serviços,51-200,Sudeste,Senior,Diretor(a) de RH
+1054,Empresa 1054 · Indústria,Empresa 1054,2026-07-22,2026-09-09,Perdido,Perdido,19800.0,Outbound,Indústria,201-1000,Sudeste,TOTVS,Analista
+1055,Empresa 1055 · Indústria,Empresa 1055,2026-09-29,2027-01-18,Aberto,Proposta,6600.0,Eventos,Indústria,1-50,Centro-Oeste,SAP,CEO / Sócio
+1056,Empresa 1056 · Serviços,Empresa 1056,2026-01-27,2026-04-10,Perdido,Perdido,32500.0,Eventos,Serviços,1000+,Norte,TOTVS,Diretor(a) de RH
+1057,Empresa 1057 · Saúde,Empresa 1057,2026-06-19,2026-08-18,Perdido,Perdido,20900.0,Orgânico (SEO),Saúde,51-200,Sul,SAP,Analista
+1058,Empresa 1058 · Saúde,Empresa 1058,2026-02-24,2026-04-26,Perdido,Perdido,21500.0,Outbound,Saúde,1-50,Norte,SAP,Analista
+1059,Empresa 1059 · Educação,Empresa 1059,2025-12-04,2026-02-21,Ganho,Ganho,17500.0,Google Ads,Educação,51-200,Centro-Oeste,Outro,Diretor(a) de RH
+1060,Empresa 1060 · Varejo,Empresa 1060,2026-05-15,2026-08-01,Aberto,Proposta,8300.0,Google Ads,Varejo,51-200,Sudeste,SAP,Analista
+1061,Empresa 1061 · Saúde,Empresa 1061,2026-01-12,2026-02-20,Perdido,Perdido,14600.0,LinkedIn Ads,Saúde,51-200,Sudeste,Planilha / nenhum,Diretor(a) de RH
+1062,Empresa 1062 · Tecnologia,Empresa 1062,2026-06-23,2026-09-06,Perdido,Perdido,17000.0,Google Ads,Tecnologia,201-1000,Norte,Senior,Analista
+1063,Empresa 1063 · Financeiro,Empresa 1063,2025-06-17,2025-10-07,Perdido,Perdido,47600.0,Google Ads,Financeiro,1000+,Sul,Planilha / nenhum,Gerente de T&D
+1064,Empresa 1064 · Educação,Empresa 1064,2024-12-18,2025-03-13,Perdido,Perdido,7300.0,Eventos,Educação,1-50,Sudeste,Senior,CEO / Sócio
+1065,Empresa 1065 · Varejo,Empresa 1065,2025-08-29,2025-09-17,Perdido,Perdido,29100.0,LinkedIn Ads,Varejo,201-1000,Sudeste,Outro,Analista
+1066,Empresa 1066 · Saúde,Empresa 1066,2025-02-18,2025-04-04,Aberto,Proposta,6100.0,Eventos,Saúde,1-50,Sudeste,TOTVS,Diretor(a) de RH
+1067,Empresa 1067 · Saúde,Empresa 1067,2024-11-19,2025-01-07,Ganho,Ganho,12100.0,Google Ads,Saúde,1-50,Centro-Oeste,Planilha / nenhum,Gerente de T&D
+1068,Empresa 1068 · Tecnologia,Empresa 1068,2026-09-18,2026-12-11,Aberto,Proposta,12200.0,Eventos,Tecnologia,51-200,Sudeste,Planilha / nenhum,CEO / Sócio
+1069,Empresa 1069 · Financeiro,Empresa 1069,2025-08-07,2025-12-04,Perdido,Perdido,24100.0,Outbound,Financeiro,201-1000,Sudeste,Outro,Gerente de T&D
+1070,Empresa 1070 · Serviços,Empresa 1070,2026-03-19,2026-04-19,Perdido,Perdido,21600.0,Indicação,Serviços,201-1000,Centro-Oeste,SAP,Gerente de T&D
+1071,Empresa 1071 · Varejo,Empresa 1071,2025-08-23,2025-10-05,Perdido,Perdido,28400.0,Orgânico (SEO),Varejo,201-1000,Norte,Planilha / nenhum,TI
+1072,Empresa 1072 · Educação,Empresa 1072,2026-05-06,2026-05-21,Perdido,Perdido,6300.0,Indicação,Educação,51-200,Centro-Oeste,Planilha / nenhum,Analista
+1073,Empresa 1073 · Educação,Empresa 1073,2025-11-27,2026-01-08,Perdido,Perdido,7200.0,Eventos,Educação,1-50,Sudeste,Planilha / nenhum,Diretor(a) de RH
+1074,Empresa 1074 · Financeiro,Empresa 1074,2025-01-07,2025-01-31,Perdido,Perdido,13500.0,Indicação,Financeiro,201-1000,Sudeste,TOTVS,Gerente de T&D
+1075,Empresa 1075 · Indústria,Empresa 1075,2025-07-23,2025-09-02,Perdido,Perdido,24100.0,Outbound,Indústria,51-200,Sudeste,Outro,CEO / Sócio
+1076,Empresa 1076 · Serviços,Empresa 1076,2026-07-06,2026-07-23,Perdido,Perdido,40300.0,Orgânico (SEO),Serviços,51-200,Sudeste,TOTVS,CEO / Sócio
+1077,Empresa 1077 · Saúde,Empresa 1077,2025-02-28,2025-03-29,Perdido,Perdido,23500.0,Orgânico (SEO),Saúde,1000+,Sudeste,Senior,Analista
+1078,Empresa 1078 · Educação,Empresa 1078,2025-02-26,2025-05-15,Perdido,Perdido,52500.0,Outbound,Educação,1000+,Sul,SAP,TI
+1079,Empresa 1079 · Varejo,Empresa 1079,2026-01-18,2026-02-10,Perdido,Perdido,6000.0,Eventos,Varejo,51-200,Sul,Outro,Analista
+1080,Empresa 1080 · Saúde,Empresa 1080,2024-11-10,2025-02-03,Ganho,Ganho,19500.0,Outbound,Saúde,51-200,Nordeste,SAP,Diretor(a) de RH
+1081,Empresa 1081 · Indústria,Empresa 1081,2025-05-16,2025-06-06,Perdido,Perdido,29400.0,LinkedIn Ads,Indústria,201-1000,Sudeste,SAP,CEO / Sócio
+1082,Empresa 1082 · Tecnologia,Empresa 1082,2026-09-24,2026-12-24,Aberto,Proposta,64000.0,Orgânico (SEO),Tecnologia,1000+,Sudeste,Senior,Diretor(a) de RH
+1083,Empresa 1083 · Varejo,Empresa 1083,2025-08-25,2025-10-25,Perdido,Perdido,15800.0,LinkedIn Ads,Varejo,51-200,Nordeste,TOTVS,CEO / Sócio
+1084,Empresa 1084 · Serviços,Empresa 1084,2025-07-27,2025-08-11,Perdido,Perdido,6300.0,Orgânico (SEO),Serviços,1-50,Nordeste,Outro,Diretor(a) de RH
+1085,Empresa 1085 · Varejo,Empresa 1085,2026-04-25,2026-06-03,Perdido,Perdido,14400.0,Orgânico (SEO),Varejo,1-50,Sul,TOTVS,Diretor(a) de RH
+1086,Empresa 1086 · Indústria,Empresa 1086,2025-11-03,2025-12-21,Perdido,Perdido,8200.0,Google Ads,Indústria,51-200,Sudeste,Outro,Gerente de T&D
+1087,Empresa 1087 · Educação,Empresa 1087,2026-08-04,2026-09-29,Perdido,Perdido,14300.0,Google Ads,Educação,51-200,Sul,SAP,Analista
+1088,Empresa 1088 · Tecnologia,Empresa 1088,2026-01-31,2026-05-04,Perdido,Perdido,4600.0,LinkedIn Ads,Tecnologia,1-50,Sudeste,TOTVS,CEO / Sócio
+1089,Empresa 1089 · Tecnologia,Empresa 1089,2025-08-26,2025-10-24,Perdido,Perdido,25400.0,Orgânico (SEO),Tecnologia,201-1000,Sudeste,Planilha / nenhum,CEO / Sócio
+1090,Empresa 1090 · Serviços,Empresa 1090,2025-01-12,2025-02-03,Perdido,Perdido,8900.0,Indicação,Serviços,51-200,Nordeste,Planilha / nenhum,CEO / Sócio
+1091,Empresa 1091 · Varejo,Empresa 1091,2025-08-18,2025-12-23,Perdido,Perdido,79000.0,Google Ads,Varejo,1000+,Nordeste,Planilha / nenhum,Diretor(a) de RH
+1092,Empresa 1092 · Educação,Empresa 1092,2026-02-21,2026-05-09,Perdido,Perdido,9100.0,Orgânico (SEO),Educação,51-200,Sudeste,Senior,Gerente de T&D
+1093,Empresa 1093 · Financeiro,Empresa 1093,2025-05-12,2025-06-05,Perdido,Perdido,11400.0,Eventos,Financeiro,201-1000,Nordeste,Outro,TI
+1094,Empresa 1094 · Serviços,Empresa 1094,2024-10-22,2024-11-29,Perdido,Perdido,9000.0,Indicação,Serviços,1-50,Norte,SAP,TI
+1095,Empresa 1095 · Serviços,Empresa 1095,2025-03-30,2025-05-23,Perdido,Perdido,12600.0,Eventos,Serviços,1-50,Nordeste,Planilha / nenhum,Analista
+1096,Empresa 1096 · Varejo,Empresa 1096,2025-03-03,2025-04-07,Perdido,Perdido,16900.0,LinkedIn Ads,Varejo,51-200,Norte,SAP,Analista
+1097,Empresa 1097 · Educação,Empresa 1097,2026-10-25,2027-01-18,Aberto,Proposta,36600.0,Indicação,Educação,1000+,Sul,SAP,Analista
+1098,Empresa 1098 · Varejo,Empresa 1098,2025-02-20,2025-06-13,Perdido,Perdido,21600.0,Orgânico (SEO),Varejo,1000+,Sudeste,Outro,TI
+1099,Empresa 1099 · Varejo,Empresa 1099,2026-01-23,2026-03-13,Perdido,Perdido,17700.0,Google Ads,Varejo,51-200,Sudeste,Planilha / nenhum,Diretor(a) de RH
+1100,Empresa 1100 · Tecnologia,Empresa 1100,2025-10-28,2025-12-12,Perdido,Perdido,4500.0,Orgânico (SEO),Tecnologia,51-200,Sudeste,SAP,CEO / Sócio
